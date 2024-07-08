@@ -1,0 +1,161 @@
+sample	group_MD	group	DNA_methylation
+E006	common
+HMDs	Long LOCKs	0.8422945
+E006	common
+PMDs	Long LOCKs	0.804247
+E050	common
+HMDs	Long LOCKs	0.886392
+E050	common
+PMDs	Long LOCKs	0.87267
+E058	common
+HMDs	Long LOCKs	0.7558035
+E058	common
+PMDs	Long LOCKs	0.745634
+E065	common
+HMDs	Long LOCKs	0.829308
+E065	common
+PMDs	Long LOCKs	0.8046315
+E066	common
+HMDs	Long LOCKs	0.804368
+E066	common
+PMDs	Long LOCKs	0.74896
+E079	common
+HMDs	Long LOCKs	0.8204795
+E079	common
+PMDs	Long LOCKs	0.801675
+E084	common
+HMDs	Long LOCKs	0.833284
+E084	common
+PMDs	Long LOCKs	0.833945
+E085	common
+HMDs	Long LOCKs	0.8367085
+E085	common
+PMDs	Long LOCKs	0.839026
+E094	common
+HMDs	Long LOCKs	0.828117
+E094	common
+PMDs	Long LOCKs	0.814039
+E095	common
+HMDs	Long LOCKs	0.8122085
+E095	common
+PMDs	Long LOCKs	0.793246
+E096	common
+HMDs	Long LOCKs	0.8124375
+E096	common
+PMDs	Long LOCKs	0.804742
+E097	common
+HMDs	Long LOCKs	0.782506
+E097	common
+PMDs	Long LOCKs	0.7686665
+E098	common
+HMDs	Long LOCKs	0.784764
+E098	common
+PMDs	Long LOCKs	0.7025215
+E100	common
+HMDs	Long LOCKs	0.783563
+E100	common
+PMDs	Long LOCKs	0.7698245
+E104	common
+HMDs	Long LOCKs	0.802453
+E104	common
+PMDs	Long LOCKs	0.790101
+E105	common
+HMDs	Long LOCKs	0.8066675
+E105	common
+PMDs	Long LOCKs	0.777633
+E106	common
+HMDs	Long LOCKs	0.831947
+E106	common
+PMDs	Long LOCKs	0.8137095
+E109	common
+HMDs	Long LOCKs	0.817695
+E109	common
+PMDs	Long LOCKs	0.802032
+E112	common
+HMDs	Long LOCKs	0.891834
+E112	common
+PMDs	Long LOCKs	0.860031
+E113	common
+HMDs	Long LOCKs	0.8231015
+E113	common
+PMDs	Long LOCKs	0.8007295
+E006	common
+HMDs	Overall	0.89
+E006	common
+PMDs	Overall	0.8223885
+E050	common
+HMDs	Overall	0.900686
+E050	common
+PMDs	Overall	0.8928495
+E058	common
+HMDs	Overall	0.798333
+E058	common
+PMDs	Overall	0.760523
+E112	common
+HMDs	Overall	0.914463
+E112	common
+PMDs	Overall	0.889054
+E100	common
+HMDs	Overall	0.82914
+E100	common
+PMDs	Overall	0.791222
+E104	common
+HMDs	Overall	0.847486
+E104	common
+PMDs	Overall	0.7986715
+E095	common
+HMDs	Overall	0.862211
+E095	common
+PMDs	Overall	0.8114695
+E105	common
+HMDs	Overall	0.857931
+E105	common
+PMDs	Overall	0.804379
+E065	common
+HMDs	Overall	0.849178
+E065	common
+PMDs	Overall	0.808814
+E085	common
+HMDs	Overall	0.8714065
+E085	common
+PMDs	Overall	0.85317
+E084	common
+HMDs	Overall	0.869149
+E084	common
+PMDs	Overall	0.851416
+E109	common
+HMDs	Overall	0.852086
+E109	common
+PMDs	Overall	0.811219
+E106	common
+HMDs	Overall	0.862747
+E106	common
+PMDs	Overall	0.820196
+E079	common
+HMDs	Overall	0.851863
+E079	common
+PMDs	Overall	0.809459
+E094	common
+HMDs	Overall	0.844995
+E094	common
+PMDs	Overall	0.809508
+E097	common
+HMDs	Overall	0.830181
+E097	common
+PMDs	Overall	0.7890075
+E066	common
+HMDs	Overall	0.874138
+E066	common
+PMDs	Overall	0.783638
+E098	common
+HMDs	Overall	0.821871
+E098	common
+PMDs	Overall	0.7075705
+E096	common
+HMDs	Overall	0.864118
+E096	common
+PMDs	Overall	0.8269195
+E113	common
+HMDs	Overall	0.857567
+E113	common
+PMDs	Overall	0.8063375

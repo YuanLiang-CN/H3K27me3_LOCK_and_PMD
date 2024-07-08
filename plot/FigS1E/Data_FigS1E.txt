@@ -1,0 +1,2399 @@
+EID	peak_group	Methylation_domain	Enrichment_score
+E017	Peaks in
+long
+LOCKs	common
+HMDs	0.0020799395717545
+E017	Peaks in
+long
+LOCKs	common
+PMDs	0.0679414171357402
+E017	Peaks in
+short
+LOCKs	common
+HMDs	0.0264428222746458
+E017	Peaks in
+short
+LOCKs	common
+PMDs	0.0394489600434455
+E017	Typical
+peaks	common
+HMDs	0.0289176128585045
+E017	Typical
+peaks	common
+PMDs	0.0395251224903936
+E007	Peaks in
+long
+LOCKs	common
+HMDs	0.026345045791956
+E007	Peaks in
+long
+LOCKs	common
+PMDs	0.0341187313590003
+E007	Peaks in
+short
+LOCKs	common
+HMDs	0.0440072986526755
+E007	Peaks in
+short
+LOCKs	common
+PMDs	0.0320430267757031
+E007	Typical
+peaks	common
+HMDs	0.0366551726679996
+E007	Typical
+peaks	common
+PMDs	0.0368072531505299
+E009	Peaks in
+long
+LOCKs	common
+HMDs	0.0563674989752903
+E009	Peaks in
+long
+LOCKs	common
+PMDs	0.0245162932040909
+E009	Peaks in
+short
+LOCKs	common
+HMDs	0.0748183885708577
+E009	Peaks in
+short
+LOCKs	common
+PMDs	0.0159351634146014
+E009	Typical
+peaks	common
+HMDs	0.0457787264156573
+E009	Typical
+peaks	common
+PMDs	0.0303568009846735
+E010	Peaks in
+long
+LOCKs	common
+HMDs	0.0596063713314554
+E010	Peaks in
+long
+LOCKs	common
+PMDs	0.0216790210572125
+E010	Peaks in
+short
+LOCKs	common
+HMDs	0.0645204059733183
+E010	Peaks in
+short
+LOCKs	common
+PMDs	0.0199232633492441
+E010	Typical
+peaks	common
+HMDs	0.0315550903887634
+E010	Typical
+peaks	common
+PMDs	0.040195038626853
+E013	Peaks in
+long
+LOCKs	common
+HMDs	0.0157057306104126
+E013	Peaks in
+long
+LOCKs	common
+PMDs	0.0437968079263324
+E013	Peaks in
+short
+LOCKs	common
+HMDs	0.0396937290870205
+E013	Peaks in
+short
+LOCKs	common
+PMDs	0.032174892087499
+E013	Typical
+peaks	common
+HMDs	0.0360578579564775
+E013	Typical
+peaks	common
+PMDs	0.037515165945166
+E012	Peaks in
+long
+LOCKs	common
+HMDs	0.00986156816248501
+E012	Peaks in
+long
+LOCKs	common
+PMDs	0.0523923613707123
+E012	Peaks in
+short
+LOCKs	common
+HMDs	0.0228269118194125
+E012	Peaks in
+short
+LOCKs	common
+PMDs	0.0436468867357799
+E012	Typical
+peaks	common
+HMDs	0.0315057746509031
+E012	Typical
+peaks	common
+PMDs	0.0409843124861649
+E011	Peaks in
+long
+LOCKs	common
+HMDs	0.0160654457769566
+E011	Peaks in
+long
+LOCKs	common
+PMDs	0.0480665362203775
+E011	Peaks in
+short
+LOCKs	common
+HMDs	0.0428029951776274
+E011	Peaks in
+short
+LOCKs	common
+PMDs	0.0333676606366178
+E011	Typical
+peaks	common
+HMDs	0.039580909355462
+E011	Typical
+peaks	common
+PMDs	0.0358158424441579
+E004	Peaks in
+long
+LOCKs	common
+HMDs	0.00749574922138469
+E004	Peaks in
+long
+LOCKs	common
+PMDs	0.0411624041051916
+E004	Peaks in
+short
+LOCKs	common
+HMDs	0.0355864349032195
+E004	Peaks in
+short
+LOCKs	common
+PMDs	0.0306459920324893
+E004	Typical
+peaks	common
+HMDs	0.0334155404010746
+E004	Typical
+peaks	common
+PMDs	0.0396536510394037
+E005	Peaks in
+long
+LOCKs	common
+HMDs	0.0229581510082782
+E005	Peaks in
+long
+LOCKs	common
+PMDs	0.036098322780658
+E005	Peaks in
+short
+LOCKs	common
+HMDs	0.0352727423302076
+E005	Peaks in
+short
+LOCKs	common
+PMDs	0.0345389259399918
+E005	Typical
+peaks	common
+HMDs	0.0363942821917643
+E005	Typical
+peaks	common
+PMDs	0.0386061752442477
+E006	Peaks in
+long
+LOCKs	common
+HMDs	0.0032077319210762
+E006	Peaks in
+long
+LOCKs	common
+PMDs	0.0638637319166961
+E006	Peaks in
+short
+LOCKs	common
+HMDs	0.0313806733340326
+E006	Peaks in
+short
+LOCKs	common
+PMDs	0.0365343997449161
+E006	Typical
+peaks	common
+HMDs	0.0324032973485053
+E006	Typical
+peaks	common
+PMDs	0.0369692353655836
+E062	Peaks in
+long
+LOCKs	common
+HMDs	0.00792699645131658
+E062	Peaks in
+long
+LOCKs	common
+PMDs	0.057016696858704
+E062	Peaks in
+short
+LOCKs	common
+HMDs	0.036734176810576
+E062	Peaks in
+short
+LOCKs	common
+PMDs	0.0342564763600565
+E062	Typical
+peaks	common
+HMDs	0.0344399831488401
+E062	Typical
+peaks	common
+PMDs	0.0353351804632236
+E034	Peaks in
+long
+LOCKs	common
+HMDs	0.00643306573359992
+E034	Peaks in
+long
+LOCKs	common
+PMDs	0.0600799325659315
+E034	Peaks in
+short
+LOCKs	common
+HMDs	0.0436885764198784
+E034	Peaks in
+short
+LOCKs	common
+PMDs	0.0300285009142024
+E034	Typical
+peaks	common
+HMDs	0.034088837582537
+E034	Typical
+peaks	common
+PMDs	0.0365478232325083
+E045	Peaks in
+long
+LOCKs	common
+HMDs	0.00805284202224661
+E045	Peaks in
+long
+LOCKs	common
+PMDs	0.0587021011569013
+E045	Peaks in
+short
+LOCKs	common
+HMDs	0.0429254051158697
+E045	Peaks in
+short
+LOCKs	common
+PMDs	0.0327545032178492
+E045	Typical
+peaks	common
+HMDs	0.0316542158967443
+E045	Typical
+peaks	common
+PMDs	0.039430750758404
+E033	Peaks in
+long
+LOCKs	common
+HMDs	0.0129634041505609
+E033	Peaks in
+long
+LOCKs	common
+PMDs	0.0474707601550795
+E033	Peaks in
+short
+LOCKs	common
+HMDs	0.048917959651453
+E033	Peaks in
+short
+LOCKs	common
+PMDs	0.021452481454145
+E033	Typical
+peaks	common
+HMDs	0.040111598278283
+E033	Typical
+peaks	common
+PMDs	0.0365187967232324
+E044	Peaks in
+long
+LOCKs	common
+HMDs	0.00536082923520471
+E044	Peaks in
+long
+LOCKs	common
+PMDs	0.0614218599549178
+E044	Peaks in
+short
+LOCKs	common
+HMDs	0.0372166689578271
+E044	Peaks in
+short
+LOCKs	common
+PMDs	0.0347237638761756
+E044	Typical
+peaks	common
+HMDs	0.0329386669022932
+E044	Typical
+peaks	common
+PMDs	0.0379818993908924
+E043	Peaks in
+long
+LOCKs	common
+HMDs	0.00769636141657061
+E043	Peaks in
+long
+LOCKs	common
+PMDs	0.0573138655254704
+E043	Peaks in
+short
+LOCKs	common
+HMDs	0.0357709194889185
+E043	Peaks in
+short
+LOCKs	common
+PMDs	0.0352267306532145
+E043	Typical
+peaks	common
+HMDs	0.0328101174239995
+E043	Typical
+peaks	common
+PMDs	0.0368242160700976
+E039	Peaks in
+long
+LOCKs	common
+HMDs	0.0138818324988355
+E039	Peaks in
+long
+LOCKs	common
+PMDs	0.050739088727424
+E039	Peaks in
+short
+LOCKs	common
+HMDs	0.036056798158146
+E039	Peaks in
+short
+LOCKs	common
+PMDs	0.0305656500527377
+E039	Typical
+peaks	common
+HMDs	0.0325322252552632
+E039	Typical
+peaks	common
+PMDs	0.0388539573844143
+E041	Peaks in
+long
+LOCKs	common
+HMDs	0.0106931293051658
+E041	Peaks in
+long
+LOCKs	common
+PMDs	0.0553076296926129
+E041	Peaks in
+short
+LOCKs	common
+HMDs	0.0408076875584946
+E041	Peaks in
+short
+LOCKs	common
+PMDs	0.0305130415637285
+E041	Typical
+peaks	common
+HMDs	0.0338040066269938
+E041	Typical
+peaks	common
+PMDs	0.0380997515655689
+E042	Peaks in
+long
+LOCKs	common
+HMDs	0.00537657282098371
+E042	Peaks in
+long
+LOCKs	common
+PMDs	0.0615098735060958
+E042	Peaks in
+short
+LOCKs	common
+HMDs	0.0386634436351323
+E042	Peaks in
+short
+LOCKs	common
+PMDs	0.0340011723859775
+E042	Typical
+peaks	common
+HMDs	0.0300908053088251
+E042	Typical
+peaks	common
+PMDs	0.0412132626792689
+E040	Peaks in
+long
+LOCKs	common
+HMDs	0.00585444258137375
+E040	Peaks in
+long
+LOCKs	common
+PMDs	0.0624309420777163
+E040	Peaks in
+short
+LOCKs	common
+HMDs	0.0420517696822173
+E040	Peaks in
+short
+LOCKs	common
+PMDs	0.0342949768959944
+E040	Typical
+peaks	common
+HMDs	0.0340174950401153
+E040	Typical
+peaks	common
+PMDs	0.038748675445642
+E037	Peaks in
+long
+LOCKs	common
+HMDs	0.00799801006132685
+E037	Peaks in
+long
+LOCKs	common
+PMDs	0.0587010659203351
+E037	Peaks in
+short
+LOCKs	common
+HMDs	0.0466649884799638
+E037	Peaks in
+short
+LOCKs	common
+PMDs	0.0300300041846981
+E037	Typical
+peaks	common
+HMDs	0.0336950422774521
+E037	Typical
+peaks	common
+PMDs	0.0386771792324951
+E048	Peaks in
+long
+LOCKs	common
+HMDs	0.0112489040365684
+E048	Peaks in
+long
+LOCKs	common
+PMDs	0.0547137231920636
+E048	Peaks in
+short
+LOCKs	common
+HMDs	0.0530764394374483
+E048	Peaks in
+short
+LOCKs	common
+PMDs	0.0253518872698102
+E048	Typical
+peaks	common
+HMDs	0.0362853610513195
+E048	Typical
+peaks	common
+PMDs	0.0368906657806874
+E038	Peaks in
+long
+LOCKs	common
+HMDs	0.0124635520393136
+E038	Peaks in
+long
+LOCKs	common
+PMDs	0.0519978706518102
+E038	Peaks in
+short
+LOCKs	common
+HMDs	0.0531476565214917
+E038	Peaks in
+short
+LOCKs	common
+PMDs	0.0251359676098741
+E038	Typical
+peaks	common
+HMDs	0.0335171926956058
+E038	Typical
+peaks	common
+PMDs	0.0395790243448748
+E047	Peaks in
+long
+LOCKs	common
+HMDs	0.0119043633720672
+E047	Peaks in
+long
+LOCKs	common
+PMDs	0.0529966575427875
+E047	Peaks in
+short
+LOCKs	common
+HMDs	0.0462971416993032
+E047	Peaks in
+short
+LOCKs	common
+PMDs	0.028531652941077
+E047	Typical
+peaks	common
+HMDs	0.0355935654927899
+E047	Typical
+peaks	common
+PMDs	0.035721511806284
+E029	Peaks in
+long
+LOCKs	common
+HMDs	0.00734287625647603
+E029	Peaks in
+long
+LOCKs	common
+PMDs	0.0592968051165397
+E029	Peaks in
+short
+LOCKs	common
+HMDs	0.0346334517218823
+E029	Peaks in
+short
+LOCKs	common
+PMDs	0.0351477755061975
+E029	Typical
+peaks	common
+HMDs	0.0357633377300236
+E029	Typical
+peaks	common
+PMDs	0.0338113157094222
+E031	Peaks in
+long
+LOCKs	common
+HMDs	0.0374962387123502
+E031	Peaks in
+long
+LOCKs	common
+PMDs	0.0195795495142676
+E031	Peaks in
+short
+LOCKs	common
+HMDs	0.0763425084860643
+E031	Peaks in
+short
+LOCKs	common
+PMDs	0.0148601755867799
+E031	Typical
+peaks	common
+HMDs	0.0515762607446844
+E031	Typical
+peaks	common
+PMDs	0.0239369015494617
+E035	Peaks in
+long
+LOCKs	common
+HMDs	0.0435909875030441
+E035	Peaks in
+long
+LOCKs	common
+PMDs	0.0263994925555701
+E035	Peaks in
+short
+LOCKs	common
+HMDs	0.0462443515197457
+E035	Peaks in
+short
+LOCKs	common
+PMDs	0.0234544853067799
+E035	Typical
+peaks	common
+HMDs	0.035869726824022
+E035	Typical
+peaks	common
+PMDs	0.0361658422292147
+E051	Peaks in
+long
+LOCKs	common
+HMDs	0.0279976246259656
+E051	Peaks in
+long
+LOCKs	common
+PMDs	0.0394987896017591
+E051	Peaks in
+short
+LOCKs	common
+HMDs	0.049251115434642
+E051	Peaks in
+short
+LOCKs	common
+PMDs	0.0262062557438856
+E051	Typical
+peaks	common
+HMDs	0.0484249771331716
+E051	Typical
+peaks	common
+PMDs	0.0288620987518756
+E050	Peaks in
+long
+LOCKs	common
+HMDs	0.0342650803009886
+E050	Peaks in
+long
+LOCKs	common
+PMDs	0.0347515467627281
+E050	Peaks in
+short
+LOCKs	common
+HMDs	0.0502561489784157
+E050	Peaks in
+short
+LOCKs	common
+PMDs	0.0247427366905193
+E050	Typical
+peaks	common
+HMDs	0.0421742642597324
+E050	Typical
+peaks	common
+PMDs	0.0338967383854211
+E036	Peaks in
+long
+LOCKs	common
+HMDs	0.0338261925252328
+E036	Peaks in
+long
+LOCKs	common
+PMDs	0.0312814546247101
+E036	Peaks in
+short
+LOCKs	common
+HMDs	0.0489255280708902
+E036	Peaks in
+short
+LOCKs	common
+PMDs	0.025836372003564
+E036	Typical
+peaks	common
+HMDs	0.0357105779904773
+E036	Typical
+peaks	common
+PMDs	0.0379450086495464
+E032	Peaks in
+long
+LOCKs	common
+HMDs	0.0261860432765635
+E032	Peaks in
+long
+LOCKs	common
+PMDs	0.0387494694433724
+E032	Peaks in
+short
+LOCKs	common
+HMDs	0.0432857674948297
+E032	Peaks in
+short
+LOCKs	common
+PMDs	0.0271027189335003
+E032	Typical
+peaks	common
+HMDs	0.0426029776450479
+E032	Typical
+peaks	common
+PMDs	0.0303572367027348
+E046	Peaks in
+long
+LOCKs	common
+HMDs	0.00300196112094642
+E046	Peaks in
+long
+LOCKs	common
+PMDs	0.0668756688735458
+E046	Peaks in
+short
+LOCKs	common
+HMDs	0.0299101547527592
+E046	Peaks in
+short
+LOCKs	common
+PMDs	0.0388117362881208
+E046	Typical
+peaks	common
+HMDs	0.0317428987849837
+E046	Typical
+peaks	common
+PMDs	0.0367778442266274
+E030	Peaks in
+long
+LOCKs	common
+HMDs	0.00796481057937088
+E030	Peaks in
+long
+LOCKs	common
+PMDs	0.0563577533172165
+E030	Peaks in
+short
+LOCKs	common
+HMDs	0.0293981284892775
+E030	Peaks in
+short
+LOCKs	common
+PMDs	0.0358848175109894
+E030	Typical
+peaks	common
+HMDs	0.0390141952605442
+E030	Typical
+peaks	common
+PMDs	0.0309946834638185
+E026	Peaks in
+long
+LOCKs	common
+HMDs	0.00276722124145936
+E026	Peaks in
+long
+LOCKs	common
+PMDs	0.0671545797605022
+E026	Peaks in
+short
+LOCKs	common
+HMDs	0.0274306327943188
+E026	Peaks in
+short
+LOCKs	common
+PMDs	0.0381554046637623
+E026	Typical
+peaks	common
+HMDs	0.029390165492268
+E026	Typical
+peaks	common
+PMDs	0.0388260987648889
+E049	Peaks in
+long
+LOCKs	common
+HMDs	0.00188280705485184
+E049	Peaks in
+long
+LOCKs	common
+PMDs	0.0675783424011846
+E049	Peaks in
+short
+LOCKs	common
+HMDs	0.0246546246445302
+E049	Peaks in
+short
+LOCKs	common
+PMDs	0.0407615056594697
+E049	Typical
+peaks	common
+HMDs	0.0286601088010125
+E049	Typical
+peaks	common
+PMDs	0.0386979768321394
+E025	Peaks in
+long
+LOCKs	common
+HMDs	0.00679874694380936
+E025	Peaks in
+long
+LOCKs	common
+PMDs	0.0590989428394279
+E025	Peaks in
+short
+LOCKs	common
+HMDs	0.0277420986347061
+E025	Peaks in
+short
+LOCKs	common
+PMDs	0.0401461587055595
+E025	Typical
+peaks	common
+HMDs	0.0333113434089331
+E025	Typical
+peaks	common
+PMDs	0.036142114529681
+E023	Peaks in
+long
+LOCKs	common
+HMDs	0.0118943775030862
+E023	Peaks in
+long
+LOCKs	common
+PMDs	0.0514778555171159
+E023	Peaks in
+short
+LOCKs	common
+HMDs	0.0292983136430535
+E023	Peaks in
+short
+LOCKs	common
+PMDs	0.0302392358678121
+E023	Typical
+peaks	common
+HMDs	0.0461582513570353
+E023	Typical
+peaks	common
+PMDs	0.0246628645887661
+E052	Peaks in
+long
+LOCKs	common
+HMDs	0.0016585237277502
+E052	Peaks in
+long
+LOCKs	common
+PMDs	0.0688881524185253
+E052	Peaks in
+short
+LOCKs	common
+HMDs	0.0272840077588564
+E052	Peaks in
+short
+LOCKs	common
+PMDs	0.0405944278307735
+E052	Typical
+peaks	common
+HMDs	0.0292370394038881
+E052	Typical
+peaks	common
+PMDs	0.040135602026867
+E055	Peaks in
+long
+LOCKs	common
+HMDs	0.00139823629335578
+E055	Peaks in
+long
+LOCKs	common
+PMDs	0.0689976592889888
+E055	Peaks in
+short
+LOCKs	common
+HMDs	0.0140974965737622
+E055	Peaks in
+short
+LOCKs	common
+PMDs	0.0484333855929667
+E055	Typical
+peaks	common
+HMDs	0.0175949851301701
+E055	Typical
+peaks	common
+PMDs	0.0492660014068517
+E056	Peaks in
+long
+LOCKs	common
+HMDs	0.00113266917488803
+E056	Peaks in
+long
+LOCKs	common
+PMDs	0.0699522003372192
+E056	Peaks in
+short
+LOCKs	common
+HMDs	0.00582209690645287
+E056	Peaks in
+short
+LOCKs	common
+PMDs	0.0585187708922573
+E056	Typical
+peaks	common
+HMDs	0.00786498907603584
+E056	Typical
+peaks	common
+PMDs	0.0592613935678976
+E059	Peaks in
+long
+LOCKs	common
+HMDs	0.00606149847878427
+E059	Peaks in
+long
+LOCKs	common
+PMDs	0.0557580870588814
+E059	Peaks in
+short
+LOCKs	common
+HMDs	0.0192711535739587
+E059	Peaks in
+short
+LOCKs	common
+PMDs	0.0445329452970327
+E059	Typical
+peaks	common
+HMDs	0.0241020595704519
+E059	Typical
+peaks	common
+PMDs	0.0426148828202726
+E061	Peaks in
+long
+LOCKs	common
+HMDs	0.00368518673519951
+E061	Peaks in
+long
+LOCKs	common
+PMDs	0.061672789000335
+E061	Peaks in
+short
+LOCKs	common
+HMDs	0.0251916891468255
+E061	Peaks in
+short
+LOCKs	common
+PMDs	0.0412289404019127
+E061	Typical
+peaks	common
+HMDs	0.0243592208992402
+E061	Typical
+peaks	common
+PMDs	0.0443516099451795
+E057	Peaks in
+long
+LOCKs	common
+HMDs	0.00226944134093571
+E057	Peaks in
+long
+LOCKs	common
+PMDs	0.0647094446591869
+E057	Peaks in
+short
+LOCKs	common
+HMDs	0.0177664637915414
+E057	Peaks in
+short
+LOCKs	common
+PMDs	0.0483995143190139
+E057	Typical
+peaks	common
+HMDs	0.0225284855165733
+E057	Typical
+peaks	common
+PMDs	0.045937844631092
+E058	Peaks in
+long
+LOCKs	common
+HMDs	0.00132759236546743
+E058	Peaks in
+long
+LOCKs	common
+PMDs	0.0676625822951151
+E058	Peaks in
+short
+LOCKs	common
+HMDs	0.0182146406607075
+E058	Peaks in
+short
+LOCKs	common
+PMDs	0.0496644054569594
+E058	Typical
+peaks	common
+HMDs	0.0218332333425244
+E058	Typical
+peaks	common
+PMDs	0.0472775141554838
+E028	Peaks in
+long
+LOCKs	common
+HMDs	0.000821906627290296
+E028	Peaks in
+long
+LOCKs	common
+PMDs	0.0720307568801383
+E028	Peaks in
+short
+LOCKs	common
+HMDs	0.0153915713103953
+E028	Peaks in
+short
+LOCKs	common
+PMDs	0.0508051998245626
+E028	Typical
+peaks	common
+HMDs	0.0196369679531503
+E028	Typical
+peaks	common
+PMDs	0.0507448022346172
+E027	Peaks in
+long
+LOCKs	common
+HMDs	0.0168865515572558
+E027	Peaks in
+long
+LOCKs	common
+PMDs	0.0493147740464407
+E027	Peaks in
+short
+LOCKs	common
+HMDs	0.044428874417884
+E027	Peaks in
+short
+LOCKs	common
+PMDs	0.0257621249072264
+E027	Typical
+peaks	common
+HMDs	0.0525329434174895
+E027	Typical
+peaks	common
+PMDs	0.0228139956531301
+E054	Peaks in
+long
+LOCKs	common
+HMDs	0.0324930457101496
+E054	Peaks in
+long
+LOCKs	common
+PMDs	0.0344401092135797
+E054	Peaks in
+short
+LOCKs	common
+HMDs	0.0389623650023769
+E054	Peaks in
+short
+LOCKs	common
+PMDs	0.029013142084781
+E054	Typical
+peaks	common
+HMDs	0.0359043568041305
+E054	Typical
+peaks	common
+PMDs	0.0362795853945308
+E053	Peaks in
+long
+LOCKs	common
+HMDs	0.0271159476477389
+E053	Peaks in
+long
+LOCKs	common
+PMDs	0.0377141936833382
+E053	Peaks in
+short
+LOCKs	common
+HMDs	0.0491104591100969
+E053	Peaks in
+short
+LOCKs	common
+PMDs	0.0272934950519983
+E053	Typical
+peaks	common
+HMDs	0.0363025747213071
+E053	Typical
+peaks	common
+PMDs	0.037308952648396
+E112	Peaks in
+long
+LOCKs	common
+HMDs	0.0247826145490329
+E112	Peaks in
+long
+LOCKs	common
+PMDs	0.0334583982579072
+E112	Peaks in
+short
+LOCKs	common
+HMDs	0.0512534682238272
+E112	Peaks in
+short
+LOCKs	common
+PMDs	0.0248506897918226
+E112	Typical
+peaks	common
+HMDs	0.0430511066632522
+E112	Typical
+peaks	common
+PMDs	0.0320136509081471
+E093	Peaks in
+long
+LOCKs	common
+HMDs	0.0383273871812624
+E093	Peaks in
+long
+LOCKs	common
+PMDs	0.0331059919450955
+E093	Peaks in
+short
+LOCKs	common
+HMDs	0.0373868281493959
+E093	Peaks in
+short
+LOCKs	common
+PMDs	0.0362820245619835
+E093	Typical
+peaks	common
+HMDs	0.0341210794873257
+E093	Typical
+peaks	common
+PMDs	0.0386660707550859
+E071	Peaks in
+long
+LOCKs	common
+HMDs	0.0143804833970666
+E071	Peaks in
+long
+LOCKs	common
+PMDs	0.0506990886683137
+E071	Peaks in
+short
+LOCKs	common
+HMDs	0.0329405441906406
+E071	Peaks in
+short
+LOCKs	common
+PMDs	0.028558263507429
+E071	Typical
+peaks	common
+HMDs	0.0497637279776522
+E071	Typical
+peaks	common
+PMDs	0.0223332958431822
+E074	Peaks in
+long
+LOCKs	common
+HMDs	0.0158753481050792
+E074	Peaks in
+long
+LOCKs	common
+PMDs	0.0492428217204225
+E074	Peaks in
+short
+LOCKs	common
+HMDs	0.03959220288463
+E074	Peaks in
+short
+LOCKs	common
+PMDs	0.0253824850413014
+E074	Typical
+peaks	common
+HMDs	0.0526679511357514
+E074	Typical
+peaks	common
+PMDs	0.0216006522606982
+E068	Peaks in
+long
+LOCKs	common
+HMDs	0.0124161837985208
+E068	Peaks in
+long
+LOCKs	common
+PMDs	0.0521206039478887
+E068	Peaks in
+short
+LOCKs	common
+HMDs	0.0361438933457056
+E068	Peaks in
+short
+LOCKs	common
+PMDs	0.0281505711874003
+E068	Typical
+peaks	common
+HMDs	0.0471461786261913
+E068	Typical
+peaks	common
+PMDs	0.0246050378585344
+E069	Peaks in
+long
+LOCKs	common
+HMDs	0.0169099052176779
+E069	Peaks in
+long
+LOCKs	common
+PMDs	0.0475154977030062
+E069	Peaks in
+short
+LOCKs	common
+HMDs	0.0388220545780233
+E069	Peaks in
+short
+LOCKs	common
+PMDs	0.0253365632942373
+E069	Typical
+peaks	common
+HMDs	0.0483431698626705
+E069	Typical
+peaks	common
+PMDs	0.0247606382080317
+E072	Peaks in
+long
+LOCKs	common
+HMDs	0.0157335180632856
+E072	Peaks in
+long
+LOCKs	common
+PMDs	0.0484989595552783
+E072	Peaks in
+short
+LOCKs	common
+HMDs	0.0354327831153433
+E072	Peaks in
+short
+LOCKs	common
+PMDs	0.0273429887397613
+E072	Typical
+peaks	common
+HMDs	0.0480036070163583
+E072	Typical
+peaks	common
+PMDs	0.0243536924668413
+E067	Peaks in
+long
+LOCKs	common
+HMDs	0.0164764555673895
+E067	Peaks in
+long
+LOCKs	common
+PMDs	0.0474717268106919
+E067	Peaks in
+short
+LOCKs	common
+HMDs	0.0393316587555014
+E067	Peaks in
+short
+LOCKs	common
+PMDs	0.0291026316843446
+E067	Typical
+peaks	common
+HMDs	0.0460514825369023
+E067	Typical
+peaks	common
+PMDs	0.0259394728302625
+E073	Peaks in
+long
+LOCKs	common
+HMDs	0.0117568990394466
+E073	Peaks in
+long
+LOCKs	common
+PMDs	0.0508889875598832
+E073	Peaks in
+short
+LOCKs	common
+HMDs	0.0346106592553943
+E073	Peaks in
+short
+LOCKs	common
+PMDs	0.0297606643083478
+E073	Typical
+peaks	common
+HMDs	0.0439178526289664
+E073	Typical
+peaks	common
+PMDs	0.028240215640702
+E070	Peaks in
+long
+LOCKs	common
+HMDs	0.0293804715137163
+E070	Peaks in
+long
+LOCKs	common
+PMDs	0.0399149521844177
+E070	Peaks in
+short
+LOCKs	common
+HMDs	0.0307125634590082
+E070	Peaks in
+short
+LOCKs	common
+PMDs	0.0382923720504514
+E070	Typical
+peaks	common
+HMDs	0.0297302571654079
+E070	Typical
+peaks	common
+PMDs	0.0413680044668528
+E082	Peaks in
+long
+LOCKs	common
+HMDs	0.0135305225362768
+E082	Peaks in
+long
+LOCKs	common
+PMDs	0.0407428876644229
+E082	Peaks in
+short
+LOCKs	common
+HMDs	0.0343758724322902
+E082	Peaks in
+short
+LOCKs	common
+PMDs	0.0370066126360895
+E082	Typical
+peaks	common
+HMDs	0.0280953638961005
+E082	Typical
+peaks	common
+PMDs	0.0432287665820115
+E081	Peaks in
+long
+LOCKs	common
+HMDs	0.0338133688172209
+E081	Peaks in
+long
+LOCKs	common
+PMDs	0.0273651701199131
+E081	Peaks in
+short
+LOCKs	common
+HMDs	0.0730943803243823
+E081	Peaks in
+short
+LOCKs	common
+PMDs	0.0164729902020221
+E081	Typical
+peaks	common
+HMDs	0.0586345591012098
+E081	Typical
+peaks	common
+PMDs	0.0251098875716042
+E063	Peaks in
+long
+LOCKs	common
+HMDs	0.0106948537375134
+E063	Peaks in
+long
+LOCKs	common
+PMDs	0.0539454827740595
+E063	Peaks in
+short
+LOCKs	common
+HMDs	0.0325408919559772
+E063	Peaks in
+short
+LOCKs	common
+PMDs	0.0305310915971821
+E063	Typical
+peaks	common
+HMDs	0.0436687414950561
+E063	Typical
+peaks	common
+PMDs	0.0262340400914569
+E100	Peaks in
+long
+LOCKs	common
+HMDs	0.00629892002609787
+E100	Peaks in
+long
+LOCKs	common
+PMDs	0.059513152446273
+E100	Peaks in
+short
+LOCKs	common
+HMDs	0.0270937382276463
+E100	Peaks in
+short
+LOCKs	common
+PMDs	0.0352041910009395
+E100	Typical
+peaks	common
+HMDs	0.0357759492604448
+E100	Typical
+peaks	common
+PMDs	0.0316358050715787
+E108	Peaks in
+long
+LOCKs	common
+HMDs	0.00930488608389729
+E108	Peaks in
+long
+LOCKs	common
+PMDs	0.055114552373662
+E108	Peaks in
+short
+LOCKs	common
+HMDs	0.0313737620510803
+E108	Peaks in
+short
+LOCKs	common
+PMDs	0.0345219780271603
+E108	Typical
+peaks	common
+HMDs	0.0366413554729881
+E108	Typical
+peaks	common
+PMDs	0.0316909395863639
+E107	Peaks in
+long
+LOCKs	common
+HMDs	0.0102503424564284
+E107	Peaks in
+long
+LOCKs	common
+PMDs	0.0531962720512281
+E107	Peaks in
+short
+LOCKs	common
+HMDs	0.02906066559457
+E107	Peaks in
+short
+LOCKs	common
+PMDs	0.0351915516593108
+E107	Typical
+peaks	common
+HMDs	0.0344892415924446
+E107	Typical
+peaks	common
+PMDs	0.0345983952753442
+E089	Peaks in
+long
+LOCKs	common
+HMDs	0.0159547327063956
+E089	Peaks in
+long
+LOCKs	common
+PMDs	0.047719680240422
+E089	Peaks in
+short
+LOCKs	common
+HMDs	0.0233603681790659
+E089	Peaks in
+short
+LOCKs	common
+PMDs	0.0401200326711917
+E089	Typical
+peaks	common
+HMDs	0.0307892519492948
+E089	Typical
+peaks	common
+PMDs	0.0415299221716881
+E090	Peaks in
+long
+LOCKs	common
+HMDs	0.0227473086489932
+E090	Peaks in
+long
+LOCKs	common
+PMDs	0.044733061166307
+E090	Peaks in
+short
+LOCKs	common
+HMDs	0.0464673204642171
+E090	Peaks in
+short
+LOCKs	common
+PMDs	0.0307907649847937
+E090	Typical
+peaks	common
+HMDs	0.0386069230812015
+E090	Typical
+peaks	common
+PMDs	0.0336538461965536
+E083	Peaks in
+long
+LOCKs	common
+HMDs	0.0381273054428248
+E083	Peaks in
+long
+LOCKs	common
+PMDs	0.0373006407971624
+E083	Peaks in
+short
+LOCKs	common
+HMDs	0.0602370911370065
+E083	Peaks in
+short
+LOCKs	common
+PMDs	0.0244171750920095
+E083	Typical
+peaks	common
+HMDs	0.0448324673603411
+E083	Typical
+peaks	common
+PMDs	0.0328200792383004
+E104	Peaks in
+long
+LOCKs	common
+HMDs	0.0131951668739171
+E104	Peaks in
+long
+LOCKs	common
+PMDs	0.0519849615633414
+E104	Peaks in
+short
+LOCKs	common
+HMDs	0.0219764442935481
+E104	Peaks in
+short
+LOCKs	common
+PMDs	0.0410699588199527
+E104	Typical
+peaks	common
+HMDs	0.0209317537096388
+E104	Typical
+peaks	common
+PMDs	0.0462266897419469
+E095	Peaks in
+long
+LOCKs	common
+HMDs	0.00555245601831627
+E095	Peaks in
+long
+LOCKs	common
+PMDs	0.0598355092623728
+E095	Peaks in
+short
+LOCKs	common
+HMDs	0.0220838616180523
+E095	Peaks in
+short
+LOCKs	common
+PMDs	0.033927894934811
+E095	Typical
+peaks	common
+HMDs	0.0345632456412424
+E095	Typical
+peaks	common
+PMDs	0.0304930574701932
+E105	Peaks in
+long
+LOCKs	common
+HMDs	0.00872247080709715
+E105	Peaks in
+long
+LOCKs	common
+PMDs	0.0560848430948365
+E105	Peaks in
+short
+LOCKs	common
+HMDs	0.0242066103432834
+E105	Peaks in
+short
+LOCKs	common
+PMDs	0.031489690107985
+E105	Typical
+peaks	common
+HMDs	0.0349114020656847
+E105	Typical
+peaks	common
+PMDs	0.0297747657425347
+E065	Peaks in
+long
+LOCKs	common
+HMDs	0.0111731710291981
+E065	Peaks in
+long
+LOCKs	common
+PMDs	0.0517520932860018
+E065	Peaks in
+short
+LOCKs	common
+HMDs	0.03250246365584
+E065	Peaks in
+short
+LOCKs	common
+PMDs	0.0248236599917064
+E065	Typical
+peaks	common
+HMDs	0.0413515366797716
+E065	Typical
+peaks	common
+PMDs	0.0266821362632132
+E078	Peaks in
+long
+LOCKs	common
+HMDs	0.0143941799645702
+E078	Peaks in
+long
+LOCKs	common
+PMDs	0.0498557420138848
+E078	Peaks in
+short
+LOCKs	common
+HMDs	0.0321054777923635
+E078	Peaks in
+short
+LOCKs	common
+PMDs	0.0317421122682172
+E078	Typical
+peaks	common
+HMDs	0.0448823850304565
+E078	Typical
+peaks	common
+PMDs	0.0262704477755273
+E076	Peaks in
+long
+LOCKs	common
+HMDs	0.0240288497055047
+E076	Peaks in
+long
+LOCKs	common
+PMDs	0.0391879430419826
+E076	Peaks in
+short
+LOCKs	common
+HMDs	0.033502341658231
+E076	Peaks in
+short
+LOCKs	common
+PMDs	0.032949976613388
+E076	Typical
+peaks	common
+HMDs	0.0324423725156426
+E076	Typical
+peaks	common
+PMDs	0.0390861677447037
+E103	Peaks in
+long
+LOCKs	common
+HMDs	0.0094355166416468
+E103	Peaks in
+long
+LOCKs	common
+PMDs	0.0552384914480462
+E103	Peaks in
+short
+LOCKs	common
+HMDs	0.0235046937912396
+E103	Peaks in
+short
+LOCKs	common
+PMDs	0.0355107438982001
+E103	Typical
+peaks	common
+HMDs	0.0277526584915383
+E103	Typical
+peaks	common
+PMDs	0.0395742450596382
+E111	Peaks in
+long
+LOCKs	common
+HMDs	0.0127431729734194
+E111	Peaks in
+long
+LOCKs	common
+PMDs	0.0491533173570676
+E111	Peaks in
+short
+LOCKs	common
+HMDs	0.0214586846206902
+E111	Peaks in
+short
+LOCKs	common
+PMDs	0.0367097280899247
+E111	Typical
+peaks	common
+HMDs	0.0281515977288452
+E111	Typical
+peaks	common
+PMDs	0.0384781894063577
+E092	Peaks in
+long
+LOCKs	common
+HMDs	0.0267684624220087
+E092	Peaks in
+long
+LOCKs	common
+PMDs	0.0364417247234216
+E092	Peaks in
+short
+LOCKs	common
+HMDs	0.0375329008600676
+E092	Peaks in
+short
+LOCKs	common
+PMDs	0.0373656438593274
+E092	Typical
+peaks	common
+HMDs	0.0318582037801505
+E092	Typical
+peaks	common
+PMDs	0.042051172408017
+E085	Peaks in
+long
+LOCKs	common
+HMDs	0.0306976524012953
+E085	Peaks in
+long
+LOCKs	common
+PMDs	0.0378924612547253
+E085	Peaks in
+short
+LOCKs	common
+HMDs	0.043726755882438
+E085	Peaks in
+short
+LOCKs	common
+PMDs	0.0317564994764941
+E085	Typical
+peaks	common
+HMDs	0.0408374997902545
+E085	Typical
+peaks	common
+PMDs	0.034645389179118
+E084	Peaks in
+long
+LOCKs	common
+HMDs	0.0317411530165959
+E084	Peaks in
+long
+LOCKs	common
+PMDs	0.0353313187929104
+E084	Peaks in
+short
+LOCKs	common
+HMDs	0.0460222453684897
+E084	Peaks in
+short
+LOCKs	common
+PMDs	0.0305178044750105
+E084	Typical
+peaks	common
+HMDs	0.0390418443679707
+E084	Typical
+peaks	common
+PMDs	0.0341650155284414
+E109	Peaks in
+long
+LOCKs	common
+HMDs	0.0130261786277031
+E109	Peaks in
+long
+LOCKs	common
+PMDs	0.0535833399390882
+E109	Peaks in
+short
+LOCKs	common
+HMDs	0.0245904658510419
+E109	Peaks in
+short
+LOCKs	common
+PMDs	0.0325532537227485
+E109	Typical
+peaks	common
+HMDs	0.0260078837180423
+E109	Typical
+peaks	common
+PMDs	0.0424865367901503
+E106	Peaks in
+long
+LOCKs	common
+HMDs	0.00668905247147253
+E106	Peaks in
+long
+LOCKs	common
+PMDs	0.0584203007652884
+E106	Peaks in
+short
+LOCKs	common
+HMDs	0.0267358685462935
+E106	Peaks in
+short
+LOCKs	common
+PMDs	0.0384365326382161
+E106	Typical
+peaks	common
+HMDs	0.0253666624283721
+E106	Typical
+peaks	common
+PMDs	0.0421180733004002
+E075	Peaks in
+long
+LOCKs	common
+HMDs	0.00590416003818591
+E075	Peaks in
+long
+LOCKs	common
+PMDs	0.0604157363325407
+E075	Peaks in
+short
+LOCKs	common
+HMDs	0.0233122447395412
+E075	Peaks in
+short
+LOCKs	common
+PMDs	0.0379028882929094
+E075	Typical
+peaks	common
+HMDs	0.0267863255714321
+E075	Typical
+peaks	common
+PMDs	0.0408543174014077
+E101	Peaks in
+long
+LOCKs	common
+HMDs	0.00443313452872187
+E101	Peaks in
+long
+LOCKs	common
+PMDs	0.0651093508474303
+E101	Peaks in
+short
+LOCKs	common
+HMDs	0.0298141085528163
+E101	Peaks in
+short
+LOCKs	common
+PMDs	0.033369700377728
+E101	Typical
+peaks	common
+HMDs	0.0286125362634108
+E101	Typical
+peaks	common
+PMDs	0.0403414692104745
+E102	Peaks in
+long
+LOCKs	common
+HMDs	0.00408406877766187
+E102	Peaks in
+long
+LOCKs	common
+PMDs	0.0632275385772923
+E102	Peaks in
+short
+LOCKs	common
+HMDs	0.0325333463523749
+E102	Peaks in
+short
+LOCKs	common
+PMDs	0.0383908052145232
+E102	Typical
+peaks	common
+HMDs	0.0244310312612197
+E102	Typical
+peaks	common
+PMDs	0.0438942952596244
+E110	Peaks in
+long
+LOCKs	common
+HMDs	0.0245922069883972
+E110	Peaks in
+long
+LOCKs	common
+PMDs	0.0390838492532102
+E110	Peaks in
+short
+LOCKs	common
+HMDs	0.0452284761750567
+E110	Peaks in
+short
+LOCKs	common
+PMDs	0.0264341821325891
+E110	Typical
+peaks	common
+HMDs	0.0366717625277943
+E110	Typical
+peaks	common
+PMDs	0.0352850918877151
+E077	Peaks in
+long
+LOCKs	common
+HMDs	0.00320053522557095
+E077	Peaks in
+long
+LOCKs	common
+PMDs	0.0643050082215238
+E077	Peaks in
+short
+LOCKs	common
+HMDs	0.0279629242967893
+E077	Peaks in
+short
+LOCKs	common
+PMDs	0.0438627709767464
+E077	Typical
+peaks	common
+HMDs	0.028802873966543
+E077	Typical
+peaks	common
+PMDs	0.041718941591915
+E079	Peaks in
+long
+LOCKs	common
+HMDs	0.010884145729181
+E079	Peaks in
+long
+LOCKs	common
+PMDs	0.0535640683761398
+E079	Peaks in
+short
+LOCKs	common
+HMDs	0.0278264342661916
+E079	Peaks in
+short
+LOCKs	common
+PMDs	0.0370883439952609
+E079	Typical
+peaks	common
+HMDs	0.038999405793926
+E079	Typical
+peaks	common
+PMDs	0.0338022219005547
+E094	Peaks in
+long
+LOCKs	common
+HMDs	0.00801788920883087
+E094	Peaks in
+long
+LOCKs	common
+PMDs	0.0569258688580496
+E094	Peaks in
+short
+LOCKs	common
+HMDs	0.0179571337829188
+E094	Peaks in
+short
+LOCKs	common
+PMDs	0.0427271836298594
+E094	Typical
+peaks	common
+HMDs	0.0322712882281886
+E094	Typical
+peaks	common
+PMDs	0.0359048173040041
+E099	Peaks in
+long
+LOCKs	common
+HMDs	0.0026410240165848
+E099	Peaks in
+long
+LOCKs	common
+PMDs	0.0565271213073068
+E099	Peaks in
+short
+LOCKs	common
+HMDs	0.00915418266861481
+E099	Peaks in
+short
+LOCKs	common
+PMDs	0.0533220705633781
+E099	Typical
+peaks	common
+HMDs	0.0189400165265029
+E099	Typical
+peaks	common
+PMDs	0.0510735397112715
+E086	Peaks in
+long
+LOCKs	common
+HMDs	0.040396980752418
+E086	Peaks in
+long
+LOCKs	common
+PMDs	0.0253946131282268
+E086	Peaks in
+short
+LOCKs	common
+HMDs	0.0575942699599757
+E086	Peaks in
+short
+LOCKs	common
+PMDs	0.0182041687731696
+E086	Typical
+peaks	common
+HMDs	0.042266559499779
+E086	Typical
+peaks	common
+PMDs	0.0338732510706153
+E088	Peaks in
+long
+LOCKs	common
+HMDs	0.0223723596119599
+E088	Peaks in
+long
+LOCKs	common
+PMDs	0.0448504125869974
+E088	Peaks in
+short
+LOCKs	common
+HMDs	0.0470231233266234
+E088	Peaks in
+short
+LOCKs	common
+PMDs	0.0300637916157113
+E088	Typical
+peaks	common
+HMDs	0.0374718635559761
+E088	Typical
+peaks	common
+PMDs	0.0348075401617928
+E097	Peaks in
+long
+LOCKs	common
+HMDs	0.0185141187444441
+E097	Peaks in
+long
+LOCKs	common
+PMDs	0.0436390515370668
+E097	Peaks in
+short
+LOCKs	common
+HMDs	0.0339718408623129
+E097	Peaks in
+short
+LOCKs	common
+PMDs	0.0319568694176523
+E097	Typical
+peaks	common
+HMDs	0.0359587344403168
+E097	Typical
+peaks	common
+PMDs	0.0369830724776003
+E087	Peaks in
+long
+LOCKs	common
+HMDs	0.0332535437238065
+E087	Peaks in
+long
+LOCKs	common
+PMDs	0.030316644276628
+E087	Peaks in
+short
+LOCKs	common
+HMDs	0.0435460118921885
+E087	Peaks in
+short
+LOCKs	common
+PMDs	0.027530363631065
+E087	Typical
+peaks	common
+HMDs	0.0313400934056375
+E087	Typical
+peaks	common
+PMDs	0.041332705138135
+E080	Peaks in
+long
+LOCKs	common
+HMDs	0.0174394498604209
+E080	Peaks in
+long
+LOCKs	common
+PMDs	0.0465214190374915
+E080	Peaks in
+short
+LOCKs	common
+HMDs	0.0381039578250531
+E080	Peaks in
+short
+LOCKs	common
+PMDs	0.0323129389402362
+E080	Typical
+peaks	common
+HMDs	0.0427442646298715
+E080	Typical
+peaks	common
+PMDs	0.0302813773671132
+E091	Peaks in
+long
+LOCKs	common
+HMDs	0.00131388733309194
+E091	Peaks in
+long
+LOCKs	common
+PMDs	0.0705690400327068
+E091	Peaks in
+short
+LOCKs	common
+HMDs	0.0222553529851854
+E091	Peaks in
+short
+LOCKs	common
+PMDs	0.0453853962471418
+E091	Typical
+peaks	common
+HMDs	0.0259291821530025
+E091	Typical
+peaks	common
+PMDs	0.0418229505021357
+E066	Peaks in
+long
+LOCKs	common
+HMDs	0.00706298632032662
+E066	Peaks in
+long
+LOCKs	common
+PMDs	0.0575709421930831
+E066	Peaks in
+short
+LOCKs	common
+HMDs	0.0276295418789731
+E066	Peaks in
+short
+LOCKs	common
+PMDs	0.0350889719170215
+E066	Typical
+peaks	common
+HMDs	0.036548051086061
+E066	Typical
+peaks	common
+PMDs	0.0296969409103108
+E098	Peaks in
+long
+LOCKs	common
+HMDs	0.00780335748038017
+E098	Peaks in
+long
+LOCKs	common
+PMDs	0.0560286586040452
+E098	Peaks in
+short
+LOCKs	common
+HMDs	0.020744511705399
+E098	Peaks in
+short
+LOCKs	common
+PMDs	0.041974241742309
+E098	Typical
+peaks	common
+HMDs	0.0361659978500748
+E098	Typical
+peaks	common
+PMDs	0.0340319206296514
+E096	Peaks in
+long
+LOCKs	common
+HMDs	0.0144650618522338
+E096	Peaks in
+long
+LOCKs	common
+PMDs	0.0461713313678047
+E096	Peaks in
+short
+LOCKs	common
+HMDs	0.026857645946355
+E096	Peaks in
+short
+LOCKs	common
+PMDs	0.0406810043210862
+E096	Typical
+peaks	common
+HMDs	0.0389447276991173
+E096	Typical
+peaks	common
+PMDs	0.0378959649262775
+E113	Peaks in
+long
+LOCKs	common
+HMDs	0.0155210986579356
+E113	Peaks in
+long
+LOCKs	common
+PMDs	0.0406571939905047
+E113	Peaks in
+short
+LOCKs	common
+HMDs	0.029256714401478
+E113	Peaks in
+short
+LOCKs	common
+PMDs	0.0367291750273045
+E113	Typical
+peaks	common
+HMDs	0.0297341378634438
+E113	Typical
+peaks	common
+PMDs	0.0422991094014993
+E116	Peaks in
+long
+LOCKs	common
+HMDs	0.0575601419307061
+E116	Peaks in
+long
+LOCKs	common
+PMDs	0.0181305873107947
+E116	Peaks in
+short
+LOCKs	common
+HMDs	0.0692431943461241
+E116	Peaks in
+short
+LOCKs	common
+PMDs	0.0165712633535783
+E116	Typical
+peaks	common
+HMDs	0.0539980319640688
+E116	Typical
+peaks	common
+PMDs	0.0228065037729616
+E119	Peaks in
+long
+LOCKs	common
+HMDs	0.00230160985994608
+E119	Peaks in
+long
+LOCKs	common
+PMDs	0.0675989530844999
+E119	Peaks in
+short
+LOCKs	common
+HMDs	0.0243799667689687
+E119	Peaks in
+short
+LOCKs	common
+PMDs	0.0419771666520029
+E119	Typical
+peaks	common
+HMDs	0.0253766537791323
+E119	Typical
+peaks	common
+PMDs	0.0435514202025155
+E120	Peaks in
+long
+LOCKs	common
+HMDs	0.0322652624111842
+E120	Peaks in
+long
+LOCKs	common
+PMDs	0.0297699959294864
+E120	Peaks in
+short
+LOCKs	common
+HMDs	0.0425912257505864
+E120	Peaks in
+short
+LOCKs	common
+PMDs	0.0222088801140157
+E120	Typical
+peaks	common
+HMDs	0.0386847850760126
+E120	Typical
+peaks	common
+PMDs	0.0332059062824934
+E121	Peaks in
+long
+LOCKs	common
+HMDs	0.0180560707775675
+E121	Peaks in
+long
+LOCKs	common
+PMDs	0.043322017728692
+E121	Peaks in
+short
+LOCKs	common
+HMDs	0.0375519939301194
+E121	Peaks in
+short
+LOCKs	common
+PMDs	0.0246324151559633
+E121	Typical
+peaks	common
+HMDs	0.0384731815960076
+E121	Typical
+peaks	common
+PMDs	0.0344710177308614
+E122	Peaks in
+long
+LOCKs	common
+HMDs	0.000498127120778579
+E122	Peaks in
+long
+LOCKs	common
+PMDs	0.0719572869184393
+E122	Peaks in
+short
+LOCKs	common
+HMDs	0.0110025071716171
+E122	Peaks in
+short
+LOCKs	common
+PMDs	0.0564978589888193
+E122	Typical
+peaks	common
+HMDs	0.0113799627740118
+E122	Typical
+peaks	common
+PMDs	0.0599173627712953
+E124	Peaks in
+long
+LOCKs	common
+HMDs	0.00544534172625261
+E124	Peaks in
+long
+LOCKs	common
+PMDs	0.0599167297147984
+E124	Peaks in
+short
+LOCKs	common
+HMDs	0.0283235382861867
+E124	Peaks in
+short
+LOCKs	common
+PMDs	0.0386631331566199
+E124	Typical
+peaks	common
+HMDs	0.0337492057478251
+E124	Typical
+peaks	common
+PMDs	0.0347418954421781
+E125	Peaks in
+long
+LOCKs	common
+HMDs	0.00676950027957734
+E125	Peaks in
+long
+LOCKs	common
+PMDs	0.0581855404869972
+E125	Peaks in
+short
+LOCKs	common
+HMDs	0.0265433251901484
+E125	Peaks in
+short
+LOCKs	common
+PMDs	0.0375236514938883
+E125	Typical
+peaks	common
+HMDs	0.0303958763425382
+E125	Typical
+peaks	common
+PMDs	0.0382574729265094
+E126	Peaks in
+long
+LOCKs	common
+HMDs	0.0285074210512539
+E126	Peaks in
+long
+LOCKs	common
+PMDs	0.0364750162426755
+E126	Peaks in
+short
+LOCKs	common
+HMDs	0.0741482318859534
+E126	Peaks in
+short
+LOCKs	common
+PMDs	0.0147354848524029
+E126	Typical
+peaks	common
+HMDs	0.040304166388184
+E126	Typical
+peaks	common
+PMDs	0.0361038085024609
+E127	Peaks in
+long
+LOCKs	common
+HMDs	0.00260035700634625
+E127	Peaks in
+long
+LOCKs	common
+PMDs	0.0668533948469066
+E127	Peaks in
+short
+LOCKs	common
+HMDs	0.0259488449248404
+E127	Peaks in
+short
+LOCKs	common
+PMDs	0.0405926717348504
+E127	Typical
+peaks	common
+HMDs	0.0281574810335467
+E127	Typical
+peaks	common
+PMDs	0.0412486596383582
+E128	Peaks in
+long
+LOCKs	common
+HMDs	0.0125309256352572
+E128	Peaks in
+long
+LOCKs	common
+PMDs	0.0554981277457116
+E128	Peaks in
+short
+LOCKs	common
+HMDs	0.0432075833978001
+E128	Peaks in
+short
+LOCKs	common
+PMDs	0.0290663275448592
+E128	Typical
+peaks	common
+HMDs	0.0274298006330764
+E128	Typical
+peaks	common
+PMDs	0.0461884872323968
+E129	Peaks in
+long
+LOCKs	common
+HMDs	0.00168849364438974
+E129	Peaks in
+long
+LOCKs	common
+PMDs	0.0704793021850844
+E129	Peaks in
+short
+LOCKs	common
+HMDs	0.0284461045384884
+E129	Peaks in
+short
+LOCKs	common
+PMDs	0.0392050345078137
+E129	Typical
+peaks	common
+HMDs	0.0273564816479067
+E129	Typical
+peaks	common
+PMDs	0.0393571792392261

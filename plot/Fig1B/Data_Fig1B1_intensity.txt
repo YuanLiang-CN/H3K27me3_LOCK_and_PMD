@@ -1,0 +1,328 @@
+EID	Peak_group	Peak_intensity
+E017	Peaks in long LOCKs	4.55168215
+E017	Peaks in short LOCKs	4.57659535
+E017	Typical peaks	3.987269325
+E007	Peaks in long LOCKs	2.90183815
+E007	Peaks in short LOCKs	2.99122935
+E007	Typical peaks	2.74544755
+E009	Peaks in long LOCKs	3.170032
+E009	Peaks in short LOCKs	3.206544
+E009	Typical peaks	2.80754225
+E010	Peaks in long LOCKs	2.9643444
+E010	Peaks in short LOCKs	3.02205605
+E010	Typical peaks	2.57548145
+E013	Peaks in long LOCKs	3.046546625
+E013	Peaks in short LOCKs	3.0890245
+E013	Typical peaks	2.89699855
+E012	Peaks in long LOCKs	3.72021305
+E012	Peaks in short LOCKs	3.8088764
+E012	Typical peaks	3.6575167
+E011	Peaks in long LOCKs	3.57100685
+E011	Peaks in short LOCKs	3.841200625
+E011	Typical peaks	3.25846995
+E004	Peaks in long LOCKs	3.280102125
+E004	Peaks in short LOCKs	3.67475625
+E004	Typical peaks	2.992129675
+E005	Peaks in long LOCKs	3.12060585
+E005	Peaks in short LOCKs	3.520075025
+E005	Typical peaks	2.922921975
+E006	Peaks in long LOCKs	3.983422225
+E006	Peaks in short LOCKs	4.15029425
+E006	Typical peaks	3.765641475
+E062	Peaks in long LOCKs	3.50907935
+E062	Peaks in short LOCKs	3.77519095
+E062	Typical peaks	3.2382179
+E034	Peaks in long LOCKs	3.76460585
+E034	Peaks in short LOCKs	3.840775
+E034	Typical peaks	3.3812542
+E045	Peaks in long LOCKs	3.166292125
+E045	Peaks in short LOCKs	3.263583275
+E045	Typical peaks	3.01842445
+E033	Peaks in long LOCKs	2.69688605
+E033	Peaks in short LOCKs	2.751741
+E033	Typical peaks	2.3842713
+E044	Peaks in long LOCKs	3.1565064
+E044	Peaks in short LOCKs	3.27941925
+E044	Typical peaks	2.88550355
+E043	Peaks in long LOCKs	3.287539775
+E043	Peaks in short LOCKs	3.4885222
+E043	Typical peaks	3.0803989
+E039	Peaks in long LOCKs	3.24480805
+E039	Peaks in short LOCKs	3.44602795
+E039	Typical peaks	3.023335975
+E041	Peaks in long LOCKs	3.317456325
+E041	Peaks in short LOCKs	3.4812549
+E041	Typical peaks	3.063477125
+E042	Peaks in long LOCKs	3.3167422
+E042	Peaks in short LOCKs	3.463924
+E042	Typical peaks	3.1129825
+E040	Peaks in long LOCKs	3.919752725
+E040	Peaks in short LOCKs	4.024349825
+E040	Typical peaks	3.777424425
+E037	Peaks in long LOCKs	3.8553642
+E037	Peaks in short LOCKs	3.8976224
+E037	Typical peaks	3.65887835
+E048	Peaks in long LOCKs	3.9916042
+E048	Peaks in short LOCKs	4.03899555
+E048	Typical peaks	3.7996575
+E038	Peaks in long LOCKs	3.1997473
+E038	Peaks in short LOCKs	3.32474985
+E038	Typical peaks	3.0758036
+E047	Peaks in long LOCKs	2.95376425
+E047	Peaks in short LOCKs	3.05021115
+E047	Typical peaks	2.767612
+E029	Peaks in long LOCKs	3.6223734
+E029	Peaks in short LOCKs	3.778302975
+E029	Typical peaks	3.57308415
+E031	Peaks in long LOCKs	2.51665345
+E031	Peaks in short LOCKs	2.547848525
+E031	Typical peaks	2.4641601
+E035	Peaks in long LOCKs	3.0779089
+E035	Peaks in short LOCKs	3.1442923
+E035	Typical peaks	2.91995895
+E051	Peaks in long LOCKs	3.49333905
+E051	Peaks in short LOCKs	3.6811042
+E051	Typical peaks	2.930453425
+E050	Peaks in long LOCKs	3.414470025
+E050	Peaks in short LOCKs	3.6261618
+E050	Typical peaks	2.99028415
+E036	Peaks in long LOCKs	3.108792725
+E036	Peaks in short LOCKs	3.18354555
+E036	Typical peaks	2.90902205
+E032	Peaks in long LOCKs	2.722983475
+E032	Peaks in short LOCKs	2.848462175
+E032	Typical peaks	2.529361125
+E046	Peaks in long LOCKs	3.1365332
+E046	Peaks in short LOCKs	3.262350475
+E046	Typical peaks	2.907389225
+E030	Peaks in long LOCKs	2.8250762
+E030	Peaks in short LOCKs	2.95838135
+E030	Typical peaks	2.6258817
+E026	Peaks in long LOCKs	3.4068682
+E026	Peaks in short LOCKs	3.3999202
+E026	Typical peaks	3.0173823
+E049	Peaks in long LOCKs	3.42318695
+E049	Peaks in short LOCKs	3.410771
+E049	Typical peaks	2.98430795
+E025	Peaks in long LOCKs	3.5013708
+E025	Peaks in short LOCKs	3.484516125
+E025	Typical peaks	3.0278801
+E023	Peaks in long LOCKs	3.3794488
+E023	Peaks in short LOCKs	3.39924085
+E023	Typical peaks	3.0250396
+E052	Peaks in long LOCKs	3.4508515
+E052	Peaks in short LOCKs	3.44800405
+E052	Typical peaks	3.07099325
+E055	Peaks in long LOCKs	3.50136285
+E055	Peaks in short LOCKs	3.4514685
+E055	Typical peaks	2.9600957
+E056	Peaks in long LOCKs	3.4300134
+E056	Peaks in short LOCKs	3.362524775
+E056	Typical peaks	2.92846195
+E059	Peaks in long LOCKs	3.1655817
+E059	Peaks in short LOCKs	3.2713582
+E059	Typical peaks	2.9286387
+E061	Peaks in long LOCKs	3.14969585
+E061	Peaks in short LOCKs	3.2327318
+E061	Typical peaks	2.9007749
+E057	Peaks in long LOCKs	3.155254475
+E057	Peaks in short LOCKs	3.260418675
+E057	Typical peaks	3.043556725
+E058	Peaks in long LOCKs	3.2200787
+E058	Peaks in short LOCKs	3.22954985
+E058	Typical peaks	2.932951
+E028	Peaks in long LOCKs	3.846456975
+E028	Peaks in short LOCKs	3.5101754
+E028	Typical peaks	3.1517843
+E027	Peaks in long LOCKs	3.31081215
+E027	Peaks in short LOCKs	3.31102535
+E027	Typical peaks	2.937450575
+E054	Peaks in long LOCKs	2.9893765
+E054	Peaks in short LOCKs	3.053768975
+E054	Typical peaks	2.75435955
+E053	Peaks in long LOCKs	3.422044075
+E053	Peaks in short LOCKs	3.47854455
+E053	Typical peaks	3.109402
+E112	Peaks in long LOCKs	3.203945725
+E112	Peaks in short LOCKs	3.4231001
+E112	Typical peaks	3.16030445
+E093	Peaks in long LOCKs	3.12586185
+E093	Peaks in short LOCKs	3.24842105
+E093	Typical peaks	2.95910365
+E071	Peaks in long LOCKs	3.30418035
+E071	Peaks in short LOCKs	3.3678822
+E071	Typical peaks	3.03666585
+E074	Peaks in long LOCKs	2.9590281
+E074	Peaks in short LOCKs	3.00557995
+E074	Typical peaks	2.75611945
+E068	Peaks in long LOCKs	3.936568325
+E068	Peaks in short LOCKs	4.02197615
+E068	Typical peaks	3.6568861
+E069	Peaks in long LOCKs	3.83730225
+E069	Peaks in short LOCKs	3.983368575
+E069	Typical peaks	3.52514365
+E072	Peaks in long LOCKs	3.3190334
+E072	Peaks in short LOCKs	3.438442375
+E072	Typical peaks	3.0866361
+E067	Peaks in long LOCKs	2.92215135
+E067	Peaks in short LOCKs	2.9761321
+E067	Typical peaks	2.70953865
+E073	Peaks in long LOCKs	2.9853552
+E073	Peaks in short LOCKs	3.0344554
+E073	Typical peaks	2.82547495
+E070	Peaks in long LOCKs	3.155108
+E070	Peaks in short LOCKs	3.284017025
+E070	Typical peaks	3.01789445
+E082	Peaks in long LOCKs	3.59900085
+E082	Peaks in short LOCKs	3.6907467
+E082	Typical peaks	3.1564359
+E081	Peaks in long LOCKs	3.0637432
+E081	Peaks in short LOCKs	3.190227425
+E081	Typical peaks	2.7711213
+E063	Peaks in long LOCKs	3.3343038
+E063	Peaks in short LOCKs	3.40165075
+E063	Typical peaks	2.992309075
+E100	Peaks in long LOCKs	2.774184475
+E100	Peaks in short LOCKs	2.921430025
+E100	Typical peaks	2.5510261
+E108	Peaks in long LOCKs	3.14196445
+E108	Peaks in short LOCKs	3.2258445
+E108	Typical peaks	2.83099065
+E107	Peaks in long LOCKs	3.39799555
+E107	Peaks in short LOCKs	3.4975684
+E107	Typical peaks	3.006487675
+E089	Peaks in long LOCKs	4.24324665
+E089	Peaks in short LOCKs	4.413497175
+E089	Typical peaks	3.563038375
+E090	Peaks in long LOCKs	2.99536405
+E090	Peaks in short LOCKs	3.2553535
+E090	Typical peaks	2.589514075
+E083	Peaks in long LOCKs	3.3529365
+E083	Peaks in short LOCKs	3.49864905
+E083	Typical peaks	2.87904635
+E104	Peaks in long LOCKs	3.0916566
+E104	Peaks in short LOCKs	3.0914268
+E104	Typical peaks	3.108176325
+E095	Peaks in long LOCKs	3.14443405
+E095	Peaks in short LOCKs	3.210605425
+E095	Typical peaks	2.905928525
+E105	Peaks in long LOCKs	2.70837765
+E105	Peaks in short LOCKs	2.67679775
+E105	Typical peaks	2.34589155
+E065	Peaks in long LOCKs	2.6323293
+E065	Peaks in short LOCKs	2.64123165
+E065	Typical peaks	2.5181408
+E078	Peaks in long LOCKs	3.3957324
+E078	Peaks in short LOCKs	3.546261775
+E078	Typical peaks	3.043726675
+E076	Peaks in long LOCKs	3.22460305
+E076	Peaks in short LOCKs	3.462057
+E076	Typical peaks	2.9996945
+E103	Peaks in long LOCKs	2.91240395
+E103	Peaks in short LOCKs	2.962727225
+E103	Typical peaks	2.6874942
+E111	Peaks in long LOCKs	3.6066584
+E111	Peaks in short LOCKs	3.7021859
+E111	Typical peaks	3.24156935
+E092	Peaks in long LOCKs	3.68222755
+E092	Peaks in short LOCKs	3.7847847
+E092	Typical peaks	3.2047618
+E085	Peaks in long LOCKs	2.8925812
+E085	Peaks in short LOCKs	3.12428745
+E085	Typical peaks	2.681305175
+E084	Peaks in long LOCKs	3.47639675
+E084	Peaks in short LOCKs	3.6629502
+E084	Typical peaks	3.094637375
+E109	Peaks in long LOCKs	3.0359127
+E109	Peaks in short LOCKs	3.1502191
+E109	Typical peaks	2.849716125
+E106	Peaks in long LOCKs	3.1537601
+E106	Peaks in short LOCKs	3.2548546
+E106	Typical peaks	3.03005295
+E075	Peaks in long LOCKs	2.9402485
+E075	Peaks in short LOCKs	3.0019873
+E075	Typical peaks	2.6969594
+E101	Peaks in long LOCKs	2.694233725
+E101	Peaks in short LOCKs	2.77833675
+E101	Typical peaks	2.47844525
+E102	Peaks in long LOCKs	3.11052515
+E102	Peaks in short LOCKs	3.2328519
+E102	Typical peaks	2.7985715
+E110	Peaks in long LOCKs	3.175198075
+E110	Peaks in short LOCKs	3.30657455
+E110	Typical peaks	2.89310775
+E077	Peaks in long LOCKs	3.098447975
+E077	Peaks in short LOCKs	3.2101702
+E077	Typical peaks	2.7764001
+E079	Peaks in long LOCKs	2.844577175
+E079	Peaks in short LOCKs	2.9420362
+E079	Typical peaks	2.7030616
+E094	Peaks in long LOCKs	2.6769476
+E094	Peaks in short LOCKs	2.6768505
+E094	Typical peaks	2.6944742
+E099	Peaks in long LOCKs	3.51012565
+E099	Peaks in short LOCKs	3.79984145
+E099	Typical peaks	3.1155486
+E086	Peaks in long LOCKs	3.27492935
+E086	Peaks in short LOCKs	3.4520253
+E086	Typical peaks	2.815473825
+E088	Peaks in long LOCKs	3.470711
+E088	Peaks in short LOCKs	3.6103878
+E088	Typical peaks	3.060683225
+E097	Peaks in long LOCKs	2.878715275
+E097	Peaks in short LOCKs	2.8906256
+E097	Typical peaks	2.76411865
+E087	Peaks in long LOCKs	2.95192885
+E087	Peaks in short LOCKs	3.04204595
+E087	Typical peaks	2.63449575
+E080	Peaks in long LOCKs	4.7649874
+E080	Peaks in short LOCKs	4.4384435
+E080	Typical peaks	3.759819125
+E091	Peaks in long LOCKs	3.637650875
+E091	Peaks in short LOCKs	3.8494645
+E091	Typical peaks	3.28606475
+E066	Peaks in long LOCKs	3.952024675
+E066	Peaks in short LOCKs	4.019122625
+E066	Typical peaks	3.826187475
+E098	Peaks in long LOCKs	2.8723971
+E098	Peaks in short LOCKs	2.88886175
+E098	Typical peaks	2.882817525
+E096	Peaks in long LOCKs	2.6850638
+E096	Peaks in short LOCKs	2.7341692
+E096	Typical peaks	2.58091445
+E113	Peaks in long LOCKs	2.7569687
+E113	Peaks in short LOCKs	2.851275675
+E113	Typical peaks	2.7181502
+E116	Peaks in long LOCKs	2.70545975
+E116	Peaks in short LOCKs	2.83060085
+E116	Typical peaks	2.6673576
+E119	Peaks in long LOCKs	2.707639
+E119	Peaks in short LOCKs	2.785362
+E119	Typical peaks	2.55452115
+E120	Peaks in long LOCKs	2.863255525
+E120	Peaks in short LOCKs	2.921042525
+E120	Typical peaks	2.6202965
+E121	Peaks in long LOCKs	3.0924095
+E121	Peaks in short LOCKs	3.133185375
+E121	Typical peaks	2.76017605
+E122	Peaks in long LOCKs	3.5215376
+E122	Peaks in short LOCKs	3.60992305
+E122	Typical peaks	3.214678025
+E124	Peaks in long LOCKs	3.123446025
+E124	Peaks in short LOCKs	3.2009296
+E124	Typical peaks	2.9194166
+E125	Peaks in long LOCKs	2.9930562
+E125	Peaks in short LOCKs	3.0267243
+E125	Typical peaks	2.6991174
+E126	Peaks in long LOCKs	3.26995615
+E126	Peaks in short LOCKs	3.359561275
+E126	Typical peaks	3.087505075
+E127	Peaks in long LOCKs	2.921908975
+E127	Peaks in short LOCKs	2.9376969
+E127	Typical peaks	2.45313225
+E128	Peaks in long LOCKs	3.24936315
+E128	Peaks in short LOCKs	3.31308215
+E128	Typical peaks	2.98740775
+E129	Peaks in long LOCKs	3.020856075
+E129	Peaks in short LOCKs	3.05232505
+E129	Typical peaks	2.6429474

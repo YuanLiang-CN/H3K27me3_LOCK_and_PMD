@@ -1,0 +1,37 @@
+MD_anno	group	sample_TorN	metSignal
+common HMD	Tumor-loss LOCK	NE2
+(normal)	71.2672916356988
+common PMD	Tumor-loss LOCK	NE2
+(normal)	49.727845303823
+common HMD	Shared LOCK	NE2
+(normal)	43.805223566879
+common PMD	Shared LOCK	NE2
+(normal)	42.5451341783668
+common HMD	Tumor-gain LOCK	NE2
+(normal)	60.5040374382423
+common PMD	Tumor-gain LOCK	NE2
+(normal)	38.0962352326346
+Genome	Tumor-loss LOCK	NE2
+(normal)	57.684376732965
+Genome	Shared LOCK	NE2
+(normal)	43.5205495119219
+Genome	Tumor-gain LOCK	NE2
+(normal)	38.9389763546065
+common HMD	Tumor-loss LOCK	KYSE450
+(tumor)	78.3520105747135
+common PMD	Tumor-loss LOCK	KYSE450
+(tumor)	60.529014536599
+common HMD	Shared LOCK	KYSE450
+(tumor)	32.1117777491207
+common PMD	Shared LOCK	KYSE450
+(tumor)	37.6631523368046
+common HMD	Tumor-gain LOCK	KYSE450
+(tumor)	53.8507397454285
+common PMD	Tumor-gain LOCK	KYSE450
+(tumor)	25.5914289353859
+Genome	Tumor-loss LOCK	KYSE450
+(tumor)	67.6604808905232
+Genome	Shared LOCK	KYSE450
+(tumor)	40.6682993939434
+Genome	Tumor-gain LOCK	KYSE450
+(tumor)	26.8494032359288

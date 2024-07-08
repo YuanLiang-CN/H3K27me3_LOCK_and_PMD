@@ -1,0 +1,6 @@
+PMD_length.SIL	LOCK_group	Change in tumor_H3K9me3	region_number.x	region_number.y	percent
+S	Tumor-gain LOCKs	No change	3	3	100
+I	Tumor-gain LOCKs	Down	6	26	23.0769230769231
+I	Tumor-gain LOCKs	No change	20	26	76.9230769230769
+L	Tumor-gain LOCKs	Down	18	65	27.6923076923077
+L	Tumor-gain LOCKs	No change	47	65	72.3076923076923

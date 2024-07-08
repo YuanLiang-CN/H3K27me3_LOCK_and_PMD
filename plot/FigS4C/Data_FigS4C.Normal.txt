@@ -1,0 +1,19 @@
+LOCK_length	OG_TSG_anno	sample	TorN	FPKM	PMD_length_anno
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0.00794568115527792	Within S
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0.00302945405653887	Within S
+Within long LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0	Within S
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0.0342462960476599	Within S
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0.0837792875043396	Within S
+Outside of long or short LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0.0114598800387956	Within S
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0	Within I
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0	Within I
+Within long LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0	Within I
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0.00311433880278844	Within I
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0.0035889214143011	Within I
+Outside of long or short LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0.00174945478601012	Within I
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0.00528713490082464	Within L
+Within long LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0	Within L
+Within long LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0.00148164212878611	Within L
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.76NF2V.RNASeq	N	0.00300659280814579	Within L
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.N.MCF10A.RNASeq	N	0.00984689409925894	Within L
+Outside of long or short LOCKs	OG	NE2_KYSE450.N.NE2.RNASeq	N	0.00254765068665659	Within L

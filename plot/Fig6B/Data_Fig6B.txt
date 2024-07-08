@@ -1,0 +1,12 @@
+Motif family	Frequency
+ETS	9
+bHLH	4
+NR	4
+Zf	4
+bZIP	2
+Homeobox	2
+AP2	1
+MAD	1
+NRF	1
+TEA	1
+TEAD	1

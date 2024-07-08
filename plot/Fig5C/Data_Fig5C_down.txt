@@ -1,0 +1,219 @@
+group	number	EID	percent	facet
+Overlapping with ESC poised promoters	1881	E017	63.7411047102677	Genome-wide
+Overlapping with ESC poised promoters	1871	E007	78.4157585917854	Genome-wide
+Overlapping with ESC poised promoters	2092	E009	66.3916217073945	Genome-wide
+Overlapping with ESC poised promoters	1874	E010	69.7951582867784	Genome-wide
+Overlapping with ESC poised promoters	2920	E013	51.9203413940256	Genome-wide
+Overlapping with ESC poised promoters	3786	E012	55.635562086701	Genome-wide
+Overlapping with ESC poised promoters	2997	E011	68.0981595092024	Genome-wide
+Overlapping with ESC poised promoters	2535	E004	77.5941230486685	Genome-wide
+Overlapping with ESC poised promoters	2572	E005	61.3257033857892	Genome-wide
+Overlapping with ESC poised promoters	1547	E006	72.9029217719133	Genome-wide
+Overlapping with ESC poised promoters	2412	E062	57.5381679389313	Genome-wide
+Overlapping with ESC poised promoters	1975	E034	39.5950280673617	Genome-wide
+Overlapping with ESC poised promoters	1681	E045	59.4833687190375	Genome-wide
+Overlapping with ESC poised promoters	858	E033	64.2696629213483	Genome-wide
+Overlapping with ESC poised promoters	2325	E044	54.0697674418605	Genome-wide
+Overlapping with ESC poised promoters	1881	E043	59.5064852894654	Genome-wide
+Overlapping with ESC poised promoters	1685	E039	58.4257975034674	Genome-wide
+Overlapping with ESC poised promoters	1758	E041	56.8932038834951	Genome-wide
+Overlapping with ESC poised promoters	1334	E042	59.0788308237378	Genome-wide
+Overlapping with ESC poised promoters	934	E040	58.411507191995	Genome-wide
+Overlapping with ESC poised promoters	602	E037	58.7890625	Genome-wide
+Overlapping with ESC poised promoters	652	E048	59.7616865261228	Genome-wide
+Overlapping with ESC poised promoters	806	E038	58.4057971014493	Genome-wide
+Overlapping with ESC poised promoters	1129	E047	57.8381147540984	Genome-wide
+Overlapping with ESC poised promoters	1477	E029	48.8587495865035	Genome-wide
+Overlapping with ESC poised promoters	163	E031	62.4521072796935	Genome-wide
+Overlapping with ESC poised promoters	988	E035	67.4863387978142	Genome-wide
+Overlapping with ESC poised promoters	2614	E051	60.9324009324009	Genome-wide
+Overlapping with ESC poised promoters	2550	E050	61.4309804866297	Genome-wide
+Overlapping with ESC poised promoters	2114	E036	61.0277136258661	Genome-wide
+Overlapping with ESC poised promoters	1462	E032	52.084075525472	Genome-wide
+Overlapping with ESC poised promoters	1219	E046	53.2546963739624	Genome-wide
+Overlapping with ESC poised promoters	1788	E030	44.0285643930066	Genome-wide
+Overlapping with ESC poised promoters	1481	E026	63.5622317596567	Genome-wide
+Overlapping with ESC poised promoters	1704	E049	63.3221850613155	Genome-wide
+Overlapping with ESC poised promoters	1719	E025	62.2600507062658	Genome-wide
+Overlapping with ESC poised promoters	1313	E023	63.8929440389294	Genome-wide
+Overlapping with ESC poised promoters	1699	E052	64.1616314199396	Genome-wide
+Overlapping with ESC poised promoters	3124	E055	32.9292716348688	Genome-wide
+Overlapping with ESC poised promoters	3010	E056	38.4320735444331	Genome-wide
+Overlapping with ESC poised promoters	1909	E059	63.4852011972065	Genome-wide
+Overlapping with ESC poised promoters	3171	E061	29.4894448061006	Genome-wide
+Overlapping with ESC poised promoters	3006	E057	28.7875885845623	Genome-wide
+Overlapping with ESC poised promoters	3252	E058	29.0486824475212	Genome-wide
+Overlapping with ESC poised promoters	1483	E028	53.8489469862019	Genome-wide
+Overlapping with ESC poised promoters	1396	E027	61.6880247459125	Genome-wide
+Overlapping with ESC poised promoters	1459	E054	71.6953316953317	Genome-wide
+Overlapping with ESC poised promoters	1919	E053	60.36489462095	Genome-wide
+Overlapping with ESC poised promoters	2586	E112	59.2847317744154	Genome-wide
+Overlapping with ESC poised promoters	2474	E093	48.7968441814596	Genome-wide
+Overlapping with ESC poised promoters	2437	E071	61.1543287327478	Genome-wide
+Overlapping with ESC poised promoters	1274	E074	63.8276553106212	Genome-wide
+Overlapping with ESC poised promoters	1046	E068	66.6666666666667	Genome-wide
+Overlapping with ESC poised promoters	1722	E069	64.8343373493976	Genome-wide
+Overlapping with ESC poised promoters	1744	E072	62.2412562455389	Genome-wide
+Overlapping with ESC poised promoters	1422	E067	63.0039875941515	Genome-wide
+Overlapping with ESC poised promoters	1858	E073	62.4747814391392	Genome-wide
+Overlapping with ESC poised promoters	3584	E070	27.6992039570291	Genome-wide
+Overlapping with ESC poised promoters	2544	E082	48.5218386419989	Genome-wide
+Overlapping with ESC poised promoters	530	E081	55.7894736842105	Genome-wide
+Overlapping with ESC poised promoters	2036	E063	60.7398568019093	Genome-wide
+Overlapping with ESC poised promoters	1914	E100	61.0331632653061	Genome-wide
+Overlapping with ESC poised promoters	2299	E108	57.1606166086524	Genome-wide
+Overlapping with ESC poised promoters	2250	E107	56.890012642225	Genome-wide
+Overlapping with ESC poised promoters	2864	E089	50.061178115714	Genome-wide
+Overlapping with ESC poised promoters	3000	E090	52.3012552301255	Genome-wide
+Overlapping with ESC poised promoters	662	E083	66.7338709677419	Genome-wide
+Overlapping with ESC poised promoters	87	E104	79.8165137614679	Genome-wide
+Overlapping with ESC poised promoters	1126	E095	66.548463356974	Genome-wide
+Overlapping with ESC poised promoters	1484	E105	69.0875232774674	Genome-wide
+Overlapping with ESC poised promoters	322	E065	31.4453125	Genome-wide
+Overlapping with ESC poised promoters	2759	E078	59.206008583691	Genome-wide
+Overlapping with ESC poised promoters	1924	E076	64.4556113902848	Genome-wide
+Overlapping with ESC poised promoters	2287	E103	54.1943127962085	Genome-wide
+Overlapping with ESC poised promoters	1739	E111	63.3515482695811	Genome-wide
+Overlapping with ESC poised promoters	3369	E092	43.741885224617	Genome-wide
+Overlapping with ESC poised promoters	2778	E085	55.9629331184529	Genome-wide
+Overlapping with ESC poised promoters	2657	E084	58.6146040150011	Genome-wide
+Overlapping with ESC poised promoters	1623	E109	63.8724911452184	Genome-wide
+Overlapping with ESC poised promoters	1536	E106	61.3908872901679	Genome-wide
+Overlapping with ESC poised promoters	2859	E075	56.8276684555754	Genome-wide
+Overlapping with ESC poised promoters	1980	E101	60.6431852986218	Genome-wide
+Overlapping with ESC poised promoters	2006	E102	62.0092735703246	Genome-wide
+Overlapping with ESC poised promoters	1807	E110	55.0411209259823	Genome-wide
+Overlapping with ESC poised promoters	2322	E077	62.1354027294621	Genome-wide
+Overlapping with ESC poised promoters	1866	E079	66.9537136706136	Genome-wide
+Overlapping with ESC poised promoters	367	E094	64.7266313932981	Genome-wide
+Overlapping with ESC poised promoters	1418	E099	75.026455026455	Genome-wide
+Overlapping with ESC poised promoters	931	E086	68.1053401609364	Genome-wide
+Overlapping with ESC poised promoters	1756	E088	62.8489620615605	Genome-wide
+Overlapping with ESC poised promoters	776	E097	75.1210067763795	Genome-wide
+Overlapping with ESC poised promoters	612	E087	68.9189189189189	Genome-wide
+Overlapping with ESC poised promoters	2990	E080	54.7920102620487	Genome-wide
+Overlapping with ESC poised promoters	1746	E091	56.0513643659711	Genome-wide
+Overlapping with ESC poised promoters	681	E066	62.2486288848263	Genome-wide
+Overlapping with ESC poised promoters	129	E098	56.0869565217391	Genome-wide
+Overlapping with ESC poised promoters	920	E096	74.373484236055	Genome-wide
+Overlapping with ESC poised promoters	1669	E113	64.415283674257	Genome-wide
+Overlapping with ESC poised promoters	510	E116	65.3008962868118	Genome-wide
+Overlapping with ESC poised promoters	1642	E119	59.4281577994933	Genome-wide
+Overlapping with ESC poised promoters	1417	E120	67.8639846743295	Genome-wide
+Overlapping with ESC poised promoters	1464	E121	66.5757162346521	Genome-wide
+Overlapping with ESC poised promoters	1445	E122	64.1936916925811	Genome-wide
+Overlapping with ESC poised promoters	2348	E124	48.9881076569998	Genome-wide
+Overlapping with ESC poised promoters	1839	E125	66.9945355191257	Genome-wide
+Overlapping with ESC poised promoters	581	E126	67.1676300578035	Genome-wide
+Overlapping with ESC poised promoters	2295	E127	60.1257532093267	Genome-wide
+Overlapping with ESC poised promoters	1188	E128	66.779089376054	Genome-wide
+Overlapping with ESC poised promoters	1655	E129	60.4014598540146	Genome-wide
+Overlapping with ESC poised promoters	637	E017	71.4125560538117	Within short LOCKs
+Overlapping with ESC poised promoters	82	E007	78.8461538461538	Within short LOCKs
+Overlapping with ESC poised promoters	620	E009	70.2151755379388	Within short LOCKs
+Overlapping with ESC poised promoters	599	E010	71.6507177033493	Within short LOCKs
+Overlapping with ESC poised promoters	742	E013	67.2101449275362	Within short LOCKs
+Overlapping with ESC poised promoters	298	E012	74.5	Within short LOCKs
+Overlapping with ESC poised promoters	724	E011	72.5450901803607	Within short LOCKs
+Overlapping with ESC poised promoters	193	E004	85.7777777777778	Within short LOCKs
+Overlapping with ESC poised promoters	318	E005	80.3030303030303	Within short LOCKs
+Overlapping with ESC poised promoters	565	E006	76.3513513513514	Within short LOCKs
+Overlapping with ESC poised promoters	527	E062	58.4905660377358	Within short LOCKs
+Overlapping with ESC poised promoters	545	E034	47.3913043478261	Within short LOCKs
+Overlapping with ESC poised promoters	196	E045	55.8404558404558	Within short LOCKs
+Overlapping with ESC poised promoters	284	E033	69.6078431372549	Within short LOCKs
+Overlapping with ESC poised promoters	360	E044	51.2820512820513	Within short LOCKs
+Overlapping with ESC poised promoters	466	E043	55.4761904761905	Within short LOCKs
+Overlapping with ESC poised promoters	359	E039	56.984126984127	Within short LOCKs
+Overlapping with ESC poised promoters	365	E041	55.895865237366	Within short LOCKs
+Overlapping with ESC poised promoters	234	E042	57.7777777777778	Within short LOCKs
+Overlapping with ESC poised promoters	82	E040	56.551724137931	Within short LOCKs
+Overlapping with ESC poised promoters	40	E037	58.8235294117647	Within short LOCKs
+Overlapping with ESC poised promoters	47	E048	60.2564102564103	Within short LOCKs
+Overlapping with ESC poised promoters	37	E038	59.6774193548387	Within short LOCKs
+Overlapping with ESC poised promoters	223	E047	57.4742268041237	Within short LOCKs
+Overlapping with ESC poised promoters	264	E029	60.2739726027397	Within short LOCKs
+Overlapping with ESC poised promoters	33	E031	68.75	Within short LOCKs
+Overlapping with ESC poised promoters	487	E035	70.4775687409551	Within short LOCKs
+Overlapping with ESC poised promoters	1298	E051	62.4038461538462	Within short LOCKs
+Overlapping with ESC poised promoters	1190	E050	62.0114643043252	Within short LOCKs
+Overlapping with ESC poised promoters	774	E036	64.2323651452282	Within short LOCKs
+Overlapping with ESC poised promoters	236	E032	53.2731376975169	Within short LOCKs
+Overlapping with ESC poised promoters	281	E046	56.6532258064516	Within short LOCKs
+Overlapping with ESC poised promoters	565	E030	49.0877497827976	Within short LOCKs
+Overlapping with ESC poised promoters	357	E026	65.625	Within short LOCKs
+Overlapping with ESC poised promoters	423	E049	66.1971830985916	Within short LOCKs
+Overlapping with ESC poised promoters	682	E025	66.9283611383709	Within short LOCKs
+Overlapping with ESC poised promoters	431	E023	66.6151468315301	Within short LOCKs
+Overlapping with ESC poised promoters	461	E052	64.9295774647887	Within short LOCKs
+Overlapping with ESC poised promoters	687	E055	61.5591397849462	Within short LOCKs
+Overlapping with ESC poised promoters	826	E056	61.1851851851852	Within short LOCKs
+Overlapping with ESC poised promoters	798	E059	73.8205365402405	Within short LOCKs
+Overlapping with ESC poised promoters	695	E061	58.5509688289806	Within short LOCKs
+Overlapping with ESC poised promoters	455	E057	67.910447761194	Within short LOCKs
+Overlapping with ESC poised promoters	742	E058	55.6221889055472	Within short LOCKs
+Overlapping with ESC poised promoters	279	E028	65.9574468085106	Within short LOCKs
+Overlapping with ESC poised promoters	606	E027	69.5752009184845	Within short LOCKs
+Overlapping with ESC poised promoters	521	E054	75.7267441860465	Within short LOCKs
+Overlapping with ESC poised promoters	683	E053	68.920282542886	Within short LOCKs
+Overlapping with ESC poised promoters	264	E112	70.026525198939	Within short LOCKs
+Overlapping with ESC poised promoters	348	E093	59.6912521440823	Within short LOCKs
+Overlapping with ESC poised promoters	821	E071	66.7479674796748	Within short LOCKs
+Overlapping with ESC poised promoters	382	E074	69.0777576853526	Within short LOCKs
+Overlapping with ESC poised promoters	287	E068	73.027989821883	Within short LOCKs
+Overlapping with ESC poised promoters	622	E069	70.6818181818182	Within short LOCKs
+Overlapping with ESC poised promoters	599	E072	66.7037861915368	Within short LOCKs
+Overlapping with ESC poised promoters	388	E067	67.0120898100173	Within short LOCKs
+Overlapping with ESC poised promoters	695	E073	69.5	Within short LOCKs
+Overlapping with ESC poised promoters	1026	E070	56.2808557323094	Within short LOCKs
+Overlapping with ESC poised promoters	1068	E082	66.9592476489028	Within short LOCKs
+Overlapping with ESC poised promoters	276	E081	66.0287081339713	Within short LOCKs
+Overlapping with ESC poised promoters	1005	E063	68.1818181818182	Within short LOCKs
+Overlapping with ESC poised promoters	586	E100	66.065388951522	Within short LOCKs
+Overlapping with ESC poised promoters	1212	E108	63.1578947368421	Within short LOCKs
+Overlapping with ESC poised promoters	1218	E107	63.9370078740157	Within short LOCKs
+Overlapping with ESC poised promoters	1204	E089	62.6756897449245	Within short LOCKs
+Overlapping with ESC poised promoters	1396	E090	61.0940919037199	Within short LOCKs
+Overlapping with ESC poised promoters	329	E083	73.4375	Within short LOCKs
+Overlapping with ESC poised promoters	14	E104	73.6842105263158	Within short LOCKs
+Overlapping with ESC poised promoters	366	E095	67.7777777777778	Within short LOCKs
+Overlapping with ESC poised promoters	627	E105	75	Within short LOCKs
+Overlapping with ESC poised promoters	56	E065	51.8518518518518	Within short LOCKs
+Overlapping with ESC poised promoters	1234	E078	65.0158061116965	Within short LOCKs
+Overlapping with ESC poised promoters	470	E076	73.5524256651017	Within short LOCKs
+Overlapping with ESC poised promoters	782	E103	67.2977624784854	Within short LOCKs
+Overlapping with ESC poised promoters	826	E111	68.9482470784641	Within short LOCKs
+Overlapping with ESC poised promoters	1259	E092	57.7522935779817	Within short LOCKs
+Overlapping with ESC poised promoters	905	E085	60.2529960053262	Within short LOCKs
+Overlapping with ESC poised promoters	977	E084	62.3086734693878	Within short LOCKs
+Overlapping with ESC poised promoters	521	E109	65.7828282828283	Within short LOCKs
+Overlapping with ESC poised promoters	391	E106	65.0582362728785	Within short LOCKs
+Overlapping with ESC poised promoters	1164	E075	66.3625997719498	Within short LOCKs
+Overlapping with ESC poised promoters	715	E101	65.1777575205105	Within short LOCKs
+Overlapping with ESC poised promoters	717	E102	66.2661737523105	Within short LOCKs
+Overlapping with ESC poised promoters	678	E110	62.7777777777778	Within short LOCKs
+Overlapping with ESC poised promoters	846	E077	66.3009404388715	Within short LOCKs
+Overlapping with ESC poised promoters	412	E079	70.7903780068729	Within short LOCKs
+Overlapping with ESC poised promoters	15	E094	62.5	Within short LOCKs
+Overlapping with ESC poised promoters	563	E099	79.2957746478873	Within short LOCKs
+Overlapping with ESC poised promoters	459	E086	73.9130434782609	Within short LOCKs
+Overlapping with ESC poised promoters	812	E088	66.1776691116545	Within short LOCKs
+Overlapping with ESC poised promoters	141	E097	77.0491803278689	Within short LOCKs
+Overlapping with ESC poised promoters	161	E087	72.1973094170404	Within short LOCKs
+Overlapping with ESC poised promoters	958	E080	63.6968085106383	Within short LOCKs
+Overlapping with ESC poised promoters	685	E091	70.4732510288066	Within short LOCKs
+Overlapping with ESC poised promoters	194	E066	71.5867158671587	Within short LOCKs
+Overlapping with ESC poised promoters	2	E098	40	Within short LOCKs
+Overlapping with ESC poised promoters	275	E096	76.8156424581006	Within short LOCKs
+Overlapping with ESC poised promoters	290	E113	73.9795918367347	Within short LOCKs
+Overlapping with ESC poised promoters	48	E116	87.2727272727273	Within short LOCKs
+Overlapping with ESC poised promoters	281	E119	69.9004975124378	Within short LOCKs
+Overlapping with ESC poised promoters	306	E120	67.4008810572687	Within short LOCKs
+Overlapping with ESC poised promoters	288	E121	65.4545454545455	Within short LOCKs
+Overlapping with ESC poised promoters	375	E122	68.0580762250454	Within short LOCKs
+Overlapping with ESC poised promoters	490	E124	55.9360730593607	Within short LOCKs
+Overlapping with ESC poised promoters	676	E125	71.9914802981896	Within short LOCKs
+Overlapping with ESC poised promoters	208	E126	72.4738675958188	Within short LOCKs
+Overlapping with ESC poised promoters	670	E127	65.5577299412916	Within short LOCKs
+Overlapping with ESC poised promoters	400	E128	72.5952813067151	Within short LOCKs
+Overlapping with ESC poised promoters	559	E129	62.4581005586592	Within short LOCKs

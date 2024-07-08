@@ -1,0 +1,181 @@
+gzName	MD_anno	group	sample_TorN	metSignal
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	MCF10A
+(normal)	64.9325636689603
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	MCF10A
+(normal)	59.6488417020073
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Shared LOCK	MCF10A
+(normal)	59.4108275068531
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Shared LOCK	MCF10A
+(normal)	49.3878150391981
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	MCF10A
+(normal)	71.1282448076923
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	MCF10A
+(normal)	51.1611522856723
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	MCF10A
+(normal)	62.9466877749513
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Shared LOCK	MCF10A
+(normal)	50.1071110602351
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	MCF10A
+(normal)	51.38425199103
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	MCF10A
+(normal)	64.9325636689603
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	MCF10A
+(normal)	59.6488417020073
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Shared LOCK	MCF10A
+(normal)	59.4108275068531
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Shared LOCK	MCF10A
+(normal)	49.3878150391981
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	MCF10A
+(normal)	71.1282448076923
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	MCF10A
+(normal)	51.1611522856723
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	MCF10A
+(normal)	62.9466877749513
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Shared LOCK	MCF10A
+(normal)	50.1071110602351
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	MCF10A
+(normal)	51.38425199103
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	MCF10A
+(normal)	64.9325636689603
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	MCF10A
+(normal)	59.6488417020073
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Shared LOCK	MCF10A
+(normal)	59.4108275068531
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Shared LOCK	MCF10A
+(normal)	49.3878150391981
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	MCF10A
+(normal)	71.1282448076923
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	MCF10A
+(normal)	51.1611522856723
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	MCF10A
+(normal)	62.9466877749513
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Shared LOCK	MCF10A
+(normal)	50.1071110602351
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	MCF10A
+(normal)	51.38425199103
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	MCF10A
+(normal)	64.9325636689603
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	MCF10A
+(normal)	59.6488417020073
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Shared LOCK	MCF10A
+(normal)	59.4108275068531
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Shared LOCK	MCF10A
+(normal)	49.3878150391981
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	MCF10A
+(normal)	71.1282448076923
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	MCF10A
+(normal)	51.1611522856723
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	MCF10A
+(normal)	62.9466877749513
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Shared LOCK	MCF10A
+(normal)	50.1071110602351
+breastNormalVsTN_Basal.N.MCF10A.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	MCF10A
+(normal)	51.38425199103
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-loss LOCK	HCC1937
+(tumor)	82.0016591611065
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-loss LOCK	HCC1937
+(tumor)	78.5946479573719
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Shared LOCK	HCC1937
+(tumor)	78.8181123784722
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Shared LOCK	HCC1937
+(tumor)	69.3637397595601
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common HMD	Tumor-gain LOCK	HCC1937
+(tumor)	77.4434963782051
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	common PMD	Tumor-gain LOCK	HCC1937
+(tumor)	61.4443521238772
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-loss LOCK	HCC1937
+(tumor)	81.1074519388408
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Shared LOCK	HCC1937
+(tumor)	69.7200170334777
+breastNormalVsTN_Basal.T.HCC1937.EPIC.rmCGI.bdg	Genome	Tumor-gain LOCK	HCC1937
+(tumor)	62.2408457375557

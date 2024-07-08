@@ -1,0 +1,219 @@
+percent	EID	group	facet
+73.2803575862925	E017	poised promoters	Genome-wide
+85.7964760877382	E007	poised promoters	Genome-wide
+72.838650023116	E009	poised promoters	Genome-wide
+69.5415695415695	E010	poised promoters	Genome-wide
+91.0032362459547	E013	poised promoters	Genome-wide
+95.4685746352413	E012	poised promoters	Genome-wide
+88.6762039089261	E011	poised promoters	Genome-wide
+77.4354112348898	E004	poised promoters	Genome-wide
+85.4001221747098	E005	poised promoters	Genome-wide
+82.729044834308	E006	poised promoters	Genome-wide
+73.0568142209829	E062	poised promoters	Genome-wide
+62.8369866465105	E034	poised promoters	Genome-wide
+64.6533973919012	E045	poised promoters	Genome-wide
+52.7043031977892	E033	poised promoters	Genome-wide
+74.0868366643694	E044	poised promoters	Genome-wide
+67.5860594398118	E043	poised promoters	Genome-wide
+69.6281989377112	E039	poised promoters	Genome-wide
+60.8267716535433	E041	poised promoters	Genome-wide
+56.2250996015936	E042	poised promoters	Genome-wide
+42.1121938372399	E040	poised promoters	Genome-wide
+48.9717838354854	E037	poised promoters	Genome-wide
+49.8856881572931	E048	poised promoters	Genome-wide
+52.5714285714286	E038	poised promoters	Genome-wide
+48.1975308641975	E047	poised promoters	Genome-wide
+49.7859025032938	E029	poised promoters	Genome-wide
+50.5813953488372	E031	poised promoters	Genome-wide
+72.4035608308605	E035	poised promoters	Genome-wide
+88.3625128733265	E051	poised promoters	Genome-wide
+85.4642783611283	E050	poised promoters	Genome-wide
+70.0080840743735	E036	poised promoters	Genome-wide
+54.5472211426351	E032	poised promoters	Genome-wide
+48.6607142857143	E046	poised promoters	Genome-wide
+57.8737352144791	E030	poised promoters	Genome-wide
+64.5429362880887	E026	poised promoters	Genome-wide
+73.7260273972603	E049	poised promoters	Genome-wide
+72.2964126734747	E025	poised promoters	Genome-wide
+65.633982753114	E023	poised promoters	Genome-wide
+70.4255319148936	E052	poised promoters	Genome-wide
+92.6555327668718	E055	poised promoters	Genome-wide
+92.8182033657265	E056	poised promoters	Genome-wide
+79.0691559295293	E059	poised promoters	Genome-wide
+92.850358345566	E061	poised promoters	Genome-wide
+93.4909123466738	E057	poised promoters	Genome-wide
+93.4396127201402	E058	poised promoters	Genome-wide
+50.4210911753936	E028	poised promoters	Genome-wide
+74.7357992073976	E027	poised promoters	Genome-wide
+88.5938180235089	E054	poised promoters	Genome-wide
+85.3193773483629	E053	poised promoters	Genome-wide
+80.7927393961845	E112	poised promoters	Genome-wide
+73.2976724013301	E093	poised promoters	Genome-wide
+89.169836652495	E071	poised promoters	Genome-wide
+73.1403444485159	E074	poised promoters	Genome-wide
+82.7968337730871	E068	poised promoters	Genome-wide
+84.8291280740977	E069	poised promoters	Genome-wide
+84.7806354009077	E072	poised promoters	Genome-wide
+78.3952761375478	E067	poised promoters	Genome-wide
+84.4886363636364	E073	poised promoters	Genome-wide
+95.2938577110031	E070	poised promoters	Genome-wide
+90.7407407407407	E082	poised promoters	Genome-wide
+24.4027742101207	E081	poised promoters	Genome-wide
+79.7905260652226	E063	poised promoters	Genome-wide
+82.7877507919747	E100	poised promoters	Genome-wide
+82.2831423895254	E108	poised promoters	Genome-wide
+77.8543307086614	E107	poised promoters	Genome-wide
+78.9648033126294	E089	poised promoters	Genome-wide
+82.2601462785028	E090	poised promoters	Genome-wide
+41.6456759026029	E083	poised promoters	Genome-wide
+67.7018633540373	E104	poised promoters	Genome-wide
+61.2599565532223	E095	poised promoters	Genome-wide
+85.9887910328263	E105	poised promoters	Genome-wide
+64.4025157232704	E065	poised promoters	Genome-wide
+88.7957317073171	E078	poised promoters	Genome-wide
+76.0509554140127	E076	poised promoters	Genome-wide
+87.1180842279108	E103	poised promoters	Genome-wide
+82.6060788444177	E111	poised promoters	Genome-wide
+86.7635462431001	E092	poised promoters	Genome-wide
+83.9506172839506	E085	poised promoters	Genome-wide
+81.0622317596567	E084	poised promoters	Genome-wide
+61.5701478071238	E109	poised promoters	Genome-wide
+58.9121732987992	E106	poised promoters	Genome-wide
+89.8874396998392	E075	poised promoters	Genome-wide
+80.4781858516145	E101	poised promoters	Genome-wide
+81.5683308119012	E102	poised promoters	Genome-wide
+59.3563550894956	E110	poised promoters	Genome-wide
+85.105898428604	E077	poised promoters	Genome-wide
+80.132259919494	E079	poised promoters	Genome-wide
+72.3214285714286	E094	poised promoters	Genome-wide
+61.6840731070496	E099	poised promoters	Genome-wide
+53.2528243085314	E086	poised promoters	Genome-wide
+62.730130220027	E088	poised promoters	Genome-wide
+64.4416718652526	E097	poised promoters	Genome-wide
+53.5262206148282	E087	poised promoters	Genome-wide
+79.8741217798595	E080	poised promoters	Genome-wide
+62.9929221435794	E091	poised promoters	Genome-wide
+52.2944550669216	E066	poised promoters	Genome-wide
+78.2312925170068	E098	poised promoters	Genome-wide
+59.9321705426357	E096	poised promoters	Genome-wide
+72.4350013978194	E113	poised promoters	Genome-wide
+44.9108683151236	E116	poised promoters	Genome-wide
+71.953125	E119	poised promoters	Genome-wide
+77.5343483104345	E120	poised promoters	Genome-wide
+65.8777711204314	E121	poised promoters	Genome-wide
+61.0027100271003	E122	poised promoters	Genome-wide
+72.7093446601942	E124	poised promoters	Genome-wide
+75.4328112118714	E125	poised promoters	Genome-wide
+38.1729920564872	E126	poised promoters	Genome-wide
+78.8310615448162	E127	poised promoters	Genome-wide
+53.8601271571299	E128	poised promoters	Genome-wide
+68.0069496152892	E129	poised promoters	Genome-wide
+77.7680906713165	E017	poised promoters	Within short LOCKs
+96.2962962962963	E007	poised promoters	Within short LOCKs
+82.9887218045113	E009	poised promoters	Within short LOCKs
+79.9235181644359	E010	poised promoters	Within short LOCKs
+94.6015424164524	E013	poised promoters	Within short LOCKs
+98.0392156862745	E012	poised promoters	Within short LOCKs
+93.7089201877934	E011	poised promoters	Within short LOCKs
+85.5513307984791	E004	poised promoters	Within short LOCKs
+85.7142857142857	E005	poised promoters	Within short LOCKs
+83.8052095130238	E006	poised promoters	Within short LOCKs
+76.1622992392223	E062	poised promoters	Within short LOCKs
+60.8465608465608	E034	poised promoters	Within short LOCKs
+63.2432432432432	E045	poised promoters	Within short LOCKs
+51.3207547169811	E033	poised promoters	Within short LOCKs
+64.3446379468378	E044	poised promoters	Within short LOCKs
+64.3185298621746	E043	poised promoters	Within short LOCKs
+67.379679144385	E039	poised promoters	Within short LOCKs
+57.1303587051619	E041	poised promoters	Within short LOCKs
+49.4505494505495	E042	poised promoters	Within short LOCKs
+38.1578947368421	E040	poised promoters	Within short LOCKs
+52.7131782945737	E037	poised promoters	Within short LOCKs
+51.6556291390728	E048	poised promoters	Within short LOCKs
+52.5423728813559	E038	poised promoters	Within short LOCKs
+44.7520184544406	E047	poised promoters	Within short LOCKs
+48.9385474860335	E029	poised promoters	Within short LOCKs
+62.3376623376623	E031	poised promoters	Within short LOCKs
+78.9714285714286	E035	poised promoters	Within short LOCKs
+93.1482310792656	E051	poised promoters	Within short LOCKs
+90.6471421823335	E050	poised promoters	Within short LOCKs
+76.9968051118211	E036	poised promoters	Within short LOCKs
+47.9437229437229	E032	poised promoters	Within short LOCKs
+45.6301747930083	E046	poised promoters	Within short LOCKs
+59.025641025641	E030	poised promoters	Within short LOCKs
+70.74122236671	E026	poised promoters	Within short LOCKs
+76.0714285714286	E049	poised promoters	Within short LOCKs
+77.7269260106789	E025	poised promoters	Within short LOCKs
+70.3260869565217	E023	poised promoters	Within short LOCKs
+72.8205128205128	E052	poised promoters	Within short LOCKs
+91.3256955810147	E055	poised promoters	Within short LOCKs
+92.5925925925926	E056	poised promoters	Within short LOCKs
+83.993783993784	E059	poised promoters	Within short LOCKs
+90.3348554033486	E061	poised promoters	Within short LOCKs
+88.8594164456233	E057	poised promoters	Within short LOCKs
+92.1270718232044	E058	poised promoters	Within short LOCKs
+48.6766398158803	E028	poised promoters	Within short LOCKs
+78.0465949820789	E027	poised promoters	Within short LOCKs
+94.3758573388203	E054	poised promoters	Within short LOCKs
+88.1672597864769	E053	poised promoters	Within short LOCKs
+81.4254859611231	E112	poised promoters	Within short LOCKs
+75.5181347150259	E093	poised promoters	Within short LOCKs
+93.8931297709924	E071	poised promoters	Within short LOCKs
+81.5634218289086	E074	poised promoters	Within short LOCKs
+88.9140271493213	E068	poised promoters	Within short LOCKs
+91.3811007268951	E069	poised promoters	Within short LOCKs
+90.4330312185297	E072	poised promoters	Within short LOCKs
+84.8973607038123	E067	poised promoters	Within short LOCKs
+89.7666068222621	E073	poised promoters	Within short LOCKs
+96.4040190375463	E070	poised promoters	Within short LOCKs
+94.883997620464	E082	poised promoters	Within short LOCKs
+28.9073305670816	E081	poised promoters	Within short LOCKs
+84.6639862148191	E063	poised promoters	Within short LOCKs
+88.877755511022	E100	poised promoters	Within short LOCKs
+88.5556068297185	E108	poised promoters	Within short LOCKs
+83.4063047285464	E107	poised promoters	Within short LOCKs
+84.5882870981946	E089	poised promoters	Within short LOCKs
+87.2137404580153	E090	poised promoters	Within short LOCKs
+46.8129571577847	E083	poised promoters	Within short LOCKs
+79.1666666666667	E104	poised promoters	Within short LOCKs
+66.2576687116564	E095	poised promoters	Within short LOCKs
+91.8681318681319	E105	poised promoters	Within short LOCKs
+58.695652173913	E065	poised promoters	Within short LOCKs
+94.0535183349851	E078	poised promoters	Within short LOCKs
+81.1944091486658	E076	poised promoters	Within short LOCKs
+92.442322991249	E103	poised promoters	Within short LOCKs
+87.7655677655678	E111	poised promoters	Within short LOCKs
+91.1371237458194	E092	poised promoters	Within short LOCKs
+89.2984542211653	E085	poised promoters	Within short LOCKs
+89.2938496583143	E084	poised promoters	Within short LOCKs
+68.2170542635659	E109	poised promoters	Within short LOCKs
+62.6041666666667	E106	poised promoters	Within short LOCKs
+95.1709169831796	E075	poised promoters	Within short LOCKs
+87.2712808273668	E101	poised promoters	Within short LOCKs
+88.9071487263763	E102	poised promoters	Within short LOCKs
+63.905325443787	E110	poised promoters	Within short LOCKs
+90.7539118065434	E077	poised promoters	Within short LOCKs
+88.3156297420334	E079	poised promoters	Within short LOCKs
+70.5882352941177	E094	poised promoters	Within short LOCKs
+67.3624288425047	E099	poised promoters	Within short LOCKs
+58.2005623242737	E086	poised promoters	Within short LOCKs
+71.1304347826087	E088	poised promoters	Within short LOCKs
+70.6563706563707	E097	poised promoters	Within short LOCKs
+59.9462365591398	E087	poised promoters	Within short LOCKs
+86.8861929520508	E080	poised promoters	Within short LOCKs
+63.2400780741705	E091	poised promoters	Within short LOCKs
+56.1076604554865	E066	poised promoters	Within short LOCKs
+55.5555555555556	E098	poised promoters	Within short LOCKs
+68.3206106870229	E096	poised promoters	Within short LOCKs
+76.2645914396887	E113	poised promoters	Within short LOCKs
+53.3980582524272	E116	poised promoters	Within short LOCKs
+65.2597402597403	E119	poised promoters	Within short LOCKs
+81.508078994614	E120	poised promoters	Within short LOCKs
+60.2739726027397	E121	poised promoters	Within short LOCKs
+56.9803516028956	E122	poised promoters	Within short LOCKs
+75.3224419604471	E124	poised promoters	Within short LOCKs
+80.5317324185249	E125	poised promoters	Within short LOCKs
+45.4833597464342	E126	poised promoters	Within short LOCKs
+81.3046937151949	E127	poised promoters	Within short LOCKs
+59.9564744287269	E128	poised promoters	Within short LOCKs
+71.6573258606885	E129	poised promoters	Within short LOCKs

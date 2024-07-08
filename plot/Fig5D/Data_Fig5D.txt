@@ -1,0 +1,37 @@
+group.shortLOCK	prom_number	tissue_type
+Shared short LOCK	132	NE2 vs KYSE450
+(ESCC)
+Tumor-gain short LOCK	118	NE2 vs KYSE450
+(ESCC)
+Tumor-loss short LOCK	681	NE2 vs KYSE450
+(ESCC)
+Shared short LOCK	44	NE2 vs KYSE510
+(ESCC)
+Tumor-gain short LOCK	25	NE2 vs KYSE510
+(ESCC)
+Tumor-loss short LOCK	713	NE2 vs KYSE510
+(ESCC)
+Shared short LOCK	108	MCF10A vs HCC1954
+(BRCA Her2+)
+Tumor-gain short LOCK	186	MCF10A vs HCC1954
+(BRCA Her2+)
+Tumor-loss short LOCK	690	MCF10A vs HCC1954
+(BRCA Her2+)
+Shared short LOCK	90	MCF10A vs MCF7
+(BRCA Luminal A)
+Tumor-gain short LOCK	165	MCF10A vs MCF7
+(BRCA Luminal A)
+Tumor-loss short LOCK	731	MCF10A vs MCF7
+(BRCA Luminal A)
+Shared short LOCK	311	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Tumor-gain short LOCK	597	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Tumor-loss short LOCK	445	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Shared short LOCK	198	MCF10A vs MB231
+(BRCA TN-CL)
+Tumor-gain short LOCK	288	MCF10A vs MB231
+(BRCA TN-CL)
+Tumor-loss short LOCK	535	MCF10A vs MB231
+(BRCA TN-CL)

@@ -1,0 +1,2616 @@
+EID	Peak_group	Elements	Proportion of elements
+E017	Peaks in long LOCKs	3' UTR	1.18965810706035
+E017	Peaks in long LOCKs	5' UTR	0.278171325130869
+E017	Peaks in long LOCKs	exon	2.5289126050052
+E017	Peaks in long LOCKs	Intergenic	51.6343132500383
+E017	Peaks in long LOCKs	intron	38.2856740250839
+E017	Peaks in long LOCKs	non-coding	0.989427954777941
+E017	Peaks in long LOCKs	promoter-TSS	3.3954021137868
+E017	Peaks in long LOCKs	TTS	1.69844061911664
+E017	Peaks in short LOCKs	3' UTR	1.35262462808097
+E017	Peaks in short LOCKs	5' UTR	0.814664579531026
+E017	Peaks in short LOCKs	exon	3.73302841922437
+E017	Peaks in short LOCKs	Intergenic	49.977615793154
+E017	Peaks in short LOCKs	intron	33.8617259482792
+E017	Peaks in short LOCKs	non-coding	1.20622854278778
+E017	Peaks in short LOCKs	promoter-TSS	7.10018860999421
+E017	Peaks in short LOCKs	TTS	1.95392347894848
+E017	Typical peaks	3' UTR	0.65472069249812
+E017	Typical peaks	5' UTR	0.387130577591777
+E017	Typical peaks	exon	1.99248781021172
+E017	Typical peaks	Intergenic	61.9371315499129
+E017	Typical peaks	intron	30.6695403342657
+E017	Typical peaks	non-coding	0.74650413860236
+E017	Typical peaks	promoter-TSS	2.8224831467394
+E017	Typical peaks	TTS	0.790001750178045
+E007	Peaks in long LOCKs	3' UTR	1.72075122149061
+E007	Peaks in long LOCKs	5' UTR	0.850938984527574
+E007	Peaks in long LOCKs	exon	5.91852156982447
+E007	Peaks in long LOCKs	Intergenic	37.1905864043999
+E007	Peaks in long LOCKs	intron	40.8215495456745
+E007	Peaks in long LOCKs	non-coding	1.67063422679993
+E007	Peaks in long LOCKs	promoter-TSS	9.12778732918077
+E007	Peaks in long LOCKs	TTS	2.69923071810228
+E007	Peaks in short LOCKs	3' UTR	1.9937917860554
+E007	Peaks in short LOCKs	5' UTR	2.17316607263494
+E007	Peaks in short LOCKs	exon	8.1903580497123
+E007	Peaks in short LOCKs	Intergenic	31.3951592237985
+E007	Peaks in short LOCKs	intron	37.8977683043306
+E007	Peaks in short LOCKs	non-coding	1.76753558366529
+E007	Peaks in short LOCKs	promoter-TSS	14.8123558599483
+E007	Peaks in short LOCKs	TTS	1.76986511985464
+E007	Typical peaks	3' UTR	0.775903319912169
+E007	Typical peaks	5' UTR	0.178435403253577
+E007	Typical peaks	exon	2.5450523306168
+E007	Typical peaks	Intergenic	57.6776416116727
+E007	Typical peaks	intron	36.0877031621973
+E007	Typical peaks	non-coding	0.500498635274756
+E007	Typical peaks	promoter-TSS	1.49329711954278
+E007	Typical peaks	TTS	0.741468417529899
+E009	Peaks in long LOCKs	3' UTR	1.17776615304779
+E009	Peaks in long LOCKs	5' UTR	0.36702397700875
+E009	Peaks in long LOCKs	exon	2.37998114298334
+E009	Peaks in long LOCKs	Intergenic	50.7303480446796
+E009	Peaks in long LOCKs	intron	37.6005508757157
+E009	Peaks in long LOCKs	non-coding	1.02837270313648
+E009	Peaks in long LOCKs	promoter-TSS	4.58399509576395
+E009	Peaks in long LOCKs	TTS	2.13196200766438
+E009	Peaks in short LOCKs	3' UTR	1.36081591398314
+E009	Peaks in short LOCKs	5' UTR	0.910093511080468
+E009	Peaks in short LOCKs	exon	2.68886419812113
+E009	Peaks in short LOCKs	Intergenic	48.0021795346357
+E009	Peaks in short LOCKs	intron	36.6953068744873
+E009	Peaks in short LOCKs	non-coding	1.07520308088808
+E009	Peaks in short LOCKs	promoter-TSS	7.74005829044636
+E009	Peaks in short LOCKs	TTS	1.52747859635777
+E009	Typical peaks	3' UTR	0.408334181485089
+E009	Typical peaks	5' UTR	0.131904561117816
+E009	Typical peaks	exon	1.26338746964828
+E009	Typical peaks	Intergenic	66.5021349191348
+E009	Typical peaks	intron	27.5556847977279
+E009	Typical peaks	non-coding	0.907764708163097
+E009	Typical peaks	promoter-TSS	2.41747483412575
+E009	Typical peaks	TTS	0.813314528597254
+E010	Peaks in long LOCKs	3' UTR	1.19913418777975
+E010	Peaks in long LOCKs	5' UTR	0.401152886281165
+E010	Peaks in long LOCKs	exon	2.3187377790251
+E010	Peaks in long LOCKs	Intergenic	51.502878281385
+E010	Peaks in long LOCKs	intron	37.5693226809491
+E010	Peaks in long LOCKs	non-coding	1.08566190308201
+E010	Peaks in long LOCKs	promoter-TSS	4.02304166049197
+E010	Peaks in long LOCKs	TTS	1.90007062100585
+E010	Peaks in short LOCKs	3' UTR	1.02315678014103
+E010	Peaks in short LOCKs	5' UTR	0.560386016304804
+E010	Peaks in short LOCKs	exon	3.39756720700597
+E010	Peaks in short LOCKs	Intergenic	47.9335703176331
+E010	Peaks in short LOCKs	intron	36.5209904029022
+E010	Peaks in short LOCKs	non-coding	1.07050255154059
+E010	Peaks in short LOCKs	promoter-TSS	7.46220667945214
+E010	Peaks in short LOCKs	TTS	2.03162004502013
+E010	Typical peaks	3' UTR	0.371869587339808
+E010	Typical peaks	5' UTR	0.0907777455721726
+E010	Typical peaks	exon	1.25884535606513
+E010	Typical peaks	Intergenic	68.1554192198681
+E010	Typical peaks	intron	27.145719064774
+E010	Typical peaks	non-coding	0.6128240080787
+E010	Typical peaks	promoter-TSS	1.7224761764087
+E010	Typical peaks	TTS	0.642068841893447
+E013	Peaks in long LOCKs	3' UTR	1.213426654636
+E013	Peaks in long LOCKs	5' UTR	0.423218814377873
+E013	Peaks in long LOCKs	exon	2.69469639669739
+E013	Peaks in long LOCKs	Intergenic	49.6170217651332
+E013	Peaks in long LOCKs	intron	37.4329429076076
+E013	Peaks in long LOCKs	non-coding	1.06742807239646
+E013	Peaks in long LOCKs	promoter-TSS	5.33935476137706
+E013	Peaks in long LOCKs	TTS	2.21191062777444
+E013	Peaks in short LOCKs	3' UTR	1.26623067234947
+E013	Peaks in short LOCKs	5' UTR	0.827429908026349
+E013	Peaks in short LOCKs	exon	3.46040032947689
+E013	Peaks in short LOCKs	Intergenic	42.9951908977225
+E013	Peaks in short LOCKs	intron	38.9680413282506
+E013	Peaks in short LOCKs	non-coding	1.611576747463
+E013	Peaks in short LOCKs	promoter-TSS	9.04228333558487
+E013	Peaks in short LOCKs	TTS	1.82884678112634
+E013	Typical peaks	3' UTR	0.528382459358069
+E013	Typical peaks	5' UTR	0.179363440763613
+E013	Typical peaks	exon	0.962062209953232
+E013	Typical peaks	Intergenic	56.914722363937
+E013	Typical peaks	intron	38.2709850631628
+E013	Typical peaks	non-coding	0.468009946568702
+E013	Typical peaks	promoter-TSS	1.91320075387217
+E013	Typical peaks	TTS	0.76327376238437
+E012	Peaks in long LOCKs	3' UTR	1.43860623682051
+E012	Peaks in long LOCKs	5' UTR	0.7904555332002
+E012	Peaks in long LOCKs	exon	4.1216974001623
+E012	Peaks in long LOCKs	Intergenic	42.1895351707708
+E012	Peaks in long LOCKs	intron	36.8189568656659
+E012	Peaks in long LOCKs	non-coding	1.21111881320509
+E012	Peaks in long LOCKs	promoter-TSS	10.635653128098
+E012	Peaks in long LOCKs	TTS	2.79397685207731
+E012	Peaks in short LOCKs	3' UTR	0.806587579764837
+E012	Peaks in short LOCKs	5' UTR	1.03272249096436
+E012	Peaks in short LOCKs	exon	3.41063889451126
+E012	Peaks in short LOCKs	Intergenic	40.1682131679648
+E012	Peaks in short LOCKs	intron	40.2062454410032
+E012	Peaks in short LOCKs	non-coding	2.65822834186658
+E012	Peaks in short LOCKs	promoter-TSS	9.77977688599983
+E012	Peaks in short LOCKs	TTS	1.93758719792515
+E012	Typical peaks	3' UTR	0.810052710926109
+E012	Typical peaks	5' UTR	1.80799458079937
+E012	Typical peaks	exon	4.37389642312542
+E012	Typical peaks	Intergenic	32.4704197814887
+E012	Typical peaks	intron	40.7723137329242
+E012	Typical peaks	non-coding	1.3431976301545
+E012	Typical peaks	promoter-TSS	17.1410640250017
+E012	Typical peaks	TTS	1.28106111558007
+E011	Peaks in long LOCKs	3' UTR	1.10637087212116
+E011	Peaks in long LOCKs	5' UTR	0.522199931877038
+E011	Peaks in long LOCKs	exon	2.32241309668161
+E011	Peaks in long LOCKs	Intergenic	51.0978739888667
+E011	Peaks in long LOCKs	intron	38.0755243771812
+E011	Peaks in long LOCKs	non-coding	0.956580790349606
+E011	Peaks in long LOCKs	promoter-TSS	4.2254386137321
+E011	Peaks in long LOCKs	TTS	1.69359832919062
+E011	Peaks in short LOCKs	3' UTR	0.743642152240709
+E011	Peaks in short LOCKs	5' UTR	0.651848761740957
+E011	Peaks in short LOCKs	exon	2.18834941441607
+E011	Peaks in short LOCKs	Intergenic	48.7432990739451
+E011	Peaks in short LOCKs	intron	39.9248305196069
+E011	Peaks in short LOCKs	non-coding	0.949095900356841
+E011	Peaks in short LOCKs	promoter-TSS	5.2682350815794
+E011	Peaks in short LOCKs	TTS	1.53069909611407
+E011	Typical peaks	3' UTR	0.455478678537467
+E011	Typical peaks	5' UTR	0.816806299453175
+E011	Typical peaks	exon	2.2722315695314
+E011	Typical peaks	Intergenic	50.8174030420146
+E011	Typical peaks	intron	36.2510812229284
+E011	Typical peaks	non-coding	0.998768024982031
+E011	Typical peaks	promoter-TSS	7.34496106105601
+E011	Typical peaks	TTS	1.04327010149696
+E004	Peaks in long LOCKs	3' UTR	1.75146717458761
+E004	Peaks in long LOCKs	5' UTR	0.825767691664096
+E004	Peaks in long LOCKs	exon	4.43112079250317
+E004	Peaks in long LOCKs	Intergenic	40.2365235797299
+E004	Peaks in long LOCKs	intron	38.4299999436582
+E004	Peaks in long LOCKs	non-coding	1.70714205729112
+E004	Peaks in long LOCKs	promoter-TSS	9.65431866616522
+E004	Peaks in long LOCKs	TTS	2.96366009440062
+E004	Peaks in short LOCKs	3' UTR	1.42187892940542
+E004	Peaks in short LOCKs	5' UTR	0.728004311119095
+E004	Peaks in short LOCKs	exon	4.91841207113346
+E004	Peaks in short LOCKs	Intergenic	36.9510328722831
+E004	Peaks in short LOCKs	intron	38.1626728938387
+E004	Peaks in short LOCKs	non-coding	1.48237830070056
+E004	Peaks in short LOCKs	promoter-TSS	14.0074007544458
+E004	Peaks in short LOCKs	TTS	2.32821986707383
+E004	Typical peaks	3' UTR	0.463031530840558
+E004	Typical peaks	5' UTR	1.54963158479368
+E004	Typical peaks	exon	4.46974525662116
+E004	Typical peaks	Intergenic	41.9897462616303
+E004	Typical peaks	intron	39.625263814909
+E004	Typical peaks	non-coding	0.939121569083802
+E004	Typical peaks	promoter-TSS	10.2235880943439
+E004	Typical peaks	TTS	0.739871887777502
+E005	Peaks in long LOCKs	3' UTR	1.51212055022815
+E005	Peaks in long LOCKs	5' UTR	1.28653292269319
+E005	Peaks in long LOCKs	exon	5.89610917243564
+E005	Peaks in long LOCKs	Intergenic	37.4855525759904
+E005	Peaks in long LOCKs	intron	37.5473658851425
+E005	Peaks in long LOCKs	non-coding	1.79763285218837
+E005	Peaks in long LOCKs	promoter-TSS	11.7923825739779
+E005	Peaks in long LOCKs	TTS	2.68230346734386
+E005	Peaks in short LOCKs	3' UTR	1.2070523364919
+E005	Peaks in short LOCKs	5' UTR	2.60351865430289
+E005	Peaks in short LOCKs	exon	9.36431415545472
+E005	Peaks in short LOCKs	Intergenic	24.832893037142
+E005	Peaks in short LOCKs	intron	38.7592977218351
+E005	Peaks in short LOCKs	non-coding	2.31091318828501
+E005	Peaks in short LOCKs	promoter-TSS	18.8955004630467
+E005	Peaks in short LOCKs	TTS	2.02651044344161
+E005	Typical peaks	3' UTR	0.643452791738647
+E005	Typical peaks	5' UTR	1.55187064148735
+E005	Typical peaks	exon	4.00509536820981
+E005	Typical peaks	Intergenic	46.4887918154909
+E005	Typical peaks	intron	36.4064649700824
+E005	Typical peaks	non-coding	1.10271570712273
+E005	Typical peaks	promoter-TSS	8.94163232071264
+E005	Typical peaks	TTS	0.859976385155454
+E006	Peaks in long LOCKs	3' UTR	1.44619777627489
+E006	Peaks in long LOCKs	5' UTR	0.268251737751401
+E006	Peaks in long LOCKs	exon	2.04299273272913
+E006	Peaks in long LOCKs	Intergenic	47.3288945091968
+E006	Peaks in long LOCKs	intron	40.5691015285262
+E006	Peaks in long LOCKs	non-coding	1.26611017167117
+E006	Peaks in long LOCKs	promoter-TSS	4.85554605946213
+E006	Peaks in long LOCKs	TTS	2.22290548438828
+E006	Peaks in short LOCKs	3' UTR	1.37920508475574
+E006	Peaks in short LOCKs	5' UTR	0.772492049487715
+E006	Peaks in short LOCKs	exon	3.25233745771549
+E006	Peaks in short LOCKs	Intergenic	42.6374572486813
+E006	Peaks in short LOCKs	intron	39.0023748533856
+E006	Peaks in short LOCKs	non-coding	1.21624723642446
+E006	Peaks in short LOCKs	promoter-TSS	9.53949845353428
+E006	Peaks in short LOCKs	TTS	2.20038761601537
+E006	Typical peaks	3' UTR	0.61283710874081
+E006	Typical peaks	5' UTR	0.18851063577954
+E006	Typical peaks	exon	1.70716936169541
+E006	Typical peaks	Intergenic	60.6784883640646
+E006	Typical peaks	intron	32.7604498531329
+E006	Typical peaks	non-coding	0.671820658445793
+E006	Typical peaks	promoter-TSS	2.34241627393618
+E006	Typical peaks	TTS	1.03830774420472
+E062	Peaks in long LOCKs	3' UTR	0.961603446638612
+E062	Peaks in long LOCKs	5' UTR	0.706252721559542
+E062	Peaks in long LOCKs	exon	3.42498020230295
+E062	Peaks in long LOCKs	Intergenic	49.0234253024407
+E062	Peaks in long LOCKs	intron	36.6125559318805
+E062	Peaks in long LOCKs	non-coding	1.20406107300809
+E062	Peaks in long LOCKs	promoter-TSS	6.26570733742434
+E062	Peaks in long LOCKs	TTS	1.80141398474529
+E062	Peaks in short LOCKs	3' UTR	0.929303831766949
+E062	Peaks in short LOCKs	5' UTR	1.93839624294982
+E062	Peaks in short LOCKs	exon	6.29055220538619
+E062	Peaks in short LOCKs	Intergenic	36.8368457610551
+E062	Peaks in short LOCKs	intron	36.854768803973
+E062	Peaks in short LOCKs	non-coding	1.7342161983892
+E062	Peaks in short LOCKs	promoter-TSS	13.8188642073927
+E062	Peaks in short LOCKs	TTS	1.59705274908704
+E062	Typical peaks	3' UTR	0.424384473038419
+E062	Typical peaks	5' UTR	1.09832405070156
+E062	Typical peaks	exon	3.13538690340651
+E062	Typical peaks	Intergenic	53.8167660286617
+E062	Typical peaks	intron	32.3340294293207
+E062	Typical peaks	non-coding	0.874737834166922
+E062	Typical peaks	promoter-TSS	7.48032604686428
+E062	Typical peaks	TTS	0.836045233839929
+E034	Peaks in long LOCKs	3' UTR	1.03591850378468
+E034	Peaks in long LOCKs	5' UTR	0.269621875747267
+E034	Peaks in long LOCKs	exon	2.63604277611976
+E034	Peaks in long LOCKs	Intergenic	50.718661501605
+E034	Peaks in long LOCKs	intron	39.1757685946428
+E034	Peaks in long LOCKs	non-coding	0.979863250125742
+E034	Peaks in long LOCKs	promoter-TSS	3.6111243862167
+E034	Peaks in long LOCKs	TTS	1.57299911175811
+E034	Peaks in short LOCKs	3' UTR	1.21807089639399
+E034	Peaks in short LOCKs	5' UTR	0.746870319192412
+E034	Peaks in short LOCKs	exon	3.97819980790559
+E034	Peaks in short LOCKs	Intergenic	49.8947815801283
+E034	Peaks in short LOCKs	intron	33.2599323290106
+E034	Peaks in short LOCKs	non-coding	1.18140084152024
+E034	Peaks in short LOCKs	promoter-TSS	7.7436372616144
+E034	Peaks in short LOCKs	TTS	1.97710696423443
+E034	Typical peaks	3' UTR	0.397413394244958
+E034	Typical peaks	5' UTR	0.527291697116397
+E034	Typical peaks	exon	2.07137551218767
+E034	Typical peaks	Intergenic	58.2717792636073
+E034	Typical peaks	intron	33.7213293182263
+E034	Typical peaks	non-coding	0.648136713383035
+E034	Typical peaks	promoter-TSS	3.72800729218623
+E034	Typical peaks	TTS	0.634666809048165
+E045	Peaks in long LOCKs	3' UTR	1.30856179241367
+E045	Peaks in long LOCKs	5' UTR	0.608643020724295
+E045	Peaks in long LOCKs	exon	2.46937583658225
+E045	Peaks in long LOCKs	Intergenic	47.3704275261773
+E045	Peaks in long LOCKs	intron	37.9324548401715
+E045	Peaks in long LOCKs	non-coding	1.18294808599367
+E045	Peaks in long LOCKs	promoter-TSS	6.99586847320932
+E045	Peaks in long LOCKs	TTS	2.13172042472794
+E045	Peaks in short LOCKs	3' UTR	1.8650737506371
+E045	Peaks in short LOCKs	5' UTR	1.40503785121685
+E045	Peaks in short LOCKs	exon	3.37665071705086
+E045	Peaks in short LOCKs	Intergenic	38.1149224650935
+E045	Peaks in short LOCKs	intron	37.4770514745866
+E045	Peaks in short LOCKs	non-coding	1.79139129856692
+E045	Peaks in short LOCKs	promoter-TSS	13.633512262226
+E045	Peaks in short LOCKs	TTS	2.33636018062215
+E045	Typical peaks	3' UTR	0.486277520466965
+E045	Typical peaks	5' UTR	0.619963090940782
+E045	Typical peaks	exon	1.80799838206864
+E045	Typical peaks	Intergenic	55.363721880792
+E045	Typical peaks	intron	35.2308878531408
+E045	Typical peaks	non-coding	0.633235184152788
+E045	Typical peaks	promoter-TSS	4.97377514213447
+E045	Typical peaks	TTS	0.884140946303572
+E033	Peaks in long LOCKs	3' UTR	1.7392128329738
+E033	Peaks in long LOCKs	5' UTR	0.530207204841937
+E033	Peaks in long LOCKs	exon	2.41483551593694
+E033	Peaks in long LOCKs	Intergenic	45.9623997488208
+E033	Peaks in long LOCKs	intron	36.9650645421007
+E033	Peaks in long LOCKs	non-coding	1.6315333785737
+E033	Peaks in long LOCKs	promoter-TSS	7.79968252882531
+E033	Peaks in long LOCKs	TTS	2.95706424792683
+E033	Peaks in short LOCKs	3' UTR	1.63070780651286
+E033	Peaks in short LOCKs	5' UTR	1.21856185042322
+E033	Peaks in short LOCKs	exon	3.48853680404732
+E033	Peaks in short LOCKs	Intergenic	33.5985341665367
+E033	Peaks in short LOCKs	intron	41.7365912907881
+E033	Peaks in short LOCKs	non-coding	1.60357456513993
+E033	Peaks in short LOCKs	promoter-TSS	14.3451452047383
+E033	Peaks in short LOCKs	TTS	2.37834831181361
+E033	Typical peaks	3' UTR	0.681847203583191
+E033	Typical peaks	5' UTR	0.636069476134143
+E033	Typical peaks	exon	1.69907649458257
+E033	Typical peaks	Intergenic	44.7347180694328
+E033	Typical peaks	intron	41.035636756142
+E033	Typical peaks	non-coding	0.833516042684117
+E033	Typical peaks	promoter-TSS	9.43840365836323
+E033	Typical peaks	TTS	0.94073229907794
+E044	Peaks in long LOCKs	3' UTR	1.31774932230582
+E044	Peaks in long LOCKs	5' UTR	0.467084756302003
+E044	Peaks in long LOCKs	exon	2.02611653768805
+E044	Peaks in long LOCKs	Intergenic	50.221064952722
+E044	Peaks in long LOCKs	intron	37.1777582821985
+E044	Peaks in long LOCKs	non-coding	1.04049641682642
+E044	Peaks in long LOCKs	promoter-TSS	5.91345665267392
+E044	Peaks in long LOCKs	TTS	1.83627307928321
+E044	Peaks in short LOCKs	3' UTR	1.09533342362647
+E044	Peaks in short LOCKs	5' UTR	1.28978797413178
+E044	Peaks in short LOCKs	exon	2.91713829469376
+E044	Peaks in short LOCKs	Intergenic	41.5163409670293
+E044	Peaks in short LOCKs	intron	36.8697477109025
+E044	Peaks in short LOCKs	non-coding	1.26517071931798
+E044	Peaks in short LOCKs	promoter-TSS	13.1518867980082
+E044	Peaks in short LOCKs	TTS	1.89459411229001
+E044	Typical peaks	3' UTR	0.430580229442052
+E044	Typical peaks	5' UTR	0.549679976114751
+E044	Typical peaks	exon	1.03518466990723
+E044	Typical peaks	Intergenic	60.9287893799159
+E044	Typical peaks	intron	32.6985579244502
+E044	Typical peaks	non-coding	0.471973105151327
+E044	Typical peaks	promoter-TSS	3.1295335810134
+E044	Typical peaks	TTS	0.755701134005172
+E043	Peaks in long LOCKs	3' UTR	1.05982272072856
+E043	Peaks in long LOCKs	5' UTR	0.361124104719073
+E043	Peaks in long LOCKs	exon	1.54559383866765
+E043	Peaks in long LOCKs	Intergenic	51.2190168437024
+E043	Peaks in long LOCKs	intron	38.429392295433
+E043	Peaks in long LOCKs	non-coding	0.983725696403636
+E043	Peaks in long LOCKs	promoter-TSS	4.70671854773587
+E043	Peaks in long LOCKs	TTS	1.69460595260982
+E043	Peaks in short LOCKs	3' UTR	1.32642190414747
+E043	Peaks in short LOCKs	5' UTR	0.934272851179008
+E043	Peaks in short LOCKs	exon	2.55257979321737
+E043	Peaks in short LOCKs	Intergenic	43.3052022175166
+E043	Peaks in short LOCKs	intron	38.5455010202572
+E043	Peaks in short LOCKs	non-coding	1.01382315016558
+E043	Peaks in short LOCKs	promoter-TSS	10.2450389938715
+E043	Peaks in short LOCKs	TTS	2.07716006964536
+E043	Typical peaks	3' UTR	0.578604243334667
+E043	Typical peaks	5' UTR	0.183975868576014
+E043	Typical peaks	exon	1.26202908628143
+E043	Typical peaks	Intergenic	61.1118855353586
+E043	Typical peaks	intron	32.3226003599159
+E043	Typical peaks	non-coding	0.607330827478686
+E043	Typical peaks	promoter-TSS	2.9130286948783
+E043	Typical peaks	TTS	1.02054538417638
+E039	Peaks in long LOCKs	3' UTR	1.2272125128046
+E039	Peaks in long LOCKs	5' UTR	0.30100178616475
+E039	Peaks in long LOCKs	exon	1.75006504681999
+E039	Peaks in long LOCKs	Intergenic	49.3263250460622
+E039	Peaks in long LOCKs	intron	38.7390559955345
+E039	Peaks in long LOCKs	non-coding	1.00909812857797
+E039	Peaks in long LOCKs	promoter-TSS	5.62035014328317
+E039	Peaks in long LOCKs	TTS	2.02689134075279
+E039	Peaks in short LOCKs	3' UTR	1.386010984668
+E039	Peaks in short LOCKs	5' UTR	1.21959527535336
+E039	Peaks in short LOCKs	exon	2.5667212083381
+E039	Peaks in short LOCKs	Intergenic	39.4595244573637
+E039	Peaks in short LOCKs	intron	39.515215238508
+E039	Peaks in short LOCKs	non-coding	1.26656513461615
+E039	Peaks in short LOCKs	promoter-TSS	12.2593384657498
+E039	Peaks in short LOCKs	TTS	2.32702923540292
+E039	Typical peaks	3' UTR	0.48869270167034
+E039	Typical peaks	5' UTR	0.237508560320651
+E039	Typical peaks	exon	1.19982291518035
+E039	Typical peaks	Intergenic	58.9082630163099
+E039	Typical peaks	intron	34.4564287964477
+E039	Typical peaks	non-coding	0.570467094354183
+E039	Typical peaks	promoter-TSS	3.28960519783717
+E039	Typical peaks	TTS	0.849211717879741
+E041	Peaks in long LOCKs	3' UTR	1.01965674903143
+E041	Peaks in long LOCKs	5' UTR	0.417630805019035
+E041	Peaks in long LOCKs	exon	1.89051311806617
+E041	Peaks in long LOCKs	Intergenic	51.65959283411
+E041	Peaks in long LOCKs	intron	37.7309713341067
+E041	Peaks in long LOCKs	non-coding	0.95577189230995
+E041	Peaks in long LOCKs	promoter-TSS	4.64669710714528
+E041	Peaks in long LOCKs	TTS	1.67916616021148
+E041	Peaks in short LOCKs	3' UTR	1.27464846203321
+E041	Peaks in short LOCKs	5' UTR	1.18491973083219
+E041	Peaks in short LOCKs	exon	2.85652973391575
+E041	Peaks in short LOCKs	Intergenic	42.9895917735964
+E041	Peaks in short LOCKs	intron	37.8366499939074
+E041	Peaks in short LOCKs	non-coding	1.29753771492125
+E041	Peaks in short LOCKs	promoter-TSS	10.2373996501346
+E041	Peaks in short LOCKs	TTS	2.32272294065923
+E041	Typical peaks	3' UTR	0.549818955979861
+E041	Typical peaks	5' UTR	0.300469033111108
+E041	Typical peaks	exon	1.24154492405791
+E041	Typical peaks	Intergenic	58.3246645067956
+E041	Typical peaks	intron	33.8377960535323
+E041	Typical peaks	non-coding	0.54950214874507
+E041	Typical peaks	promoter-TSS	4.21032289219661
+E041	Typical peaks	TTS	0.985881485581537
+E042	Peaks in long LOCKs	3' UTR	1.23782578402057
+E042	Peaks in long LOCKs	5' UTR	0.331168814009407
+E042	Peaks in long LOCKs	exon	1.53210124894831
+E042	Peaks in long LOCKs	Intergenic	50.4339700112327
+E042	Peaks in long LOCKs	intron	38.3578367275159
+E042	Peaks in long LOCKs	non-coding	1.05006418185743
+E042	Peaks in long LOCKs	promoter-TSS	4.98865357511837
+E042	Peaks in long LOCKs	TTS	2.06837965729728
+E042	Peaks in short LOCKs	3' UTR	1.46625753720103
+E042	Peaks in short LOCKs	5' UTR	0.782885930860622
+E042	Peaks in short LOCKs	exon	1.77629110324944
+E042	Peaks in short LOCKs	Intergenic	44.1450410175528
+E042	Peaks in short LOCKs	intron	38.8073614722172
+E042	Peaks in short LOCKs	non-coding	1.02863011473791
+E042	Peaks in short LOCKs	promoter-TSS	10.0924674048584
+E042	Peaks in short LOCKs	TTS	1.90106541932262
+E042	Typical peaks	3' UTR	0.641014097437391
+E042	Typical peaks	5' UTR	0.359100659410503
+E042	Typical peaks	exon	1.17532198123284
+E042	Typical peaks	Intergenic	58.8522902818605
+E042	Typical peaks	intron	33.8303893788124
+E042	Typical peaks	non-coding	0.557930139561982
+E042	Typical peaks	promoter-TSS	3.73475278726729
+E042	Typical peaks	TTS	0.849200674417168
+E040	Peaks in long LOCKs	3' UTR	1.36431149492211
+E040	Peaks in long LOCKs	5' UTR	0.560363075905566
+E040	Peaks in long LOCKs	exon	1.9185242840692
+E040	Peaks in long LOCKs	Intergenic	47.8804633013546
+E040	Peaks in long LOCKs	intron	38.1011783276911
+E040	Peaks in long LOCKs	non-coding	1.04635866324656
+E040	Peaks in long LOCKs	promoter-TSS	6.84536678578313
+E040	Peaks in long LOCKs	TTS	2.28343406702771
+E040	Peaks in short LOCKs	3' UTR	2.48050799376652
+E040	Peaks in short LOCKs	5' UTR	0.949102347794705
+E040	Peaks in short LOCKs	exon	2.63085307309306
+E040	Peaks in short LOCKs	Intergenic	42.0644142570575
+E040	Peaks in short LOCKs	intron	38.3054156436512
+E040	Peaks in short LOCKs	non-coding	1.75516834437075
+E040	Peaks in short LOCKs	promoter-TSS	9.58223805642338
+E040	Peaks in short LOCKs	TTS	2.23230028384292
+E040	Typical peaks	3' UTR	0.615523946035179
+E040	Typical peaks	5' UTR	0.80787086491227
+E040	Typical peaks	exon	1.9021394927605
+E040	Typical peaks	Intergenic	48.426141095594
+E040	Typical peaks	intron	37.1879453393751
+E040	Typical peaks	non-coding	0.822332260751047
+E040	Typical peaks	promoter-TSS	9.16196728825359
+E040	Typical peaks	TTS	1.07607971231831
+E037	Peaks in long LOCKs	3' UTR	1.58027742128778
+E037	Peaks in long LOCKs	5' UTR	0.505491170164257
+E037	Peaks in long LOCKs	exon	1.92219388072427
+E037	Peaks in long LOCKs	Intergenic	46.4600691118702
+E037	Peaks in long LOCKs	intron	37.6015700328998
+E037	Peaks in long LOCKs	non-coding	1.22321186452424
+E037	Peaks in long LOCKs	promoter-TSS	7.68282250517913
+E037	Peaks in long LOCKs	TTS	3.0243640133504
+E037	Peaks in short LOCKs	3' UTR	1.87859230526853
+E037	Peaks in short LOCKs	5' UTR	0.397485069410491
+E037	Peaks in short LOCKs	exon	1.74458822719848
+E037	Peaks in short LOCKs	Intergenic	40.1374809406362
+E037	Peaks in short LOCKs	intron	40.3750665493226
+E037	Peaks in short LOCKs	non-coding	1.09792800721449
+E037	Peaks in short LOCKs	promoter-TSS	11.3570267030289
+E037	Peaks in short LOCKs	TTS	3.0118321979204
+E037	Typical peaks	3' UTR	0.727321296307539
+E037	Typical peaks	5' UTR	0.333684446980827
+E037	Typical peaks	exon	1.31713151280401
+E037	Typical peaks	Intergenic	50.6389104751266
+E037	Typical peaks	intron	37.1877162839831
+E037	Typical peaks	non-coding	0.659552314921622
+E037	Typical peaks	promoter-TSS	8.08947630438214
+E037	Typical peaks	TTS	1.04620736549413
+E048	Peaks in long LOCKs	3' UTR	1.60911183553058
+E048	Peaks in long LOCKs	5' UTR	0.503007087531372
+E048	Peaks in long LOCKs	exon	2.29726608805912
+E048	Peaks in long LOCKs	Intergenic	45.1688185913238
+E048	Peaks in long LOCKs	intron	37.2831459945221
+E048	Peaks in long LOCKs	non-coding	1.29662257929114
+E048	Peaks in long LOCKs	promoter-TSS	8.92662038246525
+E048	Peaks in long LOCKs	TTS	2.91540744127667
+E048	Peaks in short LOCKs	3' UTR	1.92006012955299
+E048	Peaks in short LOCKs	5' UTR	0.801519456339021
+E048	Peaks in short LOCKs	exon	3.37807703943039
+E048	Peaks in short LOCKs	Intergenic	33.7670478822109
+E048	Peaks in short LOCKs	intron	41.7059889409028
+E048	Peaks in short LOCKs	non-coding	2.04340680075224
+E048	Peaks in short LOCKs	promoter-TSS	13.4876700110092
+E048	Peaks in short LOCKs	TTS	2.89622973980246
+E048	Typical peaks	3' UTR	0.837776949958313
+E048	Typical peaks	5' UTR	0.533304950951697
+E048	Typical peaks	exon	1.62971635357352
+E048	Typical peaks	Intergenic	48.7913008000284
+E048	Typical peaks	intron	37.9577457293385
+E048	Typical peaks	non-coding	0.84473063345928
+E048	Typical peaks	promoter-TSS	8.50392918595782
+E048	Typical peaks	TTS	0.901495396732478
+E038	Peaks in long LOCKs	3' UTR	1.36227006776092
+E038	Peaks in long LOCKs	5' UTR	0.399834690212865
+E038	Peaks in long LOCKs	exon	1.57877428183376
+E038	Peaks in long LOCKs	Intergenic	48.9219501498642
+E038	Peaks in long LOCKs	intron	37.9627908813433
+E038	Peaks in long LOCKs	non-coding	1.04878842990281
+E038	Peaks in long LOCKs	promoter-TSS	6.46000958387252
+E038	Peaks in long LOCKs	TTS	2.26558191520958
+E038	Peaks in short LOCKs	3' UTR	1.91158523610995
+E038	Peaks in short LOCKs	5' UTR	0.371609424355449
+E038	Peaks in short LOCKs	exon	2.45369296303262
+E038	Peaks in short LOCKs	Intergenic	42.9415487340981
+E038	Peaks in short LOCKs	intron	41.6754409687379
+E038	Peaks in short LOCKs	non-coding	0.901499479032964
+E038	Peaks in short LOCKs	promoter-TSS	7.35146948396122
+E038	Peaks in short LOCKs	TTS	2.39315371067179
+E038	Typical peaks	3' UTR	0.591888337140737
+E038	Typical peaks	5' UTR	0.417248095592928
+E038	Typical peaks	exon	1.22426327962882
+E038	Typical peaks	Intergenic	51.9843558687985
+E038	Typical peaks	intron	38.5013364142942
+E038	Typical peaks	non-coding	0.587968841793579
+E038	Typical peaks	promoter-TSS	5.75239389859286
+E038	Typical peaks	TTS	0.940545264158398
+E047	Peaks in long LOCKs	3' UTR	1.05164789822509
+E047	Peaks in long LOCKs	5' UTR	0.410446415904761
+E047	Peaks in long LOCKs	exon	1.8291215137161
+E047	Peaks in long LOCKs	Intergenic	51.9324079168515
+E047	Peaks in long LOCKs	intron	37.3663825142892
+E047	Peaks in long LOCKs	non-coding	0.8835987336154
+E047	Peaks in long LOCKs	promoter-TSS	4.77312727347572
+E047	Peaks in long LOCKs	TTS	1.7532677339222
+E047	Peaks in short LOCKs	3' UTR	1.30378917547624
+E047	Peaks in short LOCKs	5' UTR	0.906359532248832
+E047	Peaks in short LOCKs	exon	2.93079982216357
+E047	Peaks in short LOCKs	Intergenic	42.6080389209878
+E047	Peaks in short LOCKs	intron	38.1934751325079
+E047	Peaks in short LOCKs	non-coding	1.58144711105095
+E047	Peaks in short LOCKs	promoter-TSS	10.2626753103443
+E047	Peaks in short LOCKs	TTS	2.21341499522041
+E047	Typical peaks	3' UTR	0.458181520385427
+E047	Typical peaks	5' UTR	0.127244745649574
+E047	Typical peaks	exon	1.06678533571908
+E047	Typical peaks	Intergenic	61.369167369719
+E047	Typical peaks	intron	33.8131086038153
+E047	Typical peaks	non-coding	0.596396972703028
+E047	Typical peaks	promoter-TSS	1.87606809873018
+E047	Typical peaks	TTS	0.693047353278387
+E029	Peaks in long LOCKs	3' UTR	1.53697488328515
+E029	Peaks in long LOCKs	5' UTR	0.463378881486049
+E029	Peaks in long LOCKs	exon	2.27740763578027
+E029	Peaks in long LOCKs	Intergenic	45.7517926806644
+E029	Peaks in long LOCKs	intron	40.1149460235538
+E029	Peaks in long LOCKs	non-coding	1.10675154351882
+E029	Peaks in long LOCKs	promoter-TSS	6.12305425205068
+E029	Peaks in long LOCKs	TTS	2.62569409966073
+E029	Peaks in short LOCKs	3' UTR	1.39287011244555
+E029	Peaks in short LOCKs	5' UTR	0.809179610626551
+E029	Peaks in short LOCKs	exon	2.13910761154856
+E029	Peaks in short LOCKs	Intergenic	41.9044745545995
+E029	Peaks in short LOCKs	intron	41.6619044201911
+E029	Peaks in short LOCKs	non-coding	1.32217575951308
+E029	Peaks in short LOCKs	promoter-TSS	8.36103699547913
+E029	Peaks in short LOCKs	TTS	2.4092509355966
+E029	Typical peaks	3' UTR	0.959291515720021
+E029	Typical peaks	5' UTR	1.80764972109333
+E029	Typical peaks	exon	2.3928290553196
+E029	Typical peaks	Intergenic	36.0776185434456
+E029	Typical peaks	intron	40.3606850878816
+E029	Typical peaks	non-coding	1.10003968375925
+E029	Typical peaks	promoter-TSS	15.9055837534861
+E029	Typical peaks	TTS	1.39630263929446
+E031	Peaks in long LOCKs	3' UTR	2.11123247196888
+E031	Peaks in long LOCKs	5' UTR	0.383659545515121
+E031	Peaks in long LOCKs	exon	1.62618340787985
+E031	Peaks in long LOCKs	Intergenic	43.7021639362706
+E031	Peaks in long LOCKs	intron	38.4422310783653
+E031	Peaks in long LOCKs	non-coding	2.08102991392606
+E031	Peaks in long LOCKs	promoter-TSS	7.78629982501267
+E031	Peaks in long LOCKs	TTS	3.86719982106156
+E031	Peaks in short LOCKs	3' UTR	1.98757373510891
+E031	Peaks in short LOCKs	5' UTR	0.610311913917207
+E031	Peaks in short LOCKs	exon	1.77461940634724
+E031	Peaks in short LOCKs	Intergenic	38.7485200590929
+E031	Peaks in short LOCKs	intron	42.1542177006171
+E031	Peaks in short LOCKs	non-coding	1.1774043146171
+E031	Peaks in short LOCKs	promoter-TSS	9.46664501325398
+E031	Peaks in short LOCKs	TTS	4.08070785704557
+E031	Typical peaks	3' UTR	1.59724875811998
+E031	Typical peaks	5' UTR	0.570424149789836
+E031	Typical peaks	exon	1.01062285059228
+E031	Typical peaks	Intergenic	39.7844860527321
+E031	Typical peaks	intron	42.8184944593045
+E031	Typical peaks	non-coding	0.957432174245319
+E031	Typical peaks	promoter-TSS	11.4937714940772
+E031	Typical peaks	TTS	1.76752006113871
+E035	Peaks in long LOCKs	3' UTR	1.68136671029019
+E035	Peaks in long LOCKs	5' UTR	0.212494062871781
+E035	Peaks in long LOCKs	exon	1.49723552376175
+E035	Peaks in long LOCKs	Intergenic	48.9484676521454
+E035	Peaks in long LOCKs	intron	38.466652269386
+E035	Peaks in long LOCKs	non-coding	1.34275060164649
+E035	Peaks in long LOCKs	promoter-TSS	5.04739027119507
+E035	Peaks in long LOCKs	TTS	2.80364290870339
+E035	Peaks in short LOCKs	3' UTR	1.6078483632918
+E035	Peaks in short LOCKs	5' UTR	0.482545786883633
+E035	Peaks in short LOCKs	exon	2.02491825497386
+E035	Peaks in short LOCKs	Intergenic	39.5440985934559
+E035	Peaks in short LOCKs	intron	42.6273721612048
+E035	Peaks in short LOCKs	non-coding	1.46630272018188
+E035	Peaks in short LOCKs	promoter-TSS	9.46613288222578
+E035	Peaks in short LOCKs	TTS	2.78078123778239
+E035	Typical peaks	3' UTR	1.10859117028402
+E035	Typical peaks	5' UTR	0.523468744246897
+E035	Typical peaks	exon	1.00549556007317
+E035	Typical peaks	Intergenic	48.5325718672762
+E035	Typical peaks	intron	40.1232290234511
+E035	Typical peaks	non-coding	0.704747803538624
+E035	Typical peaks	promoter-TSS	6.84841576673443
+E035	Typical peaks	TTS	1.15348006439559
+E051	Peaks in long LOCKs	3' UTR	1.03114300219002
+E051	Peaks in long LOCKs	5' UTR	0.381255317422392
+E051	Peaks in long LOCKs	exon	2.05217108149945
+E051	Peaks in long LOCKs	Intergenic	50.4490724956282
+E051	Peaks in long LOCKs	intron	39.9228416879208
+E051	Peaks in long LOCKs	non-coding	0.982995554378161
+E051	Peaks in long LOCKs	promoter-TSS	3.48644847545414
+E051	Peaks in long LOCKs	TTS	1.6940723855068
+E051	Peaks in short LOCKs	3' UTR	1.33483372131568
+E051	Peaks in short LOCKs	5' UTR	1.2541533147858
+E051	Peaks in short LOCKs	exon	3.42604846402886
+E051	Peaks in short LOCKs	Intergenic	40.9809211525841
+E051	Peaks in short LOCKs	intron	40.3955638507045
+E051	Peaks in short LOCKs	non-coding	1.13658942633146
+E051	Peaks in short LOCKs	promoter-TSS	9.47473616309147
+E051	Peaks in short LOCKs	TTS	1.99715390715821
+E051	Typical peaks	3' UTR	0.873685230673145
+E051	Typical peaks	5' UTR	0.447694584663906
+E051	Typical peaks	exon	2.80054989692424
+E051	Typical peaks	Intergenic	54.466859617154
+E051	Typical peaks	intron	35.5343966747747
+E051	Typical peaks	non-coding	0.786103736212196
+E051	Typical peaks	promoter-TSS	4.1521046479212
+E051	Typical peaks	TTS	0.938605611676575
+E050	Peaks in long LOCKs	3' UTR	1.04081267572568
+E050	Peaks in long LOCKs	5' UTR	0.378369031123595
+E050	Peaks in long LOCKs	exon	1.78341281016912
+E050	Peaks in long LOCKs	Intergenic	50.7205389007358
+E050	Peaks in long LOCKs	intron	39.8251675875249
+E050	Peaks in long LOCKs	non-coding	0.944777557315227
+E050	Peaks in long LOCKs	promoter-TSS	3.58235711980989
+E050	Peaks in long LOCKs	TTS	1.72456431759576
+E050	Peaks in short LOCKs	3' UTR	1.46447861314286
+E050	Peaks in short LOCKs	5' UTR	1.21395998669723
+E050	Peaks in short LOCKs	exon	3.34866690416525
+E050	Peaks in short LOCKs	Intergenic	38.9945124629984
+E050	Peaks in short LOCKs	intron	42.2627785606519
+E050	Peaks in short LOCKs	non-coding	1.09855062140556
+E050	Peaks in short LOCKs	promoter-TSS	9.72731365329911
+E050	Peaks in short LOCKs	TTS	1.88973919763974
+E050	Typical peaks	3' UTR	0.641326069795393
+E050	Typical peaks	5' UTR	0.73052606126121
+E050	Typical peaks	exon	3.04748561634581
+E050	Typical peaks	Intergenic	52.0847231013221
+E050	Typical peaks	intron	36.5922829650596
+E050	Typical peaks	non-coding	0.834803109287325
+E050	Typical peaks	promoter-TSS	4.73711160577764
+E050	Typical peaks	TTS	1.33174147115091
+E036	Peaks in long LOCKs	3' UTR	1.21475948052346
+E036	Peaks in long LOCKs	5' UTR	0.294012454154162
+E036	Peaks in long LOCKs	exon	2.09010845483197
+E036	Peaks in long LOCKs	Intergenic	48.5883638129867
+E036	Peaks in long LOCKs	intron	41.0085172523169
+E036	Peaks in long LOCKs	non-coding	0.981969982632518
+E036	Peaks in long LOCKs	promoter-TSS	4.06063998963369
+E036	Peaks in long LOCKs	TTS	1.76162857292065
+E036	Peaks in short LOCKs	3' UTR	1.14808844938227
+E036	Peaks in short LOCKs	5' UTR	1.0203717482466
+E036	Peaks in short LOCKs	exon	3.67416137454503
+E036	Peaks in short LOCKs	Intergenic	42.4910621669592
+E036	Peaks in short LOCKs	intron	38.7569192719711
+E036	Peaks in short LOCKs	non-coding	1.22994920855507
+E036	Peaks in short LOCKs	promoter-TSS	9.6952165383585
+E036	Peaks in short LOCKs	TTS	1.98423124198229
+E036	Typical peaks	3' UTR	0.487464333440531
+E036	Typical peaks	5' UTR	0.137973690987619
+E036	Typical peaks	exon	1.38881770880713
+E036	Typical peaks	Intergenic	60.5174549931902
+E036	Typical peaks	intron	34.3264449521008
+E036	Typical peaks	non-coding	0.526045717258194
+E036	Typical peaks	promoter-TSS	1.80613407167009
+E036	Typical peaks	TTS	0.809664532545455
+E032	Peaks in long LOCKs	3' UTR	1.18603648332551
+E032	Peaks in long LOCKs	5' UTR	0.438885040690966
+E032	Peaks in long LOCKs	exon	1.79995831478624
+E032	Peaks in long LOCKs	Intergenic	49.9261700115271
+E032	Peaks in long LOCKs	intron	37.3567296639805
+E032	Peaks in long LOCKs	non-coding	1.12100610434512
+E032	Peaks in long LOCKs	promoter-TSS	6.1363747036343
+E032	Peaks in long LOCKs	TTS	2.03483967771024
+E032	Peaks in short LOCKs	3' UTR	1.29314228597749
+E032	Peaks in short LOCKs	5' UTR	1.02871276169649
+E032	Peaks in short LOCKs	exon	2.6035911587705
+E032	Peaks in short LOCKs	Intergenic	43.4017692624517
+E032	Peaks in short LOCKs	intron	36.72163678305
+E032	Peaks in short LOCKs	non-coding	1.4469902816374
+E032	Peaks in short LOCKs	promoter-TSS	11.4691002864198
+E032	Peaks in short LOCKs	TTS	2.03505717999669
+E032	Typical peaks	3' UTR	0.542639924959383
+E032	Typical peaks	5' UTR	0.206575253352433
+E032	Typical peaks	exon	0.834884358926762
+E032	Typical peaks	Intergenic	60.0024312634192
+E032	Typical peaks	intron	34.7510911937339
+E032	Typical peaks	non-coding	0.379761703330009
+E032	Typical peaks	promoter-TSS	2.54720018661589
+E032	Typical peaks	TTS	0.735416115662429
+E046	Peaks in long LOCKs	3' UTR	1.33536781177282
+E046	Peaks in long LOCKs	5' UTR	0.458616873019099
+E046	Peaks in long LOCKs	exon	1.99403328743844
+E046	Peaks in long LOCKs	Intergenic	48.8779405705132
+E046	Peaks in long LOCKs	intron	36.9657085016737
+E046	Peaks in long LOCKs	non-coding	1.15838475584393
+E046	Peaks in long LOCKs	promoter-TSS	6.98127483598489
+E046	Peaks in long LOCKs	TTS	2.22867336375398
+E046	Peaks in short LOCKs	3' UTR	1.43806742446183
+E046	Peaks in short LOCKs	5' UTR	1.33746678874856
+E046	Peaks in short LOCKs	exon	2.31023940882623
+E046	Peaks in short LOCKs	Intergenic	37.1601974056998
+E046	Peaks in short LOCKs	intron	40.5036282786273
+E046	Peaks in short LOCKs	non-coding	1.39431042019316
+E046	Peaks in short LOCKs	promoter-TSS	14.0474149639061
+E046	Peaks in short LOCKs	TTS	1.80867530953696
+E046	Typical peaks	3' UTR	0.637267925458556
+E046	Typical peaks	5' UTR	0.306955464786092
+E046	Typical peaks	exon	1.12688442015869
+E046	Typical peaks	Intergenic	58.9051006810817
+E046	Typical peaks	intron	33.9914723659808
+E046	Typical peaks	non-coding	0.57833164759006
+E046	Typical peaks	promoter-TSS	3.76829652923327
+E046	Typical peaks	TTS	0.685690965710791
+E030	Peaks in long LOCKs	3' UTR	1.25901751495393
+E030	Peaks in long LOCKs	5' UTR	0.399126578463692
+E030	Peaks in long LOCKs	exon	2.25893357883333
+E030	Peaks in long LOCKs	Intergenic	48.8131104576268
+E030	Peaks in long LOCKs	intron	39.0204861225412
+E030	Peaks in long LOCKs	non-coding	1.06422740930982
+E030	Peaks in long LOCKs	promoter-TSS	5.17797919477444
+E030	Peaks in long LOCKs	TTS	2.00711914349688
+E030	Peaks in short LOCKs	3' UTR	1.04326207935841
+E030	Peaks in short LOCKs	5' UTR	1.0986166631307
+E030	Peaks in short LOCKs	exon	3.05234887573527
+E030	Peaks in short LOCKs	Intergenic	40.6550926939551
+E030	Peaks in short LOCKs	intron	39.284540591194
+E030	Peaks in short LOCKs	non-coding	1.6469794873918
+E030	Peaks in short LOCKs	promoter-TSS	11.486079273971
+E030	Peaks in short LOCKs	TTS	1.7330803352637
+E030	Typical peaks	3' UTR	0.605736668122652
+E030	Typical peaks	5' UTR	0.422181093874045
+E030	Typical peaks	exon	1.56007509151185
+E030	Typical peaks	Intergenic	55.7109169906902
+E030	Typical peaks	intron	35.8882569437637
+E030	Typical peaks	non-coding	0.846866110970277
+E030	Typical peaks	promoter-TSS	4.02202077732578
+E030	Typical peaks	TTS	0.943946323741562
+E026	Peaks in long LOCKs	3' UTR	1.0311922355772
+E026	Peaks in long LOCKs	5' UTR	0.184374631589982
+E026	Peaks in long LOCKs	exon	1.60882329029585
+E026	Peaks in long LOCKs	Intergenic	54.4447162874963
+E026	Peaks in long LOCKs	intron	37.6295419390495
+E026	Peaks in long LOCKs	non-coding	0.771524116432792
+E026	Peaks in long LOCKs	promoter-TSS	2.79147926997063
+E026	Peaks in long LOCKs	TTS	1.53834822958775
+E026	Peaks in short LOCKs	3' UTR	1.24865518818794
+E026	Peaks in short LOCKs	5' UTR	0.671707508629176
+E026	Peaks in short LOCKs	exon	2.69268704907734
+E026	Peaks in short LOCKs	Intergenic	53.1409073896477
+E026	Peaks in short LOCKs	intron	33.8717183655342
+E026	Peaks in short LOCKs	non-coding	0.915694227650251
+E026	Peaks in short LOCKs	promoter-TSS	5.6702329377547
+E026	Peaks in short LOCKs	TTS	1.78839733351873
+E026	Typical peaks	3' UTR	0.395648482645979
+E026	Typical peaks	5' UTR	0.179982075707039
+E026	Typical peaks	exon	1.19164723841671
+E026	Typical peaks	Intergenic	64.0710319403509
+E026	Typical peaks	intron	31.045244980736
+E026	Typical peaks	non-coding	0.590413480382344
+E026	Typical peaks	promoter-TSS	1.91566137663908
+E026	Typical peaks	TTS	0.610370425121933
+E049	Peaks in long LOCKs	3' UTR	0.920357894294181
+E049	Peaks in long LOCKs	5' UTR	0.208556936907921
+E049	Peaks in long LOCKs	exon	1.55479493992243
+E049	Peaks in long LOCKs	Intergenic	55.4739916455158
+E049	Peaks in long LOCKs	intron	37.4693174350769
+E049	Peaks in long LOCKs	non-coding	0.769714811976994
+E049	Peaks in long LOCKs	promoter-TSS	2.20611507318652
+E049	Peaks in long LOCKs	TTS	1.39715126311921
+E049	Peaks in short LOCKs	3' UTR	1.23303585540588
+E049	Peaks in short LOCKs	5' UTR	0.431702808935237
+E049	Peaks in short LOCKs	exon	2.46961836181549
+E049	Peaks in short LOCKs	Intergenic	53.3708631621718
+E049	Peaks in short LOCKs	intron	35.2992489873817
+E049	Peaks in short LOCKs	non-coding	0.91747041975665
+E049	Peaks in short LOCKs	promoter-TSS	4.62225015604647
+E049	Peaks in short LOCKs	TTS	1.65581024848677
+E049	Typical peaks	3' UTR	0.632418200282789
+E049	Typical peaks	5' UTR	0.276404174920343
+E049	Typical peaks	exon	1.39359801281828
+E049	Typical peaks	Intergenic	65.1818419397155
+E049	Typical peaks	intron	29.0740247325128
+E049	Typical peaks	non-coding	0.5252956213731
+E049	Typical peaks	promoter-TSS	2.25994250588859
+E049	Typical peaks	TTS	0.656474812488668
+E025	Peaks in long LOCKs	3' UTR	1.11385135411577
+E025	Peaks in long LOCKs	5' UTR	0.19068454560651
+E025	Peaks in long LOCKs	exon	1.64122304185825
+E025	Peaks in long LOCKs	Intergenic	53.934893273488
+E025	Peaks in long LOCKs	intron	38.1827967649311
+E025	Peaks in long LOCKs	non-coding	0.846782774421173
+E025	Peaks in long LOCKs	promoter-TSS	2.45718323144955
+E025	Peaks in long LOCKs	TTS	1.63258501412962
+E025	Peaks in short LOCKs	3' UTR	1.3361334091469
+E025	Peaks in short LOCKs	5' UTR	0.414666425523264
+E025	Peaks in short LOCKs	exon	2.96316474686899
+E025	Peaks in short LOCKs	Intergenic	50.5623951822779
+E025	Peaks in short LOCKs	intron	36.3187769182681
+E025	Peaks in short LOCKs	non-coding	1.12273944889159
+E025	Peaks in short LOCKs	promoter-TSS	5.29072963680842
+E025	Peaks in short LOCKs	TTS	1.99139423221481
+E025	Typical peaks	3' UTR	0.528277581096728
+E025	Typical peaks	5' UTR	0.169268807661242
+E025	Typical peaks	exon	1.54325895555761
+E025	Typical peaks	Intergenic	62.0347045258711
+E025	Typical peaks	intron	31.7645552747102
+E025	Typical peaks	non-coding	0.740704595907031
+E025	Typical peaks	promoter-TSS	2.34822438823327
+E025	Typical peaks	TTS	0.871005870962816
+E023	Peaks in long LOCKs	3' UTR	0.971463334910211
+E023	Peaks in long LOCKs	5' UTR	0.131237763799514
+E023	Peaks in long LOCKs	exon	1.46472412567433
+E023	Peaks in long LOCKs	Intergenic	54.8814474015122
+E023	Peaks in long LOCKs	intron	38.0056050585976
+E023	Peaks in long LOCKs	non-coding	0.810665592360749
+E023	Peaks in long LOCKs	promoter-TSS	2.19953938201939
+E023	Peaks in long LOCKs	TTS	1.53531734112599
+E023	Peaks in short LOCKs	3' UTR	1.30790546275687
+E023	Peaks in short LOCKs	5' UTR	0.390973604786816
+E023	Peaks in short LOCKs	exon	2.64131926291944
+E023	Peaks in short LOCKs	Intergenic	52.8201255031353
+E023	Peaks in short LOCKs	intron	35.3200179239201
+E023	Peaks in short LOCKs	non-coding	0.933556234382423
+E023	Peaks in short LOCKs	promoter-TSS	4.55821231966105
+E023	Peaks in short LOCKs	TTS	2.02788968843803
+E023	Typical peaks	3' UTR	0.441746868117967
+E023	Typical peaks	5' UTR	0.0907628316418515
+E023	Typical peaks	exon	1.30505641067882
+E023	Typical peaks	Intergenic	64.003009498098
+E023	Typical peaks	intron	30.9595152623603
+E023	Typical peaks	non-coding	0.61550383817872
+E023	Typical peaks	promoter-TSS	1.92536315038641
+E023	Typical peaks	TTS	0.659042140537942
+E052	Peaks in long LOCKs	3' UTR	1.06369324081022
+E052	Peaks in long LOCKs	5' UTR	0.215823010310333
+E052	Peaks in long LOCKs	exon	1.87152440143128
+E052	Peaks in long LOCKs	Intergenic	53.980549047461
+E052	Peaks in long LOCKs	intron	37.3128688714044
+E052	Peaks in long LOCKs	non-coding	0.905069939655385
+E052	Peaks in long LOCKs	promoter-TSS	3.02792287389705
+E052	Peaks in long LOCKs	TTS	1.62254861503034
+E052	Peaks in short LOCKs	3' UTR	1.04200821683368
+E052	Peaks in short LOCKs	5' UTR	0.586628997091174
+E052	Peaks in short LOCKs	exon	2.94276352284203
+E052	Peaks in short LOCKs	Intergenic	52.4255799294641
+E052	Peaks in short LOCKs	intron	34.3278765279334
+E052	Peaks in short LOCKs	non-coding	1.04453826294886
+E052	Peaks in short LOCKs	promoter-TSS	5.83696906291599
+E052	Peaks in short LOCKs	TTS	1.79363547997083
+E052	Typical peaks	3' UTR	0.501276022860579
+E052	Typical peaks	5' UTR	0.195684069156845
+E052	Typical peaks	exon	1.29298203765003
+E052	Typical peaks	Intergenic	62.9019308627614
+E052	Typical peaks	intron	31.5945547644178
+E052	Typical peaks	non-coding	0.65104941035
+E052	Typical peaks	promoter-TSS	1.98500795676227
+E052	Typical peaks	TTS	0.87751487604116
+E055	Peaks in long LOCKs	3' UTR	1.36203291573172
+E055	Peaks in long LOCKs	5' UTR	0.339891457895857
+E055	Peaks in long LOCKs	exon	3.32596837477075
+E055	Peaks in long LOCKs	Intergenic	49.8120111873942
+E055	Peaks in long LOCKs	intron	38.9553674332655
+E055	Peaks in long LOCKs	non-coding	0.978693781376211
+E055	Peaks in long LOCKs	promoter-TSS	3.32288864389019
+E055	Peaks in long LOCKs	TTS	1.90314620567557
+E055	Peaks in short LOCKs	3' UTR	1.06839919289218
+E055	Peaks in short LOCKs	5' UTR	0.77736137672248
+E055	Peaks in short LOCKs	exon	3.90838678794867
+E055	Peaks in short LOCKs	Intergenic	54.1452297395215
+E055	Peaks in short LOCKs	intron	31.6801722427592
+E055	Peaks in short LOCKs	non-coding	1.29288729908428
+E055	Peaks in short LOCKs	promoter-TSS	5.47633437043646
+E055	Peaks in short LOCKs	TTS	1.65122899063526
+E055	Typical peaks	3' UTR	0.385875140956164
+E055	Typical peaks	5' UTR	0.999686057736036
+E055	Typical peaks	exon	3.3204626785241
+E055	Typical peaks	Intergenic	57.7965654129514
+E055	Typical peaks	intron	30.0305042343085
+E055	Typical peaks	non-coding	0.944623909881944
+E055	Typical peaks	promoter-TSS	5.91673586110647
+E055	Typical peaks	TTS	0.605546704535341
+E056	Peaks in long LOCKs	3' UTR	1.43017808355537
+E056	Peaks in long LOCKs	5' UTR	0.351542334664663
+E056	Peaks in long LOCKs	exon	3.55541509327369
+E056	Peaks in long LOCKs	Intergenic	47.7673166279386
+E056	Peaks in long LOCKs	intron	40.3880278870605
+E056	Peaks in long LOCKs	non-coding	1.10158461303607
+E056	Peaks in long LOCKs	promoter-TSS	3.51901172240069
+E056	Peaks in long LOCKs	TTS	1.88692363807036
+E056	Peaks in short LOCKs	3' UTR	1.48688514151183
+E056	Peaks in short LOCKs	5' UTR	0.651445714571445
+E056	Peaks in short LOCKs	exon	5.1694408716115
+E056	Peaks in short LOCKs	Intergenic	48.173265165405
+E056	Peaks in short LOCKs	intron	34.769365433357
+E056	Peaks in short LOCKs	non-coding	1.42309439181861
+E056	Peaks in short LOCKs	promoter-TSS	6.50941524472276
+E056	Peaks in short LOCKs	TTS	1.81708803700185
+E056	Typical peaks	3' UTR	0.543894044820664
+E056	Typical peaks	5' UTR	1.0028823933566
+E056	Typical peaks	exon	2.97922818252701
+E056	Typical peaks	Intergenic	57.7352143543913
+E056	Typical peaks	intron	30.9950351612257
+E056	Typical peaks	non-coding	0.937137571457575
+E056	Typical peaks	promoter-TSS	4.9673731341704
+E056	Typical peaks	TTS	0.839235158050756
+E059	Peaks in long LOCKs	3' UTR	1.28337776742042
+E059	Peaks in long LOCKs	5' UTR	0.386898792881128
+E059	Peaks in long LOCKs	exon	4.25480916715346
+E059	Peaks in long LOCKs	Intergenic	44.9675779822095
+E059	Peaks in long LOCKs	intron	41.0786114704392
+E059	Peaks in long LOCKs	non-coding	1.35933247300829
+E059	Peaks in long LOCKs	promoter-TSS	4.62626644881848
+E059	Peaks in long LOCKs	TTS	2.04312589806953
+E059	Peaks in short LOCKs	3' UTR	1.35860086201846
+E059	Peaks in short LOCKs	5' UTR	1.91063380053322
+E059	Peaks in short LOCKs	exon	8.54257176902979
+E059	Peaks in short LOCKs	Intergenic	31.6266392620976
+E059	Peaks in short LOCKs	intron	39.5230465510393
+E059	Peaks in short LOCKs	non-coding	1.57112243532309
+E059	Peaks in short LOCKs	promoter-TSS	13.1476179291383
+E059	Peaks in short LOCKs	TTS	2.31976739082022
+E059	Typical peaks	3' UTR	0.652179532152946
+E059	Typical peaks	5' UTR	0.690237492999526
+E059	Typical peaks	exon	5.4619574248103
+E059	Typical peaks	Intergenic	53.4563693542332
+E059	Typical peaks	intron	32.265248724529
+E059	Typical peaks	non-coding	1.00868366474038
+E059	Typical peaks	promoter-TSS	5.52052138914019
+E059	Typical peaks	TTS	0.944802417394408
+E061	Peaks in long LOCKs	3' UTR	0.835735408058898
+E061	Peaks in long LOCKs	5' UTR	0.530877497391969
+E061	Peaks in long LOCKs	exon	2.46832399212606
+E061	Peaks in long LOCKs	Intergenic	54.1244617377227
+E061	Peaks in long LOCKs	intron	35.9444944176167
+E061	Peaks in long LOCKs	non-coding	0.863501595917865
+E061	Peaks in long LOCKs	promoter-TSS	3.92120186606007
+E061	Peaks in long LOCKs	TTS	1.31140348510579
+E061	Peaks in short LOCKs	3' UTR	1.18178944059393
+E061	Peaks in short LOCKs	5' UTR	1.41803160197825
+E061	Peaks in short LOCKs	exon	4.71961557175043
+E061	Peaks in short LOCKs	Intergenic	44.3956685079522
+E061	Peaks in short LOCKs	intron	36.5139396343414
+E061	Peaks in short LOCKs	non-coding	1.25316091114052
+E061	Peaks in short LOCKs	promoter-TSS	8.70680063166844
+E061	Peaks in short LOCKs	TTS	1.81099370057483
+E061	Typical peaks	3' UTR	0.343807160634502
+E061	Typical peaks	5' UTR	2.09930796811213
+E061	Typical peaks	exon	4.27418309822955
+E061	Typical peaks	Intergenic	50.3139283465343
+E061	Typical peaks	intron	32.2808726327198
+E061	Typical peaks	non-coding	1.0210335071088
+E061	Typical peaks	promoter-TSS	8.76433165697836
+E061	Typical peaks	TTS	0.902535629682621
+E057	Peaks in long LOCKs	3' UTR	1.44187191881836
+E057	Peaks in long LOCKs	5' UTR	0.855155588334264
+E057	Peaks in long LOCKs	exon	4.15146649565212
+E057	Peaks in long LOCKs	Intergenic	42.9680538433444
+E057	Peaks in long LOCKs	intron	39.3610126535781
+E057	Peaks in long LOCKs	non-coding	1.52513863084172
+E057	Peaks in long LOCKs	promoter-TSS	7.43404404004328
+E057	Peaks in long LOCKs	TTS	2.26325682938768
+E057	Peaks in short LOCKs	3' UTR	1.18989951491625
+E057	Peaks in short LOCKs	5' UTR	1.1624813178511
+E057	Peaks in short LOCKs	exon	5.29613681661013
+E057	Peaks in short LOCKs	Intergenic	36.9093566771232
+E057	Peaks in short LOCKs	intron	38.4671894609011
+E057	Peaks in short LOCKs	non-coding	1.52539081558026
+E057	Peaks in short LOCKs	promoter-TSS	13.4378148914237
+E057	Peaks in short LOCKs	TTS	2.01173050559426
+E057	Typical peaks	3' UTR	0.424950638907432
+E057	Typical peaks	5' UTR	3.4729900970309
+E057	Typical peaks	exon	6.63366958241989
+E057	Typical peaks	Intergenic	33.8891287719114
+E057	Typical peaks	intron	36.2103653809933
+E057	Typical peaks	non-coding	1.76727766367318
+E057	Typical peaks	promoter-TSS	16.7090181210625
+E057	Typical peaks	TTS	0.892599744001394
+E058	Peaks in long LOCKs	3' UTR	1.03795825480706
+E058	Peaks in long LOCKs	5' UTR	0.701199491690425
+E058	Peaks in long LOCKs	exon	2.93716923239529
+E058	Peaks in long LOCKs	Intergenic	49.3239242277186
+E058	Peaks in long LOCKs	intron	37.5805579906211
+E058	Peaks in long LOCKs	non-coding	1.12533772517764
+E058	Peaks in long LOCKs	promoter-TSS	5.46484936288817
+E058	Peaks in long LOCKs	TTS	1.82900371470171
+E058	Peaks in short LOCKs	3' UTR	1.11895375401225
+E058	Peaks in short LOCKs	5' UTR	1.49174556820675
+E058	Peaks in short LOCKs	exon	4.47192455734641
+E058	Peaks in short LOCKs	Intergenic	43.2961788685705
+E058	Peaks in short LOCKs	intron	35.9942172362041
+E058	Peaks in short LOCKs	non-coding	1.28649758476118
+E058	Peaks in short LOCKs	promoter-TSS	10.6379072977294
+E058	Peaks in short LOCKs	TTS	1.70257513316935
+E058	Typical peaks	3' UTR	0.400928669583717
+E058	Typical peaks	5' UTR	1.87756038853464
+E058	Typical peaks	exon	3.47763807192187
+E058	Typical peaks	Intergenic	50.4051247495152
+E058	Typical peaks	intron	33.9397188685297
+E058	Typical peaks	non-coding	1.01282658655077
+E058	Typical peaks	promoter-TSS	8.27876565805774
+E058	Typical peaks	TTS	0.607437007306358
+E028	Peaks in long LOCKs	3' UTR	1.53723524529559
+E028	Peaks in long LOCKs	5' UTR	0.541790346324523
+E028	Peaks in long LOCKs	exon	6.1326731693689
+E028	Peaks in long LOCKs	Intergenic	42.8922531819654
+E028	Peaks in long LOCKs	intron	41.0587496775531
+E028	Peaks in long LOCKs	non-coding	1.28683072965581
+E028	Peaks in long LOCKs	promoter-TSS	4.69806937483499
+E028	Peaks in long LOCKs	TTS	1.85239827500164
+E028	Peaks in short LOCKs	3' UTR	1.44445004524292
+E028	Peaks in short LOCKs	5' UTR	1.17923164622458
+E028	Peaks in short LOCKs	exon	8.01012196068141
+E028	Peaks in short LOCKs	Intergenic	40.4695454111917
+E028	Peaks in short LOCKs	intron	37.0302803875028
+E028	Peaks in short LOCKs	non-coding	1.55315907272522
+E028	Peaks in short LOCKs	promoter-TSS	8.46520742804251
+E028	Peaks in short LOCKs	TTS	1.84800404838892
+E028	Typical peaks	3' UTR	0.449292933488757
+E028	Typical peaks	5' UTR	1.21503285451331
+E028	Typical peaks	exon	5.21186033651537
+E028	Typical peaks	Intergenic	54.8218638932663
+E028	Typical peaks	intron	31.0146605639397
+E028	Typical peaks	non-coding	1.10085336061041
+E028	Typical peaks	promoter-TSS	5.53655448622257
+E028	Typical peaks	TTS	0.64988157144353
+E027	Peaks in long LOCKs	3' UTR	0.813009218564469
+E027	Peaks in long LOCKs	5' UTR	0.237628444153843
+E027	Peaks in long LOCKs	exon	1.98552682470615
+E027	Peaks in long LOCKs	Intergenic	56.6913379659371
+E027	Peaks in long LOCKs	intron	35.2998054778363
+E027	Peaks in long LOCKs	non-coding	0.95321445642313
+E027	Peaks in long LOCKs	promoter-TSS	2.66556260254242
+E027	Peaks in long LOCKs	TTS	1.35391500983656
+E027	Peaks in short LOCKs	3' UTR	1.47019861091019
+E027	Peaks in short LOCKs	5' UTR	0.620114488002194
+E027	Peaks in short LOCKs	exon	4.42893488815544
+E027	Peaks in short LOCKs	Intergenic	49.33711911743
+E027	Peaks in short LOCKs	intron	34.1927554158693
+E027	Peaks in short LOCKs	non-coding	1.30951456343614
+E027	Peaks in short LOCKs	promoter-TSS	6.40886030084955
+E027	Peaks in short LOCKs	TTS	2.23250261534718
+E027	Typical peaks	3' UTR	0.317039959957004
+E027	Typical peaks	5' UTR	0.12521663355163
+E027	Typical peaks	exon	1.70872713315558
+E027	Typical peaks	Intergenic	66.8895738477026
+E027	Typical peaks	intron	28.436483574682
+E027	Typical peaks	non-coding	0.566880875048718
+E027	Typical peaks	promoter-TSS	1.37193113666537
+E027	Typical peaks	TTS	0.58414683923709
+E054	Peaks in long LOCKs	3' UTR	1.38332214528399
+E054	Peaks in long LOCKs	5' UTR	0.312988633414367
+E054	Peaks in long LOCKs	exon	2.51808397145714
+E054	Peaks in long LOCKs	Intergenic	50.1051069142145
+E054	Peaks in long LOCKs	intron	36.2939375622472
+E054	Peaks in long LOCKs	non-coding	1.23106342493359
+E054	Peaks in long LOCKs	promoter-TSS	5.48625489920124
+E054	Peaks in long LOCKs	TTS	2.66924244924794
+E054	Peaks in short LOCKs	3' UTR	1.83484901151041
+E054	Peaks in short LOCKs	5' UTR	1.02962063182203
+E054	Peaks in short LOCKs	exon	4.18355326438198
+E054	Peaks in short LOCKs	Intergenic	40.6435996056045
+E054	Peaks in short LOCKs	intron	38.3095733405517
+E054	Peaks in short LOCKs	non-coding	1.5101739316423
+E054	Peaks in short LOCKs	promoter-TSS	9.73427061333631
+E054	Peaks in short LOCKs	TTS	2.75435960115081
+E054	Typical peaks	3' UTR	0.730251582990103
+E054	Typical peaks	5' UTR	0.226953623491502
+E054	Typical peaks	exon	1.62588337294404
+E054	Typical peaks	Intergenic	60.9959055962266
+E054	Typical peaks	intron	31.8242685555272
+E054	Typical peaks	non-coding	0.793043269918975
+E054	Typical peaks	promoter-TSS	2.87623489471606
+E054	Typical peaks	TTS	0.92745910418547
+E053	Peaks in long LOCKs	3' UTR	1.26378822806796
+E053	Peaks in long LOCKs	5' UTR	0.46264950314566
+E053	Peaks in long LOCKs	exon	2.31806085877231
+E053	Peaks in long LOCKs	Intergenic	51.5594325651058
+E053	Peaks in long LOCKs	intron	37.3860743436023
+E053	Peaks in long LOCKs	non-coding	1.07338943437478
+E053	Peaks in long LOCKs	promoter-TSS	4.03068008690997
+E053	Peaks in long LOCKs	TTS	1.90592498002128
+E053	Peaks in short LOCKs	3' UTR	1.14387742804647
+E053	Peaks in short LOCKs	5' UTR	1.02154515690107
+E053	Peaks in short LOCKs	exon	4.11835308196243
+E053	Peaks in short LOCKs	Intergenic	43.8977798890517
+E053	Peaks in short LOCKs	intron	37.6035686128805
+E053	Peaks in short LOCKs	non-coding	1.23129609401397
+E053	Peaks in short LOCKs	promoter-TSS	8.9029019938554
+E053	Peaks in short LOCKs	TTS	2.08067774328844
+E053	Typical peaks	3' UTR	0.898312948539501
+E053	Typical peaks	5' UTR	1.18513692417208
+E053	Typical peaks	exon	3.22981346021592
+E053	Typical peaks	Intergenic	55.4149405128171
+E053	Typical peaks	intron	31.4928063669438
+E053	Typical peaks	non-coding	0.93475549764234
+E053	Typical peaks	promoter-TSS	5.52451494939723
+E053	Typical peaks	TTS	1.31971934027195
+E112	Peaks in long LOCKs	3' UTR	1.8432806049958
+E112	Peaks in long LOCKs	5' UTR	1.50471175740411
+E112	Peaks in long LOCKs	exon	6.17069286381072
+E112	Peaks in long LOCKs	Intergenic	34.6657591295953
+E112	Peaks in long LOCKs	intron	36.4812555419307
+E112	Peaks in long LOCKs	non-coding	1.6018166262686
+E112	Peaks in long LOCKs	promoter-TSS	14.4882267550762
+E112	Peaks in long LOCKs	TTS	3.2442567209186
+E112	Peaks in short LOCKs	3' UTR	1.65045038372879
+E112	Peaks in short LOCKs	5' UTR	1.76798526185208
+E112	Peaks in short LOCKs	exon	6.67889908256881
+E112	Peaks in short LOCKs	Intergenic	28.2896157157537
+E112	Peaks in short LOCKs	intron	41.5413584647145
+E112	Peaks in short LOCKs	non-coding	2.37858154583916
+E112	Peaks in short LOCKs	promoter-TSS	14.5067441838936
+E112	Peaks in short LOCKs	TTS	3.18636536164934
+E112	Typical peaks	3' UTR	0.716700484053837
+E112	Typical peaks	5' UTR	3.91705412923925
+E112	Typical peaks	exon	6.29258051366486
+E112	Typical peaks	Intergenic	23.64291942695
+E112	Typical peaks	intron	37.2382252725402
+E112	Typical peaks	non-coding	1.43789713214365
+E112	Typical peaks	promoter-TSS	25.5891019350018
+E112	Typical peaks	TTS	1.1655211064065
+E093	Peaks in long LOCKs	3' UTR	1.72841790223542
+E093	Peaks in long LOCKs	5' UTR	0.78704315434025
+E093	Peaks in long LOCKs	exon	3.00634784298172
+E093	Peaks in long LOCKs	Intergenic	42.5551809622278
+E093	Peaks in long LOCKs	intron	38.2132758647121
+E093	Peaks in long LOCKs	non-coding	1.56484111777017
+E093	Peaks in long LOCKs	promoter-TSS	9.18637992009193
+E093	Peaks in long LOCKs	TTS	2.95851323564057
+E093	Peaks in short LOCKs	3' UTR	1.33733030117381
+E093	Peaks in short LOCKs	5' UTR	0.916312430615525
+E093	Peaks in short LOCKs	exon	2.71131576540229
+E093	Peaks in short LOCKs	Intergenic	37.8573524342277
+E093	Peaks in short LOCKs	intron	43.3740711040185
+E093	Peaks in short LOCKs	non-coding	1.56914088461904
+E093	Peaks in short LOCKs	promoter-TSS	9.79216022704875
+E093	Peaks in short LOCKs	TTS	2.44231685289433
+E093	Typical peaks	3' UTR	0.994159118924412
+E093	Typical peaks	5' UTR	2.11909626527317
+E093	Typical peaks	exon	3.10947886101758
+E093	Typical peaks	Intergenic	33.5444084472478
+E093	Typical peaks	intron	39.8359687665974
+E093	Typical peaks	non-coding	1.34548892891721
+E093	Typical peaks	promoter-TSS	17.7535344791616
+E093	Typical peaks	TTS	1.29786513286077
+E071	Peaks in long LOCKs	3' UTR	0.961328830907651
+E071	Peaks in long LOCKs	5' UTR	0.43500795732454
+E071	Peaks in long LOCKs	exon	2.66739880923687
+E071	Peaks in long LOCKs	Intergenic	55.2999044510962
+E071	Peaks in long LOCKs	intron	32.8373106706537
+E071	Peaks in long LOCKs	non-coding	1.04640909120111
+E071	Peaks in long LOCKs	promoter-TSS	4.88071500696454
+E071	Peaks in long LOCKs	TTS	1.87192518261543
+E071	Peaks in short LOCKs	3' UTR	1.12730424370684
+E071	Peaks in short LOCKs	5' UTR	1.54401732011584
+E071	Peaks in short LOCKs	exon	5.43958147694364
+E071	Peaks in short LOCKs	Intergenic	39.8726168597312
+E071	Peaks in short LOCKs	intron	37.4193282653895
+E071	Peaks in short LOCKs	non-coding	1.3157045927081
+E071	Peaks in short LOCKs	promoter-TSS	11.0599172978392
+E071	Peaks in short LOCKs	TTS	2.22152994356575
+E071	Typical peaks	3' UTR	0.467085380745847
+E071	Typical peaks	5' UTR	0.566189863836946
+E071	Typical peaks	exon	2.55097881704095
+E071	Typical peaks	Intergenic	61.0069814472305
+E071	Typical peaks	intron	29.979247847855
+E071	Typical peaks	non-coding	0.798747312855429
+E071	Typical peaks	promoter-TSS	3.77016775556081
+E071	Typical peaks	TTS	0.860601574874564
+E074	Peaks in long LOCKs	3' UTR	1.19865111462589
+E074	Peaks in long LOCKs	5' UTR	0.290439991388838
+E074	Peaks in long LOCKs	exon	2.15401245538516
+E074	Peaks in long LOCKs	Intergenic	54.7292899263002
+E074	Peaks in long LOCKs	intron	33.7976318750225
+E074	Peaks in long LOCKs	non-coding	1.07652439728664
+E074	Peaks in long LOCKs	promoter-TSS	4.5388285914382
+E074	Peaks in long LOCKs	TTS	2.21462164855253
+E074	Peaks in short LOCKs	3' UTR	1.24220070146295
+E074	Peaks in short LOCKs	5' UTR	0.866941940029759
+E074	Peaks in short LOCKs	exon	3.96079250264084
+E074	Peaks in short LOCKs	Intergenic	43.2578830004602
+E074	Peaks in short LOCKs	intron	37.5454746424003
+E074	Peaks in short LOCKs	non-coding	1.22050236319402
+E074	Peaks in short LOCKs	promoter-TSS	9.58136206068885
+E074	Peaks in short LOCKs	TTS	2.32484278912307
+E074	Typical peaks	3' UTR	0.497472534693775
+E074	Typical peaks	5' UTR	0.205385446267344
+E074	Typical peaks	exon	1.3482230286058
+E074	Typical peaks	Intergenic	62.3577449677442
+E074	Typical peaks	intron	32.5058948371546
+E074	Typical peaks	non-coding	0.595942613007595
+E074	Typical peaks	promoter-TSS	1.80544301415885
+E074	Typical peaks	TTS	0.68389355836782
+E068	Peaks in long LOCKs	3' UTR	1.56274020060762
+E068	Peaks in long LOCKs	5' UTR	0.414828925660438
+E068	Peaks in long LOCKs	exon	2.73479039847349
+E068	Peaks in long LOCKs	Intergenic	53.7931489437909
+E068	Peaks in long LOCKs	intron	30.810150590428
+E068	Peaks in long LOCKs	non-coding	1.550517208863
+E068	Peaks in long LOCKs	promoter-TSS	6.16656867142221
+E068	Peaks in long LOCKs	TTS	2.96725506075441
+E068	Peaks in short LOCKs	3' UTR	1.79295523970277
+E068	Peaks in short LOCKs	5' UTR	0.850846919687296
+E068	Peaks in short LOCKs	exon	4.53891887299651
+E068	Peaks in short LOCKs	Intergenic	38.0460122027392
+E068	Peaks in short LOCKs	intron	38.7209618566886
+E068	Peaks in short LOCKs	non-coding	1.35748661401504
+E068	Peaks in short LOCKs	promoter-TSS	11.4856319397803
+E068	Peaks in short LOCKs	TTS	3.20718635439024
+E068	Typical peaks	3' UTR	0.379250507048947
+E068	Typical peaks	5' UTR	0.300314821671668
+E068	Typical peaks	exon	1.8778311384239
+E068	Typical peaks	Intergenic	65.1447369148213
+E068	Typical peaks	intron	26.9643195964977
+E068	Typical peaks	non-coding	0.56806982446251
+E068	Typical peaks	promoter-TSS	3.88143436364206
+E068	Typical peaks	TTS	0.884042833431888
+E069	Peaks in long LOCKs	3' UTR	1.1320779340223
+E069	Peaks in long LOCKs	5' UTR	0.402527978787782
+E069	Peaks in long LOCKs	exon	2.59032296605319
+E069	Peaks in long LOCKs	Intergenic	55.2007892634206
+E069	Peaks in long LOCKs	intron	31.8958201358893
+E069	Peaks in long LOCKs	non-coding	1.22172453429671
+E069	Peaks in long LOCKs	promoter-TSS	5.25703159197073
+E069	Peaks in long LOCKs	TTS	2.29970559555932
+E069	Peaks in short LOCKs	3' UTR	1.05349883819702
+E069	Peaks in short LOCKs	5' UTR	1.20076729159505
+E069	Peaks in short LOCKs	exon	4.08012840269074
+E069	Peaks in short LOCKs	Intergenic	36.7287448733234
+E069	Peaks in short LOCKs	intron	40.3883733444099
+E069	Peaks in short LOCKs	non-coding	1.77960487407492
+E069	Peaks in short LOCKs	promoter-TSS	12.2983226463749
+E069	Peaks in short LOCKs	TTS	2.47055972933406
+E069	Typical peaks	3' UTR	0.40694591800316
+E069	Typical peaks	5' UTR	0.452113990350063
+E069	Typical peaks	exon	2.24326635568936
+E069	Typical peaks	Intergenic	59.6313873692956
+E069	Typical peaks	intron	31.8127561351944
+E069	Typical peaks	non-coding	0.599153938098077
+E069	Typical peaks	promoter-TSS	4.05405112657513
+E069	Typical peaks	TTS	0.80032516679421
+E072	Peaks in long LOCKs	3' UTR	1.02398714994338
+E072	Peaks in long LOCKs	5' UTR	0.353232012104538
+E072	Peaks in long LOCKs	exon	2.33472252958318
+E072	Peaks in long LOCKs	Intergenic	58.7872335154428
+E072	Peaks in long LOCKs	intron	29.9549398120935
+E072	Peaks in long LOCKs	non-coding	1.12722916032762
+E072	Peaks in long LOCKs	promoter-TSS	4.43389566577094
+E072	Peaks in long LOCKs	TTS	1.98476015473411
+E072	Peaks in short LOCKs	3' UTR	1.37307775074076
+E072	Peaks in short LOCKs	5' UTR	1.16824750459353
+E072	Peaks in short LOCKs	exon	4.66234626144245
+E072	Peaks in short LOCKs	Intergenic	41.6539206435914
+E072	Peaks in short LOCKs	intron	36.7038949860125
+E072	Peaks in short LOCKs	non-coding	1.37951697538528
+E072	Peaks in short LOCKs	promoter-TSS	10.7298505239112
+E072	Peaks in short LOCKs	TTS	2.32914535432289
+E072	Typical peaks	3' UTR	0.534559799577467
+E072	Typical peaks	5' UTR	0.408323517864154
+E072	Typical peaks	exon	1.97391889618038
+E072	Typical peaks	Intergenic	63.0538261633668
+E072	Typical peaks	intron	29.4721895039916
+E072	Typical peaks	non-coding	0.658010357657001
+E072	Typical peaks	promoter-TSS	3.15865537420308
+E072	Typical peaks	TTS	0.740516387159497
+E067	Peaks in long LOCKs	3' UTR	1.07652240412155
+E067	Peaks in long LOCKs	5' UTR	0.247888610719906
+E067	Peaks in long LOCKs	exon	1.93957605304672
+E067	Peaks in long LOCKs	Intergenic	59.5971826488539
+E067	Peaks in long LOCKs	intron	29.7122665768728
+E067	Peaks in long LOCKs	non-coding	1.11660699881025
+E067	Peaks in long LOCKs	promoter-TSS	4.24311784992762
+E067	Peaks in long LOCKs	TTS	2.0668388576472
+E067	Peaks in short LOCKs	3' UTR	1.13311927615917
+E067	Peaks in short LOCKs	5' UTR	0.774160182438942
+E067	Peaks in short LOCKs	exon	2.81360159025637
+E067	Peaks in short LOCKs	Intergenic	44.6453230766624
+E067	Peaks in short LOCKs	intron	38.0548433580534
+E067	Peaks in short LOCKs	non-coding	1.43691461922186
+E067	Peaks in short LOCKs	promoter-TSS	9.20845697843588
+E067	Peaks in short LOCKs	TTS	1.933580918772
+E067	Typical peaks	3' UTR	0.457648601992687
+E067	Typical peaks	5' UTR	0.226606994794003
+E067	Typical peaks	exon	1.44097717788743
+E067	Typical peaks	Intergenic	64.4984300452636
+E067	Typical peaks	intron	29.5159646046569
+E067	Typical peaks	non-coding	0.449459011268333
+E067	Typical peaks	promoter-TSS	2.67454702388234
+E067	Typical peaks	TTS	0.736366540254727
+E073	Peaks in long LOCKs	3' UTR	1.05758004278387
+E073	Peaks in long LOCKs	5' UTR	0.307746997499985
+E073	Peaks in long LOCKs	exon	2.49519852280424
+E073	Peaks in long LOCKs	Intergenic	58.1059350471327
+E073	Peaks in long LOCKs	intron	30.8332014196727
+E073	Peaks in long LOCKs	non-coding	1.12794282113149
+E073	Peaks in long LOCKs	promoter-TSS	4.18814380988978
+E073	Peaks in long LOCKs	TTS	1.88425133908517
+E073	Peaks in short LOCKs	3' UTR	1.50836555915082
+E073	Peaks in short LOCKs	5' UTR	0.857953339165289
+E073	Peaks in short LOCKs	exon	4.74225274303861
+E073	Peaks in short LOCKs	Intergenic	43.4941409962418
+E073	Peaks in short LOCKs	intron	35.8148416979662
+E073	Peaks in short LOCKs	non-coding	1.3650306066531
+E073	Peaks in short LOCKs	promoter-TSS	9.80884319411854
+E073	Peaks in short LOCKs	TTS	2.40857186366562
+E073	Typical peaks	3' UTR	0.38135809636221
+E073	Typical peaks	5' UTR	0.214966008951079
+E073	Typical peaks	exon	1.76268651088962
+E073	Typical peaks	Intergenic	63.5154764028076
+E073	Typical peaks	intron	30.2053314458182
+E073	Typical peaks	non-coding	0.546373053600313
+E073	Typical peaks	promoter-TSS	2.67871873947933
+E073	Typical peaks	TTS	0.695089742091596
+E070	Peaks in long LOCKs	3' UTR	1.44173068826668
+E070	Peaks in long LOCKs	5' UTR	0.714101784448419
+E070	Peaks in long LOCKs	exon	4.75402391499131
+E070	Peaks in long LOCKs	Intergenic	45.4063022443244
+E070	Peaks in long LOCKs	intron	35.309742678148
+E070	Peaks in long LOCKs	non-coding	1.36243626327361
+E070	Peaks in long LOCKs	promoter-TSS	8.60606043159255
+E070	Peaks in long LOCKs	TTS	2.40560199495504
+E070	Peaks in short LOCKs	3' UTR	1.20784383381347
+E070	Peaks in short LOCKs	5' UTR	1.74356256733395
+E070	Peaks in short LOCKs	exon	4.61293129652093
+E070	Peaks in short LOCKs	Intergenic	36.3105340585949
+E070	Peaks in short LOCKs	intron	38.813162047901
+E070	Peaks in short LOCKs	non-coding	1.55335102870552
+E070	Peaks in short LOCKs	promoter-TSS	13.6324205125512
+E070	Peaks in short LOCKs	TTS	2.12619465457902
+E070	Typical peaks	3' UTR	0.464430978609219
+E070	Typical peaks	5' UTR	2.43903726827604
+E070	Typical peaks	exon	4.75393911806607
+E070	Typical peaks	Intergenic	37.8640260031327
+E070	Typical peaks	intron	35.2693817781044
+E070	Typical peaks	non-coding	1.45281791151537
+E070	Typical peaks	promoter-TSS	16.9170564482681
+E070	Typical peaks	TTS	0.839310494028119
+E082	Peaks in long LOCKs	3' UTR	1.54020730900161
+E082	Peaks in long LOCKs	5' UTR	0.530914617973132
+E082	Peaks in long LOCKs	exon	2.7203927318889
+E082	Peaks in long LOCKs	Intergenic	51.5397318379226
+E082	Peaks in long LOCKs	intron	33.9539735569468
+E082	Peaks in long LOCKs	non-coding	1.34307639779018
+E082	Peaks in long LOCKs	promoter-TSS	5.75418710966608
+E082	Peaks in long LOCKs	TTS	2.61751643881069
+E082	Peaks in short LOCKs	3' UTR	1.58118222642545
+E082	Peaks in short LOCKs	5' UTR	0.877643816830883
+E082	Peaks in short LOCKs	exon	3.90356718878063
+E082	Peaks in short LOCKs	Intergenic	38.7511740304253
+E082	Peaks in short LOCKs	intron	39.8713951793996
+E082	Peaks in short LOCKs	non-coding	1.46080374545503
+E082	Peaks in short LOCKs	promoter-TSS	11.2250007909942
+E082	Peaks in short LOCKs	TTS	2.32923302168884
+E082	Typical peaks	3' UTR	0.607448695557642
+E082	Typical peaks	5' UTR	1.23279784693659
+E082	Typical peaks	exon	3.36280979670034
+E082	Typical peaks	Intergenic	48.8582554255599
+E082	Typical peaks	intron	35.0045547980194
+E082	Typical peaks	non-coding	0.951256973422803
+E082	Typical peaks	promoter-TSS	9.11875970615932
+E082	Typical peaks	TTS	0.86411675764405
+E081	Peaks in long LOCKs	3' UTR	1.49514936917205
+E081	Peaks in long LOCKs	5' UTR	0.308177100584048
+E081	Peaks in long LOCKs	exon	2.71703135922331
+E081	Peaks in long LOCKs	Intergenic	51.2450374127674
+E081	Peaks in long LOCKs	intron	35.1238545418212
+E081	Peaks in long LOCKs	non-coding	1.24865905958161
+E081	Peaks in long LOCKs	promoter-TSS	5.43509976802196
+E081	Peaks in long LOCKs	TTS	2.42699138882835
+E081	Peaks in short LOCKs	3' UTR	1.20012523228463
+E081	Peaks in short LOCKs	5' UTR	0.883624164232396
+E081	Peaks in short LOCKs	exon	3.40733987504939
+E081	Peaks in short LOCKs	Intergenic	39.2138971095538
+E081	Peaks in short LOCKs	intron	40.7460768467497
+E081	Peaks in short LOCKs	non-coding	1.32809555163833
+E081	Peaks in short LOCKs	promoter-TSS	10.6082224844787
+E081	Peaks in short LOCKs	TTS	2.61261873601295
+E081	Typical peaks	3' UTR	0.695568747376627
+E081	Typical peaks	5' UTR	0.534145020563441
+E081	Typical peaks	exon	2.40266907533202
+E081	Typical peaks	Intergenic	50.4034165484067
+E081	Typical peaks	intron	35.7237877595256
+E081	Typical peaks	non-coding	0.859340224933557
+E081	Typical peaks	promoter-TSS	7.86065020639584
+E081	Typical peaks	TTS	1.52042241746625
+E063	Peaks in long LOCKs	3' UTR	1.25125911189371
+E063	Peaks in long LOCKs	5' UTR	0.236990669237973
+E063	Peaks in long LOCKs	exon	2.49004615854676
+E063	Peaks in long LOCKs	Intergenic	51.5952647678015
+E063	Peaks in long LOCKs	intron	37.7992557524841
+E063	Peaks in long LOCKs	non-coding	1.09480588723386
+E063	Peaks in long LOCKs	promoter-TSS	3.60109573212499
+E063	Peaks in long LOCKs	TTS	1.93128192067709
+E063	Peaks in short LOCKs	3' UTR	1.43274310661335
+E063	Peaks in short LOCKs	5' UTR	0.80144695260698
+E063	Peaks in short LOCKs	exon	4.60350008828125
+E063	Peaks in short LOCKs	Intergenic	43.3246035460449
+E063	Peaks in short LOCKs	intron	37.2419441324251
+E063	Peaks in short LOCKs	non-coding	1.32584941606143
+E063	Peaks in short LOCKs	promoter-TSS	9.10973514588346
+E063	Peaks in short LOCKs	TTS	2.16017761208346
+E063	Typical peaks	3' UTR	0.482250483728578
+E063	Typical peaks	5' UTR	0.251212921932853
+E063	Typical peaks	exon	2.18752953030953
+E063	Typical peaks	Intergenic	60.6521227207654
+E063	Typical peaks	intron	32.0880322846189
+E063	Typical peaks	non-coding	0.720653252136668
+E063	Typical peaks	promoter-TSS	2.84940009570979
+E063	Typical peaks	TTS	0.768798710798277
+E100	Peaks in long LOCKs	3' UTR	1.13464829392996
+E100	Peaks in long LOCKs	5' UTR	0.614634164354173
+E100	Peaks in long LOCKs	exon	3.42916180299915
+E100	Peaks in long LOCKs	Intergenic	50.544596756475
+E100	Peaks in long LOCKs	intron	35.0114735800339
+E100	Peaks in long LOCKs	non-coding	1.22420588585811
+E100	Peaks in long LOCKs	promoter-TSS	6.09620559187908
+E100	Peaks in long LOCKs	TTS	1.94507392447062
+E100	Peaks in short LOCKs	3' UTR	0.913129439332178
+E100	Peaks in short LOCKs	5' UTR	1.88107384328918
+E100	Peaks in short LOCKs	exon	6.07068759305817
+E100	Peaks in short LOCKs	Intergenic	38.4617289030382
+E100	Peaks in short LOCKs	intron	34.6511822527835
+E100	Peaks in short LOCKs	non-coding	1.6972065987175
+E100	Peaks in short LOCKs	promoter-TSS	14.3830003870522
+E100	Peaks in short LOCKs	TTS	1.9419909827291
+E100	Typical peaks	3' UTR	0.422550987195385
+E100	Typical peaks	5' UTR	0.195027587179308
+E100	Typical peaks	exon	1.45263926353366
+E100	Typical peaks	Intergenic	62.4681268259128
+E100	Typical peaks	intron	32.0530738587921
+E100	Typical peaks	non-coding	0.580154361699744
+E100	Typical peaks	promoter-TSS	2.20555117036319
+E100	Typical peaks	TTS	0.622875945323752
+E108	Peaks in long LOCKs	3' UTR	1.34538418660244
+E108	Peaks in long LOCKs	5' UTR	0.321386850761114
+E108	Peaks in long LOCKs	exon	2.44927342532644
+E108	Peaks in long LOCKs	Intergenic	51.3333380686705
+E108	Peaks in long LOCKs	intron	37.0808598444567
+E108	Peaks in long LOCKs	non-coding	1.09604452453929
+E108	Peaks in long LOCKs	promoter-TSS	4.10984262058584
+E108	Peaks in long LOCKs	TTS	2.26387047905763
+E108	Peaks in short LOCKs	3' UTR	1.4082554753629
+E108	Peaks in short LOCKs	5' UTR	0.858394291198751
+E108	Peaks in short LOCKs	exon	4.25249570267383
+E108	Peaks in short LOCKs	Intergenic	40.5126561000342
+E108	Peaks in short LOCKs	intron	38.9516489803001
+E108	Peaks in short LOCKs	non-coding	1.27608897227479
+E108	Peaks in short LOCKs	promoter-TSS	10.4195586632469
+E108	Peaks in short LOCKs	TTS	2.3209018149086
+E108	Typical peaks	3' UTR	0.646607370639989
+E108	Typical peaks	5' UTR	0.329461621366095
+E108	Typical peaks	exon	2.01787615916924
+E108	Typical peaks	Intergenic	58.801015328845
+E108	Typical peaks	intron	33.2322853762587
+E108	Typical peaks	non-coding	0.724741703887255
+E108	Typical peaks	promoter-TSS	3.24265511575956
+E108	Typical peaks	TTS	1.00535732407411
+E107	Peaks in long LOCKs	3' UTR	1.26341004862352
+E107	Peaks in long LOCKs	5' UTR	0.282403071698326
+E107	Peaks in long LOCKs	exon	2.56238391322215
+E107	Peaks in long LOCKs	Intergenic	50.7169037808494
+E107	Peaks in long LOCKs	intron	38.312545664432
+E107	Peaks in long LOCKs	non-coding	1.16766709215797
+E107	Peaks in long LOCKs	promoter-TSS	3.66754101053232
+E107	Peaks in long LOCKs	TTS	2.02714541848434
+E107	Peaks in short LOCKs	3' UTR	1.54421849679169
+E107	Peaks in short LOCKs	5' UTR	0.835650200710239
+E107	Peaks in short LOCKs	exon	4.9555499984712
+E107	Peaks in short LOCKs	Intergenic	41.3053154361244
+E107	Peaks in short LOCKs	intron	37.6796345719565
+E107	Peaks in short LOCKs	non-coding	1.46488990420945
+E107	Peaks in short LOCKs	promoter-TSS	9.85093606538043
+E107	Peaks in short LOCKs	TTS	2.36380532635616
+E107	Typical peaks	3' UTR	0.611950566609781
+E107	Typical peaks	5' UTR	0.493437833713976
+E107	Typical peaks	exon	2.90382016882656
+E107	Typical peaks	Intergenic	57.0668328906262
+E107	Typical peaks	intron	33.2358219146248
+E107	Typical peaks	non-coding	0.910779634010461
+E107	Typical peaks	promoter-TSS	3.8050947773863
+E107	Typical peaks	TTS	0.97226221420196
+E089	Peaks in long LOCKs	3' UTR	1.42540380501348
+E089	Peaks in long LOCKs	5' UTR	0.306357140259694
+E089	Peaks in long LOCKs	exon	3.8925708831451
+E089	Peaks in long LOCKs	Intergenic	45.8136773766116
+E089	Peaks in long LOCKs	intron	40.57280912494
+E089	Peaks in long LOCKs	non-coding	1.27772588568043
+E089	Peaks in long LOCKs	promoter-TSS	4.55315860958908
+E089	Peaks in long LOCKs	TTS	2.15829717476064
+E089	Peaks in short LOCKs	3' UTR	1.46538043102098
+E089	Peaks in short LOCKs	5' UTR	1.14337045268708
+E089	Peaks in short LOCKs	exon	6.40658968616296
+E089	Peaks in short LOCKs	Intergenic	38.494928702184
+E089	Peaks in short LOCKs	intron	36.9197253481627
+E089	Peaks in short LOCKs	non-coding	1.49866010465745
+E089	Peaks in short LOCKs	promoter-TSS	11.5755963649532
+E089	Peaks in short LOCKs	TTS	2.49574891017162
+E089	Typical peaks	3' UTR	0.755895360972935
+E089	Typical peaks	5' UTR	1.09987437208876
+E089	Typical peaks	exon	5.43346195673417
+E089	Typical peaks	Intergenic	48.604750262014
+E089	Typical peaks	intron	34.7162540745051
+E089	Typical peaks	non-coding	1.28159465253965
+E089	Typical peaks	promoter-TSS	7.13691834989437
+E089	Typical peaks	TTS	0.971250971250971
+E090	Peaks in long LOCKs	3' UTR	1.1436118786448
+E090	Peaks in long LOCKs	5' UTR	0.356110635416924
+E090	Peaks in long LOCKs	exon	2.3930227653326
+E090	Peaks in long LOCKs	Intergenic	51.6513931598991
+E090	Peaks in long LOCKs	intron	36.9747204441189
+E090	Peaks in long LOCKs	non-coding	1.21394733812921
+E090	Peaks in long LOCKs	promoter-TSS	4.37957785534734
+E090	Peaks in long LOCKs	TTS	1.88761592311122
+E090	Peaks in short LOCKs	3' UTR	1.21558044976742
+E090	Peaks in short LOCKs	5' UTR	1.06566086255939
+E090	Peaks in short LOCKs	exon	4.31427382371982
+E090	Peaks in short LOCKs	Intergenic	41.6916834688081
+E090	Peaks in short LOCKs	intron	36.905314147074
+E090	Peaks in short LOCKs	non-coding	1.2272762657218
+E090	Peaks in short LOCKs	promoter-TSS	11.6228658719823
+E090	Peaks in short LOCKs	TTS	1.95734511036723
+E090	Typical peaks	3' UTR	0.534064660229859
+E090	Typical peaks	5' UTR	0.821804096750025
+E090	Typical peaks	exon	2.70766620958736
+E090	Typical peaks	Intergenic	55.1737513959768
+E090	Typical peaks	intron	33.3551336603571
+E090	Typical peaks	non-coding	0.973516730516405
+E090	Typical peaks	promoter-TSS	5.37011832228332
+E090	Typical peaks	TTS	1.06394492429918
+E083	Peaks in long LOCKs	3' UTR	1.51026161518197
+E083	Peaks in long LOCKs	5' UTR	0.15580520042257
+E083	Peaks in long LOCKs	exon	0.889704505979209
+E083	Peaks in long LOCKs	Intergenic	54.1857742381189
+E083	Peaks in long LOCKs	intron	35.6115551812513
+E083	Peaks in long LOCKs	non-coding	1.24946947257536
+E083	Peaks in long LOCKs	promoter-TSS	3.78001375339348
+E083	Peaks in long LOCKs	TTS	2.61741603307723
+E083	Peaks in short LOCKs	3' UTR	1.80276161592801
+E083	Peaks in short LOCKs	5' UTR	0.42144254917607
+E083	Peaks in short LOCKs	exon	1.22881878404823
+E083	Peaks in short LOCKs	Intergenic	42.8824533954153
+E083	Peaks in short LOCKs	intron	42.226555237749
+E083	Peaks in short LOCKs	non-coding	1.14478071455998
+E083	Peaks in short LOCKs	promoter-TSS	7.17510316289547
+E083	Peaks in short LOCKs	TTS	3.11808454022794
+E083	Typical peaks	3' UTR	0.674155145656203
+E083	Typical peaks	5' UTR	0.122690048663496
+E083	Typical peaks	exon	0.706374619305226
+E083	Typical peaks	Intergenic	56.8951807348885
+E083	Typical peaks	intron	36.2038063076199
+E083	Typical peaks	non-coding	0.633614086097831
+E083	Typical peaks	promoter-TSS	3.53276215484978
+E083	Typical peaks	TTS	1.2314169029191
+E104	Peaks in long LOCKs	3' UTR	0.658641999710111
+E104	Peaks in long LOCKs	5' UTR	0.130219657139845
+E104	Peaks in long LOCKs	exon	0.846444242400285
+E104	Peaks in long LOCKs	Intergenic	62.4648509045868
+E104	Peaks in long LOCKs	intron	31.6957214953025
+E104	Peaks in long LOCKs	non-coding	0.874444927593522
+E104	Peaks in long LOCKs	promoter-TSS	1.78529074593825
+E104	Peaks in long LOCKs	TTS	1.54438602732867
+E104	Peaks in short LOCKs	3' UTR	0.705866566854286
+E104	Peaks in short LOCKs	5' UTR	0.245058227812343
+E104	Peaks in short LOCKs	exon	1.40219916807322
+E104	Peaks in short LOCKs	Intergenic	57.6649552609835
+E104	Peaks in short LOCKs	intron	34.0037712130735
+E104	Peaks in short LOCKs	non-coding	0.592165198906772
+E104	Peaks in short LOCKs	promoter-TSS	3.28392149662074
+E104	Peaks in short LOCKs	TTS	2.10206286767562
+E104	Typical peaks	3' UTR	0.661853364166429
+E104	Typical peaks	5' UTR	0.0620351007997577
+E104	Typical peaks	exon	0.671610058423668
+E104	Typical peaks	Intergenic	64.1900196298864
+E104	Typical peaks	intron	31.4314089831486
+E104	Typical peaks	non-coding	0.531084536658958
+E104	Typical peaks	promoter-TSS	1.49117237603173
+E104	Typical peaks	TTS	0.96081595088451
+E095	Peaks in long LOCKs	3' UTR	0.871058331865434
+E095	Peaks in long LOCKs	5' UTR	0.331396874264713
+E095	Peaks in long LOCKs	exon	2.08135789566701
+E095	Peaks in long LOCKs	Intergenic	57.6641300519794
+E095	Peaks in long LOCKs	intron	32.5204423143797
+E095	Peaks in long LOCKs	non-coding	1.09972758366819
+E095	Peaks in long LOCKs	promoter-TSS	3.85797261253025
+E095	Peaks in long LOCKs	TTS	1.57391433564536
+E095	Peaks in short LOCKs	3' UTR	1.19426764052716
+E095	Peaks in short LOCKs	5' UTR	0.922647041003331
+E095	Peaks in short LOCKs	exon	4.89936578635717
+E095	Peaks in short LOCKs	Intergenic	47.0125870179707
+E095	Peaks in short LOCKs	intron	33.6033069344075
+E095	Peaks in short LOCKs	non-coding	1.11541293194863
+E095	Peaks in short LOCKs	promoter-TSS	9.19248709360593
+E095	Peaks in short LOCKs	TTS	2.05992555417958
+E095	Typical peaks	3' UTR	0.356809655013179
+E095	Typical peaks	5' UTR	0.167471338841881
+E095	Typical peaks	exon	1.35515092350845
+E095	Typical peaks	Intergenic	65.5773540092529
+E095	Typical peaks	intron	29.8620744635446
+E095	Typical peaks	non-coding	0.547633346256723
+E095	Typical peaks	promoter-TSS	1.4908841215661
+E095	Typical peaks	TTS	0.642622142016147
+E105	Peaks in long LOCKs	3' UTR	0.982584983997626
+E105	Peaks in long LOCKs	5' UTR	0.309441947384198
+E105	Peaks in long LOCKs	exon	2.80489969956491
+E105	Peaks in long LOCKs	Intergenic	54.7023098017627
+E105	Peaks in long LOCKs	intron	35.4993581228043
+E105	Peaks in long LOCKs	non-coding	0.99557321587933
+E105	Peaks in long LOCKs	promoter-TSS	2.99522931075247
+E105	Peaks in long LOCKs	TTS	1.71060291785448
+E105	Peaks in short LOCKs	3' UTR	1.63009858792638
+E105	Peaks in short LOCKs	5' UTR	1.1944720044936
+E105	Peaks in short LOCKs	exon	5.89464999753611
+E105	Peaks in short LOCKs	Intergenic	42.6713722804666
+E105	Peaks in short LOCKs	intron	36.9848070042997
+E105	Peaks in short LOCKs	non-coding	1.19333742796921
+E105	Peaks in short LOCKs	promoter-TSS	8.17784131406314
+E105	Peaks in short LOCKs	TTS	2.25342138324522
+E105	Typical peaks	3' UTR	0.516926071180386
+E105	Typical peaks	5' UTR	0.256436810921583
+E105	Typical peaks	exon	2.08617908742389
+E105	Typical peaks	Intergenic	61.6835593767742
+E105	Typical peaks	intron	32.3769280005283
+E105	Typical peaks	non-coding	0.68636484515209
+E105	Typical peaks	promoter-TSS	1.569362173128
+E105	Typical peaks	TTS	0.824243634891507
+E065	Peaks in long LOCKs	3' UTR	0.486482033839004
+E065	Peaks in long LOCKs	5' UTR	0.121760629144706
+E065	Peaks in long LOCKs	exon	1.25757607067065
+E065	Peaks in long LOCKs	Intergenic	64.227545801772
+E065	Peaks in long LOCKs	intron	31.129585024807
+E065	Peaks in long LOCKs	non-coding	0.539988320445533
+E065	Peaks in long LOCKs	promoter-TSS	1.46847610121412
+E065	Peaks in long LOCKs	TTS	0.768586018106989
+E065	Peaks in short LOCKs	3' UTR	0.785355328643592
+E065	Peaks in short LOCKs	5' UTR	0.198024017138036
+E065	Peaks in short LOCKs	exon	2.05911865416989
+E065	Peaks in short LOCKs	Intergenic	62.8931137428904
+E065	Peaks in short LOCKs	intron	28.6229555306293
+E065	Peaks in short LOCKs	non-coding	0.838335179152902
+E065	Peaks in short LOCKs	promoter-TSS	2.9449937884673
+E065	Peaks in short LOCKs	TTS	1.65810375890857
+E065	Typical peaks	3' UTR	0.645761846113312
+E065	Typical peaks	5' UTR	0.249472532543903
+E065	Typical peaks	exon	1.73487391528953
+E065	Typical peaks	Intergenic	55.6662619262743
+E065	Typical peaks	intron	36.8980729468953
+E065	Typical peaks	non-coding	0.537679176334659
+E065	Typical peaks	promoter-TSS	3.26451918125617
+E065	Typical peaks	TTS	1.00335847529282
+E078	Peaks in long LOCKs	3' UTR	1.39487662071735
+E078	Peaks in long LOCKs	5' UTR	0.562029285069673
+E078	Peaks in long LOCKs	exon	3.43154317021767
+E078	Peaks in long LOCKs	Intergenic	49.6818049746058
+E078	Peaks in long LOCKs	intron	35.6732241342984
+E078	Peaks in long LOCKs	non-coding	1.3440938489956
+E078	Peaks in long LOCKs	promoter-TSS	5.4832550225365
+E078	Peaks in long LOCKs	TTS	2.42917294355903
+E078	Peaks in short LOCKs	3' UTR	1.3947939388845
+E078	Peaks in short LOCKs	5' UTR	1.74000321248776
+E078	Peaks in short LOCKs	exon	4.61801772860471
+E078	Peaks in short LOCKs	Intergenic	36.2360462764687
+E078	Peaks in short LOCKs	intron	38.7351287200567
+E078	Peaks in short LOCKs	non-coding	1.55912184233676
+E078	Peaks in short LOCKs	promoter-TSS	13.4065353319557
+E078	Peaks in short LOCKs	TTS	2.31035294920524
+E078	Typical peaks	3' UTR	0.554732851821609
+E078	Typical peaks	5' UTR	0.753398736053984
+E078	Typical peaks	exon	2.73658470993979
+E078	Typical peaks	Intergenic	54.5425564407907
+E078	Typical peaks	intron	33.1858937426925
+E078	Typical peaks	non-coding	0.995199427243851
+E078	Typical peaks	promoter-TSS	6.46270540013233
+E078	Typical peaks	TTS	0.76892869132522
+E076	Peaks in long LOCKs	3' UTR	1.53849570074025
+E076	Peaks in long LOCKs	5' UTR	0.574355832101653
+E076	Peaks in long LOCKs	exon	3.55629384455868
+E076	Peaks in long LOCKs	Intergenic	46.3992009632099
+E076	Peaks in long LOCKs	intron	36.2999350878886
+E076	Peaks in long LOCKs	non-coding	1.46643440771263
+E076	Peaks in long LOCKs	promoter-TSS	7.04302553695885
+E076	Peaks in long LOCKs	TTS	3.12225862682943
+E076	Peaks in short LOCKs	3' UTR	2.18004045903096
+E076	Peaks in short LOCKs	5' UTR	1.62322731720073
+E076	Peaks in short LOCKs	exon	4.94822640713256
+E076	Peaks in short LOCKs	Intergenic	34.2130101860774
+E076	Peaks in short LOCKs	intron	40.0387651897808
+E076	Peaks in short LOCKs	non-coding	2.3707833198247
+E076	Peaks in short LOCKs	promoter-TSS	12.2170523746093
+E076	Peaks in short LOCKs	TTS	2.40889474634357
+E076	Typical peaks	3' UTR	0.737652730082954
+E076	Typical peaks	5' UTR	1.77313302548205
+E076	Typical peaks	exon	3.56322126238621
+E076	Typical peaks	Intergenic	44.9242195734782
+E076	Typical peaks	intron	35.5151977844701
+E076	Typical peaks	non-coding	1.07422194316643
+E076	Typical peaks	promoter-TSS	11.3655392951261
+E076	Typical peaks	TTS	1.04681438580803
+E103	Peaks in long LOCKs	3' UTR	1.49531847095927
+E103	Peaks in long LOCKs	5' UTR	0.404494901420339
+E103	Peaks in long LOCKs	exon	3.46886388836119
+E103	Peaks in long LOCKs	Intergenic	46.913581383759
+E103	Peaks in long LOCKs	intron	37.7026514713765
+E103	Peaks in long LOCKs	non-coding	1.30376893498679
+E103	Peaks in long LOCKs	promoter-TSS	6.18176942727043
+E103	Peaks in long LOCKs	TTS	2.52955152186643
+E103	Peaks in short LOCKs	3' UTR	1.43194181246802
+E103	Peaks in short LOCKs	5' UTR	1.59701557810882
+E103	Peaks in short LOCKs	exon	5.19445399762391
+E103	Peaks in short LOCKs	Intergenic	35.8229220928942
+E103	Peaks in short LOCKs	intron	37.975971532474
+E103	Peaks in short LOCKs	non-coding	1.64219801968412
+E103	Peaks in short LOCKs	promoter-TSS	13.8529469380615
+E103	Peaks in short LOCKs	TTS	2.48255002868542
+E103	Typical peaks	3' UTR	0.510928918416275
+E103	Typical peaks	5' UTR	0.284995879358942
+E103	Typical peaks	exon	1.8621514198489
+E103	Typical peaks	Intergenic	56.8353247376614
+E103	Typical peaks	intron	36.1204522711678
+E103	Typical peaks	non-coding	0.671493475858661
+E103	Typical peaks	promoter-TSS	2.86757637325881
+E103	Typical peaks	TTS	0.847076924429182
+E111	Peaks in long LOCKs	3' UTR	1.30304589620788
+E111	Peaks in long LOCKs	5' UTR	0.270037504457131
+E111	Peaks in long LOCKs	exon	2.42354554697069
+E111	Peaks in long LOCKs	Intergenic	52.2015768469768
+E111	Peaks in long LOCKs	intron	36.1211289250872
+E111	Peaks in long LOCKs	non-coding	1.17125489516356
+E111	Peaks in long LOCKs	promoter-TSS	4.15319956825308
+E111	Peaks in long LOCKs	TTS	2.35621081688366
+E111	Peaks in short LOCKs	3' UTR	1.56444909910129
+E111	Peaks in short LOCKs	5' UTR	0.920950826159528
+E111	Peaks in short LOCKs	exon	4.10926520669498
+E111	Peaks in short LOCKs	Intergenic	42.1651943891145
+E111	Peaks in short LOCKs	intron	37.4794520919457
+E111	Peaks in short LOCKs	non-coding	1.46211495166757
+E111	Peaks in short LOCKs	promoter-TSS	9.74441210467418
+E111	Peaks in short LOCKs	TTS	2.55416133064224
+E111	Typical peaks	3' UTR	0.526668194057123
+E111	Typical peaks	5' UTR	0.266593155587239
+E111	Typical peaks	exon	2.06869012697985
+E111	Typical peaks	Intergenic	62.0075410933719
+E111	Typical peaks	intron	31.0123133945358
+E111	Typical peaks	non-coding	0.676606542630435
+E111	Typical peaks	promoter-TSS	2.60092362369199
+E111	Typical peaks	TTS	0.840663869145659
+E092	Peaks in long LOCKs	3' UTR	1.301787099288
+E092	Peaks in long LOCKs	5' UTR	0.471046989160361
+E092	Peaks in long LOCKs	exon	3.98370467550924
+E092	Peaks in long LOCKs	Intergenic	47.5017036604958
+E092	Peaks in long LOCKs	intron	39.0343026200163
+E092	Peaks in long LOCKs	non-coding	1.12120080277355
+E092	Peaks in long LOCKs	promoter-TSS	4.61605334316804
+E092	Peaks in long LOCKs	TTS	1.97020080958869
+E092	Peaks in short LOCKs	3' UTR	1.25807573882713
+E092	Peaks in short LOCKs	5' UTR	1.24938083805285
+E092	Peaks in short LOCKs	exon	5.89505125633245
+E092	Peaks in short LOCKs	Intergenic	41.9652929261494
+E092	Peaks in short LOCKs	intron	34.5819609002795
+E092	Peaks in short LOCKs	non-coding	1.38844006485449
+E092	Peaks in short LOCKs	promoter-TSS	11.3882323772494
+E092	Peaks in short LOCKs	TTS	2.27356589825481
+E092	Typical peaks	3' UTR	0.658345467583077
+E092	Typical peaks	5' UTR	1.21903369426484
+E092	Typical peaks	exon	5.45534296483165
+E092	Typical peaks	Intergenic	50.0546450706982
+E092	Typical peaks	intron	33.0028902484575
+E092	Typical peaks	non-coding	1.28077755073914
+E092	Typical peaks	promoter-TSS	7.38622867517962
+E092	Typical peaks	TTS	0.942736328245937
+E085	Peaks in long LOCKs	3' UTR	1.24958013971147
+E085	Peaks in long LOCKs	5' UTR	0.415339778649531
+E085	Peaks in long LOCKs	exon	2.41663981063795
+E085	Peaks in long LOCKs	Intergenic	50.4412286754771
+E085	Peaks in long LOCKs	intron	36.6986469498178
+E085	Peaks in long LOCKs	non-coding	1.1556982475089
+E085	Peaks in long LOCKs	promoter-TSS	5.55014355759975
+E085	Peaks in long LOCKs	TTS	2.07272284059752
+E085	Peaks in short LOCKs	3' UTR	1.31413105220408
+E085	Peaks in short LOCKs	5' UTR	1.34114270387236
+E085	Peaks in short LOCKs	exon	3.40823537844838
+E085	Peaks in short LOCKs	Intergenic	41.6821194138738
+E085	Peaks in short LOCKs	intron	37.614753266762
+E085	Peaks in short LOCKs	non-coding	1.26533109151253
+E085	Peaks in short LOCKs	promoter-TSS	11.5065075362852
+E085	Peaks in short LOCKs	TTS	1.86777955704161
+E085	Typical peaks	3' UTR	0.461867003546663
+E085	Typical peaks	5' UTR	0.459419651174038
+E085	Typical peaks	exon	1.88589311130242
+E085	Typical peaks	Intergenic	60.6060343718154
+E085	Typical peaks	intron	32.1092131828717
+E085	Typical peaks	non-coding	0.609174308260846
+E085	Typical peaks	promoter-TSS	3.16081385953962
+E085	Typical peaks	TTS	0.707584511489321
+E084	Peaks in long LOCKs	3' UTR	1.15540176028464
+E084	Peaks in long LOCKs	5' UTR	0.359569127505191
+E084	Peaks in long LOCKs	exon	2.23342743022312
+E084	Peaks in long LOCKs	Intergenic	51.5004014225115
+E084	Peaks in long LOCKs	intron	36.4842122903665
+E084	Peaks in long LOCKs	non-coding	1.0680620466697
+E084	Peaks in long LOCKs	promoter-TSS	5.16957891539049
+E084	Peaks in long LOCKs	TTS	2.02934700704884
+E084	Peaks in short LOCKs	3' UTR	1.26347028638408
+E084	Peaks in short LOCKs	5' UTR	1.47137074069824
+E084	Peaks in short LOCKs	exon	3.52555908850929
+E084	Peaks in short LOCKs	Intergenic	41.6438647809223
+E084	Peaks in short LOCKs	intron	37.822074398361
+E084	Peaks in short LOCKs	non-coding	1.29767959684276
+E084	Peaks in short LOCKs	promoter-TSS	11.0158053977669
+E084	Peaks in short LOCKs	TTS	1.96017571051545
+E084	Typical peaks	3' UTR	0.5002353640757
+E084	Typical peaks	5' UTR	0.331890529365769
+E084	Typical peaks	exon	2.1663805616831
+E084	Typical peaks	Intergenic	58.8656332643394
+E084	Typical peaks	intron	32.2023234961585
+E084	Typical peaks	non-coding	0.909530773454532
+E084	Typical peaks	promoter-TSS	4.01659902566209
+E084	Typical peaks	TTS	1.00740698526083
+E109	Peaks in long LOCKs	3' UTR	0.974676676081927
+E109	Peaks in long LOCKs	5' UTR	0.344732797002451
+E109	Peaks in long LOCKs	exon	2.52234439428014
+E109	Peaks in long LOCKs	Intergenic	54.7723158459831
+E109	Peaks in long LOCKs	intron	34.1757805060665
+E109	Peaks in long LOCKs	non-coding	0.989283653691999
+E109	Peaks in long LOCKs	promoter-TSS	4.47192275765237
+E109	Peaks in long LOCKs	TTS	1.74894336924158
+E109	Peaks in short LOCKs	3' UTR	1.2036113395593
+E109	Peaks in short LOCKs	5' UTR	1.13930657216967
+E109	Peaks in short LOCKs	exon	4.82781185233927
+E109	Peaks in short LOCKs	Intergenic	41.9578496404898
+E109	Peaks in short LOCKs	intron	35.8837588199145
+E109	Peaks in short LOCKs	non-coding	1.72840295065863
+E109	Peaks in short LOCKs	promoter-TSS	11.2336384304703
+E109	Peaks in short LOCKs	TTS	2.02562039439853
+E109	Typical peaks	3' UTR	0.419978573905497
+E109	Typical peaks	5' UTR	0.142717936895696
+E109	Typical peaks	exon	1.69208028779933
+E109	Typical peaks	Intergenic	61.2260143008526
+E109	Typical peaks	intron	33.4249205239126
+E109	Typical peaks	non-coding	0.552409660727674
+E109	Typical peaks	promoter-TSS	1.87766978630086
+E109	Typical peaks	TTS	0.664208929605787
+E106	Peaks in long LOCKs	3' UTR	0.905982691554306
+E106	Peaks in long LOCKs	5' UTR	0.476244271849215
+E106	Peaks in long LOCKs	exon	3.14660280521103
+E106	Peaks in long LOCKs	Intergenic	52.8204197914893
+E106	Peaks in long LOCKs	intron	35.1350729463831
+E106	Peaks in long LOCKs	non-coding	1.03883481741842
+E106	Peaks in long LOCKs	promoter-TSS	4.85179882750771
+E106	Peaks in long LOCKs	TTS	1.62504384858695
+E106	Peaks in short LOCKs	3' UTR	1.14103226546397
+E106	Peaks in short LOCKs	5' UTR	1.58607109865285
+E106	Peaks in short LOCKs	exon	6.03541948133871
+E106	Peaks in short LOCKs	Intergenic	41.0756462021501
+E106	Peaks in short LOCKs	intron	34.5791726698972
+E106	Peaks in short LOCKs	non-coding	1.45976183974739
+E106	Peaks in short LOCKs	promoter-TSS	12.2914567578722
+E106	Peaks in short LOCKs	TTS	1.83143968487756
+E106	Typical peaks	3' UTR	0.537367630144412
+E106	Typical peaks	5' UTR	0.180238937780108
+E106	Typical peaks	exon	1.86637640412302
+E106	Typical peaks	Intergenic	61.3534225567488
+E106	Typical peaks	intron	33.1012555030165
+E106	Typical peaks	non-coding	0.622793835740192
+E106	Typical peaks	promoter-TSS	1.7103309081134
+E106	Typical peaks	TTS	0.628214224333579
+E075	Peaks in long LOCKs	3' UTR	1.34236151149004
+E075	Peaks in long LOCKs	5' UTR	0.602294224720457
+E075	Peaks in long LOCKs	exon	4.36682361787441
+E075	Peaks in long LOCKs	Intergenic	46.4957604777167
+E075	Peaks in long LOCKs	intron	37.7028832842742
+E075	Peaks in long LOCKs	non-coding	1.24188990277665
+E075	Peaks in long LOCKs	promoter-TSS	5.98249000861283
+E075	Peaks in long LOCKs	TTS	2.26549697253469
+E075	Peaks in short LOCKs	3' UTR	1.40159580559686
+E075	Peaks in short LOCKs	5' UTR	2.27200584104812
+E075	Peaks in short LOCKs	exon	7.29297743521387
+E075	Peaks in short LOCKs	Intergenic	33.3500690153672
+E075	Peaks in short LOCKs	intron	36.5205603685279
+E075	Peaks in short LOCKs	non-coding	1.9831993986958
+E075	Peaks in short LOCKs	promoter-TSS	14.6207892581371
+E075	Peaks in short LOCKs	TTS	2.55880287741317
+E075	Typical peaks	3' UTR	0.588207083794216
+E075	Typical peaks	5' UTR	0.457762548247616
+E075	Typical peaks	exon	2.29879100563888
+E075	Typical peaks	Intergenic	56.6268515868534
+E075	Typical peaks	intron	35.1904610886364
+E075	Typical peaks	non-coding	0.799297653947603
+E075	Typical peaks	promoter-TSS	3.23493784856243
+E075	Typical peaks	TTS	0.803691184319428
+E101	Peaks in long LOCKs	3' UTR	1.27524038239043
+E101	Peaks in long LOCKs	5' UTR	0.305140610748812
+E101	Peaks in long LOCKs	exon	2.05940430733266
+E101	Peaks in long LOCKs	Intergenic	52.5312937787749
+E101	Peaks in long LOCKs	intron	35.5822912586533
+E101	Peaks in long LOCKs	non-coding	1.10864921355983
+E101	Peaks in long LOCKs	promoter-TSS	4.89013779320659
+E101	Peaks in long LOCKs	TTS	2.24784265533351
+E101	Peaks in short LOCKs	3' UTR	1.21430235211429
+E101	Peaks in short LOCKs	5' UTR	1.10700894320824
+E101	Peaks in short LOCKs	exon	3.17569164325221
+E101	Peaks in short LOCKs	Intergenic	40.4535481755713
+E101	Peaks in short LOCKs	intron	39.5331880603067
+E101	Peaks in short LOCKs	non-coding	1.34592283350891
+E101	Peaks in short LOCKs	promoter-TSS	11.2164248256164
+E101	Peaks in short LOCKs	TTS	1.95391316642193
+E101	Typical peaks	3' UTR	0.605088160574937
+E101	Typical peaks	5' UTR	0.216554230742556
+E101	Typical peaks	exon	1.46086486932085
+E101	Typical peaks	Intergenic	59.5816608628455
+E101	Typical peaks	intron	34.16467549815
+E101	Typical peaks	non-coding	0.558711889824395
+E101	Typical peaks	promoter-TSS	2.59331959568975
+E101	Typical peaks	TTS	0.819124892852057
+E102	Peaks in long LOCKs	3' UTR	1.35595542057467
+E102	Peaks in long LOCKs	5' UTR	0.393966572952001
+E102	Peaks in long LOCKs	exon	2.52256499257311
+E102	Peaks in long LOCKs	Intergenic	50.1178066683289
+E102	Peaks in long LOCKs	intron	36.4726505467669
+E102	Peaks in long LOCKs	non-coding	1.24670245362762
+E102	Peaks in long LOCKs	promoter-TSS	5.6077921184466
+E102	Peaks in long LOCKs	TTS	2.2825612267302
+E102	Peaks in short LOCKs	3' UTR	1.22383396750269
+E102	Peaks in short LOCKs	5' UTR	1.2210756974059
+E102	Peaks in short LOCKs	exon	3.40683017505588
+E102	Peaks in short LOCKs	Intergenic	38.1742137359058
+E102	Peaks in short LOCKs	intron	39.9227300309974
+E102	Peaks in short LOCKs	non-coding	1.36485489055254
+E102	Peaks in short LOCKs	promoter-TSS	12.6810420255618
+E102	Peaks in short LOCKs	TTS	2.00541947701802
+E102	Typical peaks	3' UTR	0.672919284983957
+E102	Typical peaks	5' UTR	0.273011950056966
+E102	Typical peaks	exon	1.59414181137674
+E102	Typical peaks	Intergenic	60.0423103265495
+E102	Typical peaks	intron	32.5138426609944
+E102	Typical peaks	non-coding	0.593572591546062
+E102	Typical peaks	promoter-TSS	3.4929452632397
+E102	Typical peaks	TTS	0.817256111252666
+E110	Peaks in long LOCKs	3' UTR	1.46732706222908
+E110	Peaks in long LOCKs	5' UTR	0.503516100294789
+E110	Peaks in long LOCKs	exon	2.92840772503592
+E110	Peaks in long LOCKs	Intergenic	49.5194884571963
+E110	Peaks in long LOCKs	intron	35.9553737449206
+E110	Peaks in long LOCKs	non-coding	1.21783730883048
+E110	Peaks in long LOCKs	promoter-TSS	6.08744240477543
+E110	Peaks in long LOCKs	TTS	2.32060719671734
+E110	Peaks in short LOCKs	3' UTR	1.31675614429084
+E110	Peaks in short LOCKs	5' UTR	1.44375261266452
+E110	Peaks in short LOCKs	exon	3.94949199627739
+E110	Peaks in short LOCKs	Intergenic	37.589062632195
+E110	Peaks in short LOCKs	intron	39.0997672832109
+E110	Peaks in short LOCKs	non-coding	1.40489508467443
+E110	Peaks in short LOCKs	promoter-TSS	13.1008057448454
+E110	Peaks in short LOCKs	TTS	2.09546850184149
+E110	Typical peaks	3' UTR	0.63307887377056
+E110	Typical peaks	5' UTR	1.13265205765577
+E110	Typical peaks	exon	2.25575893846042
+E110	Typical peaks	Intergenic	55.7917398176781
+E110	Typical peaks	intron	32.4261973989665
+E110	Typical peaks	non-coding	0.786689205600393
+E110	Typical peaks	promoter-TSS	6.05542759222642
+E110	Typical peaks	TTS	0.918456115641901
+E077	Peaks in long LOCKs	3' UTR	1.19503393501789
+E077	Peaks in long LOCKs	5' UTR	0.369894006126916
+E077	Peaks in long LOCKs	exon	2.39555544331757
+E077	Peaks in long LOCKs	Intergenic	51.4964079647433
+E077	Peaks in long LOCKs	intron	36.4594960722279
+E077	Peaks in long LOCKs	non-coding	1.17021443305617
+E077	Peaks in long LOCKs	promoter-TSS	4.79875741273349
+E077	Peaks in long LOCKs	TTS	2.11464073277677
+E077	Peaks in short LOCKs	3' UTR	1.279741455674
+E077	Peaks in short LOCKs	5' UTR	1.29384084586514
+E077	Peaks in short LOCKs	exon	4.12470630820093
+E077	Peaks in short LOCKs	Intergenic	39.7503302369271
+E077	Peaks in short LOCKs	intron	38.269416552766
+E077	Peaks in short LOCKs	non-coding	1.45811989750166
+E077	Peaks in short LOCKs	promoter-TSS	11.6197674269418
+E077	Peaks in short LOCKs	TTS	2.20407727612339
+E077	Typical peaks	3' UTR	0.537665062850335
+E077	Typical peaks	5' UTR	0.26264490176031
+E077	Typical peaks	exon	1.85890217411493
+E077	Typical peaks	Intergenic	59.3332564469054
+E077	Typical peaks	intron	33.6989326176848
+E077	Typical peaks	non-coding	0.653685818730311
+E077	Typical peaks	promoter-TSS	2.7482146582679
+E077	Typical peaks	TTS	0.906698319685992
+E079	Peaks in long LOCKs	3' UTR	1.12588571347103
+E079	Peaks in long LOCKs	5' UTR	0.823046916755597
+E079	Peaks in long LOCKs	exon	3.68133033048087
+E079	Peaks in long LOCKs	Intergenic	49.7507233434812
+E079	Peaks in long LOCKs	intron	33.8082980615991
+E079	Peaks in long LOCKs	non-coding	1.21755072175353
+E079	Peaks in long LOCKs	promoter-TSS	7.39949222893993
+E079	Peaks in long LOCKs	TTS	2.19367268351874
+E079	Peaks in short LOCKs	3' UTR	1.11166762972895
+E079	Peaks in short LOCKs	5' UTR	2.35541237285905
+E079	Peaks in short LOCKs	exon	6.16283635601029
+E079	Peaks in short LOCKs	Intergenic	34.2413820799022
+E079	Peaks in short LOCKs	intron	37.0480765154845
+E079	Peaks in short LOCKs	non-coding	1.65297184660314
+E079	Peaks in short LOCKs	promoter-TSS	15.6336801101238
+E079	Peaks in short LOCKs	TTS	1.79397308928814
+E079	Typical peaks	3' UTR	0.515395317887605
+E079	Typical peaks	5' UTR	0.294026710758911
+E079	Typical peaks	exon	1.56997963422257
+E079	Typical peaks	Intergenic	62.5618198804939
+E079	Typical peaks	intron	31.4956411859201
+E079	Typical peaks	non-coding	0.562915465220226
+E079	Typical peaks	promoter-TSS	2.39805348873161
+E079	Typical peaks	TTS	0.602168316765135
+E094	Peaks in long LOCKs	3' UTR	0.806430129413735
+E094	Peaks in long LOCKs	5' UTR	0.216541297790768
+E094	Peaks in long LOCKs	exon	1.83793707852463
+E094	Peaks in long LOCKs	Intergenic	56.3996978316512
+E094	Peaks in long LOCKs	intron	36.360127260826
+E094	Peaks in long LOCKs	non-coding	0.705349434480899
+E094	Peaks in long LOCKs	promoter-TSS	2.45613720334984
+E094	Peaks in long LOCKs	TTS	1.21777976396292
+E094	Peaks in short LOCKs	3' UTR	0.937523099287926
+E094	Peaks in short LOCKs	5' UTR	0.580254112699886
+E094	Peaks in short LOCKs	exon	2.52716476260092
+E094	Peaks in short LOCKs	Intergenic	53.6162191906831
+E094	Peaks in short LOCKs	intron	36.9280616309535
+E094	Peaks in short LOCKs	non-coding	0.71289535714579
+E094	Peaks in short LOCKs	promoter-TSS	3.1924242548683
+E094	Peaks in short LOCKs	TTS	1.50545759176064
+E094	Typical peaks	3' UTR	0.86029050212736
+E094	Typical peaks	5' UTR	0.107282329977148
+E094	Typical peaks	exon	1.46117991598927
+E094	Typical peaks	Intergenic	57.4212416304205
+E094	Typical peaks	intron	37.3934457540173
+E094	Typical peaks	non-coding	0.381312826875849
+E094	Typical peaks	promoter-TSS	1.28671067228906
+E094	Typical peaks	TTS	1.08853636830349
+E099	Peaks in long LOCKs	3' UTR	1.67184298508423
+E099	Peaks in long LOCKs	5' UTR	0.952753602440908
+E099	Peaks in long LOCKs	exon	4.1913200217984
+E099	Peaks in long LOCKs	Intergenic	42.2872931807141
+E099	Peaks in long LOCKs	intron	37.8373287528957
+E099	Peaks in long LOCKs	non-coding	1.60440334287794
+E099	Peaks in long LOCKs	promoter-TSS	8.20671153647812
+E099	Peaks in long LOCKs	TTS	3.24834657771068
+E099	Peaks in short LOCKs	3' UTR	1.60018045053959
+E099	Peaks in short LOCKs	5' UTR	2.0507965717799
+E099	Peaks in short LOCKs	exon	5.97901858547016
+E099	Peaks in short LOCKs	Intergenic	29.4589757773638
+E099	Peaks in short LOCKs	intron	41.0606613996992
+E099	Peaks in short LOCKs	non-coding	2.07282140201225
+E099	Peaks in short LOCKs	promoter-TSS	15.5644543050677
+E099	Peaks in short LOCKs	TTS	2.21309150806734
+E099	Typical peaks	3' UTR	0.607875352198399
+E099	Typical peaks	5' UTR	1.75966813403105
+E099	Typical peaks	exon	3.96222768882889
+E099	Typical peaks	Intergenic	46.9624456959413
+E099	Typical peaks	intron	35.8995819352567
+E099	Typical peaks	non-coding	1.05331133547581
+E099	Typical peaks	promoter-TSS	8.62964305289733
+E099	Typical peaks	TTS	1.12524680537054
+E086	Peaks in long LOCKs	3' UTR	2.14234743839758
+E086	Peaks in long LOCKs	5' UTR	0.269168174914522
+E086	Peaks in long LOCKs	exon	1.89119828985295
+E086	Peaks in long LOCKs	Intergenic	48.5745392182367
+E086	Peaks in long LOCKs	intron	35.6347668401536
+E086	Peaks in long LOCKs	non-coding	1.6953361880883
+E086	Peaks in long LOCKs	promoter-TSS	6.20529964369886
+E086	Peaks in long LOCKs	TTS	3.58734420665753
+E086	Peaks in short LOCKs	3' UTR	2.09977142687233
+E086	Peaks in short LOCKs	5' UTR	0.784343622408672
+E086	Peaks in short LOCKs	exon	3.20088815406195
+E086	Peaks in short LOCKs	Intergenic	35.6387548832396
+E086	Peaks in short LOCKs	intron	42.3482111585591
+E086	Peaks in short LOCKs	non-coding	1.8576104548263
+E086	Peaks in short LOCKs	promoter-TSS	11.0286620537145
+E086	Peaks in short LOCKs	TTS	3.04175824631754
+E086	Typical peaks	3' UTR	0.950797237516311
+E086	Typical peaks	5' UTR	0.19429680786735
+E086	Typical peaks	exon	2.57916679927437
+E086	Typical peaks	Intergenic	45.6355622036218
+E086	Typical peaks	intron	38.5495369338977
+E086	Typical peaks	non-coding	1.0031507590465
+E086	Typical peaks	promoter-TSS	9.6323318799529
+E086	Typical peaks	TTS	1.45515737882308
+E088	Peaks in long LOCKs	3' UTR	1.26772092424819
+E088	Peaks in long LOCKs	5' UTR	0.266058936604167
+E088	Peaks in long LOCKs	exon	1.4722940061646
+E088	Peaks in long LOCKs	Intergenic	51.9382649553136
+E088	Peaks in long LOCKs	intron	38.042187678317
+E088	Peaks in long LOCKs	non-coding	1.1294585944669
+E088	Peaks in long LOCKs	promoter-TSS	3.83828408572145
+E088	Peaks in long LOCKs	TTS	2.04573081916415
+E088	Peaks in short LOCKs	3' UTR	1.42872714849802
+E088	Peaks in short LOCKs	5' UTR	0.724402742577483
+E088	Peaks in short LOCKs	exon	2.16579723040988
+E088	Peaks in short LOCKs	Intergenic	42.0459628020053
+E088	Peaks in short LOCKs	intron	41.8301731192449
+E088	Peaks in short LOCKs	non-coding	1.18645236638674
+E088	Peaks in short LOCKs	promoter-TSS	8.40440782730978
+E088	Peaks in short LOCKs	TTS	2.21407676356789
+E088	Typical peaks	3' UTR	0.661805462881465
+E088	Typical peaks	5' UTR	0.199051450489044
+E088	Typical peaks	exon	1.50884248270264
+E088	Typical peaks	Intergenic	57.6322548818212
+E088	Typical peaks	intron	34.4161332387683
+E088	Typical peaks	non-coding	0.685021884413709
+E088	Typical peaks	promoter-TSS	3.95926205267154
+E088	Typical peaks	TTS	0.93762854625216
+E097	Peaks in long LOCKs	3' UTR	1.16307506770192
+E097	Peaks in long LOCKs	5' UTR	0.335411081780574
+E097	Peaks in long LOCKs	exon	2.41953683310671
+E097	Peaks in long LOCKs	Intergenic	56.2239783217213
+E097	Peaks in long LOCKs	intron	33.4047316179904
+E097	Peaks in long LOCKs	non-coding	0.928339031150853
+E097	Peaks in long LOCKs	promoter-TSS	3.58284440668676
+E097	Peaks in long LOCKs	TTS	1.94208363986149
+E097	Peaks in short LOCKs	3' UTR	1.2004890587208
+E097	Peaks in short LOCKs	5' UTR	0.466186211609625
+E097	Peaks in short LOCKs	exon	3.84444787708568
+E097	Peaks in short LOCKs	Intergenic	51.1475765266109
+E097	Peaks in short LOCKs	intron	35.1154565348863
+E097	Peaks in short LOCKs	non-coding	0.758763724994609
+E097	Peaks in short LOCKs	promoter-TSS	5.41605928109639
+E097	Peaks in short LOCKs	TTS	2.05102078499563
+E097	Typical peaks	3' UTR	0.49409132294719
+E097	Typical peaks	5' UTR	0.0609093161272405
+E097	Typical peaks	exon	0.681805629851246
+E097	Typical peaks	Intergenic	69.8781655881299
+E097	Typical peaks	intron	26.9859829674829
+E097	Typical peaks	non-coding	0.443501875407311
+E097	Typical peaks	promoter-TSS	0.858568883544859
+E097	Typical peaks	TTS	0.596974416509265
+E087	Peaks in long LOCKs	3' UTR	0.916305587860618
+E087	Peaks in long LOCKs	5' UTR	0.255170409353306
+E087	Peaks in long LOCKs	exon	2.59114337011754
+E087	Peaks in long LOCKs	Intergenic	56.7580295736755
+E087	Peaks in long LOCKs	intron	32.7162032558454
+E087	Peaks in long LOCKs	non-coding	1.17326758111824
+E087	Peaks in long LOCKs	promoter-TSS	3.80722980654884
+E087	Peaks in long LOCKs	TTS	1.78265041548052
+E087	Peaks in short LOCKs	3' UTR	1.29807228704426
+E087	Peaks in short LOCKs	5' UTR	0.993716742787513
+E087	Peaks in short LOCKs	exon	5.67334075548114
+E087	Peaks in short LOCKs	Intergenic	42.31177623101
+E087	Peaks in short LOCKs	intron	37.3211123578761
+E087	Peaks in short LOCKs	non-coding	1.46885108658491
+E087	Peaks in short LOCKs	promoter-TSS	8.38070796770489
+E087	Peaks in short LOCKs	TTS	2.55242257151122
+E087	Typical peaks	3' UTR	0.566788047624252
+E087	Typical peaks	5' UTR	0.218176502647178
+E087	Typical peaks	exon	2.45363354007803
+E087	Typical peaks	Intergenic	63.6717675248369
+E087	Typical peaks	intron	29.5815220771499
+E087	Typical peaks	non-coding	0.553892126143898
+E087	Typical peaks	promoter-TSS	2.3425950880946
+E087	Typical peaks	TTS	0.611625093425153
+E080	Peaks in long LOCKs	3' UTR	1.19674214912242
+E080	Peaks in long LOCKs	5' UTR	0.29778896897428
+E080	Peaks in long LOCKs	exon	3.66257940238054
+E080	Peaks in long LOCKs	Intergenic	47.5012541983755
+E080	Peaks in long LOCKs	intron	41.1878348604304
+E080	Peaks in long LOCKs	non-coding	0.985236095739264
+E080	Peaks in long LOCKs	promoter-TSS	3.43440587036013
+E080	Peaks in long LOCKs	TTS	1.73415845461743
+E080	Peaks in short LOCKs	3' UTR	1.54815117497593
+E080	Peaks in short LOCKs	5' UTR	0.840047810881801
+E080	Peaks in short LOCKs	exon	6.64236418894319
+E080	Peaks in short LOCKs	Intergenic	43.0821282478428
+E080	Peaks in short LOCKs	intron	35.6032929536762
+E080	Peaks in short LOCKs	non-coding	1.46908685917216
+E080	Peaks in short LOCKs	promoter-TSS	8.63269966031419
+E080	Peaks in short LOCKs	TTS	2.18222910419382
+E080	Typical peaks	3' UTR	0.435235280540097
+E080	Typical peaks	5' UTR	0.888242426597776
+E080	Typical peaks	exon	3.8640650652691
+E080	Typical peaks	Intergenic	57.4768309592644
+E080	Typical peaks	intron	30.5863049086716
+E080	Typical peaks	non-coding	0.941227415173921
+E080	Typical peaks	promoter-TSS	5.10955302543745
+E080	Typical peaks	TTS	0.698540919045644
+E091	Peaks in long LOCKs	3' UTR	1.55202083856605
+E091	Peaks in long LOCKs	5' UTR	0.244444065661599
+E091	Peaks in long LOCKs	exon	3.82885830358284
+E091	Peaks in long LOCKs	Intergenic	43.0090441134728
+E091	Peaks in long LOCKs	intron	43.0213209037464
+E091	Peaks in long LOCKs	non-coding	1.23365542240399
+E091	Peaks in long LOCKs	promoter-TSS	4.71801346742058
+E091	Peaks in long LOCKs	TTS	2.39264288514573
+E091	Peaks in short LOCKs	3' UTR	2.03756529821349
+E091	Peaks in short LOCKs	5' UTR	1.26292016356355
+E091	Peaks in short LOCKs	exon	6.07754377142653
+E091	Peaks in short LOCKs	Intergenic	33.3211155247006
+E091	Peaks in short LOCKs	intron	40.1094382030678
+E091	Peaks in short LOCKs	non-coding	1.72210238099843
+E091	Peaks in short LOCKs	promoter-TSS	12.670129040347
+E091	Peaks in short LOCKs	TTS	2.79918561768259
+E091	Typical peaks	3' UTR	0.722907969613285
+E091	Typical peaks	5' UTR	0.952022622611204
+E091	Typical peaks	exon	4.47692570930239
+E091	Typical peaks	Intergenic	47.0257779282354
+E091	Typical peaks	intron	37.3093149006397
+E091	Typical peaks	non-coding	0.875632673261862
+E091	Typical peaks	promoter-TSS	7.57920029731734
+E091	Typical peaks	TTS	1.05821789901882
+E066	Peaks in long LOCKs	3' UTR	0.843652611009093
+E066	Peaks in long LOCKs	5' UTR	0.224878806447452
+E066	Peaks in long LOCKs	exon	1.43690268330997
+E066	Peaks in long LOCKs	Intergenic	55.1742004543617
+E066	Peaks in long LOCKs	intron	36.5837004660437
+E066	Peaks in long LOCKs	non-coding	0.933898638191082
+E066	Peaks in long LOCKs	promoter-TSS	3.30400296546502
+E066	Peaks in long LOCKs	TTS	1.49876337517197
+E066	Peaks in short LOCKs	3' UTR	1.24015392225879
+E066	Peaks in short LOCKs	5' UTR	0.684865262530363
+E066	Peaks in short LOCKs	exon	2.89583293695339
+E066	Peaks in short LOCKs	Intergenic	46.4434809769339
+E066	Peaks in short LOCKs	intron	37.2374775648953
+E066	Peaks in short LOCKs	non-coding	1.06483507423404
+E066	Peaks in short LOCKs	promoter-TSS	8.48027137756299
+E066	Peaks in short LOCKs	TTS	1.95308288463124
+E066	Typical peaks	3' UTR	0.377312297152663
+E066	Typical peaks	5' UTR	0.206331942380162
+E066	Typical peaks	exon	1.34433529626725
+E066	Typical peaks	Intergenic	64.6769030998179
+E066	Typical peaks	intron	29.8269180493146
+E066	Typical peaks	non-coding	0.446571076551534
+E066	Typical peaks	promoter-TSS	2.47670550647017
+E066	Typical peaks	TTS	0.644922732045799
+E098	Peaks in long LOCKs	3' UTR	0.618848450184526
+E098	Peaks in long LOCKs	5' UTR	0.143218136421499
+E098	Peaks in long LOCKs	exon	1.33092627279714
+E098	Peaks in long LOCKs	Intergenic	57.8075832234301
+E098	Peaks in long LOCKs	intron	37.4559977672122
+E098	Peaks in long LOCKs	non-coding	0.545683375230862
+E098	Peaks in long LOCKs	promoter-TSS	1.16990414343303
+E098	Peaks in long LOCKs	TTS	0.927838631290608
+E098	Peaks in short LOCKs	3' UTR	0.987007755060933
+E098	Peaks in short LOCKs	5' UTR	0.268968499878549
+E098	Peaks in short LOCKs	exon	2.64465943492917
+E098	Peaks in short LOCKs	Intergenic	60.536278163194
+E098	Peaks in short LOCKs	intron	31.878691651905
+E098	Peaks in short LOCKs	non-coding	0.936650216537416
+E098	Peaks in short LOCKs	promoter-TSS	1.60610925808535
+E098	Peaks in short LOCKs	TTS	1.14163502040961
+E098	Typical peaks	3' UTR	0.872997612718678
+E098	Typical peaks	exon	1.70699589283179
+E098	Typical peaks	Intergenic	56.2310000636391
+E098	Typical peaks	intron	38.0845616491333
+E098	Typical peaks	non-coding	0.823554944185265
+E098	Typical peaks	promoter-TSS	1.18499227356318
+E098	Typical peaks	TTS	1.09589756392872
+E096	Peaks in long LOCKs	3' UTR	0.970696125022827
+E096	Peaks in long LOCKs	5' UTR	0.619336565084663
+E096	Peaks in long LOCKs	exon	3.02971280891607
+E096	Peaks in long LOCKs	Intergenic	53.7722179796859
+E096	Peaks in long LOCKs	intron	34.3605996474846
+E096	Peaks in long LOCKs	non-coding	0.957937445784002
+E096	Peaks in long LOCKs	promoter-TSS	4.40483147544543
+E096	Peaks in long LOCKs	TTS	1.88466795257649
+E096	Peaks in short LOCKs	3' UTR	1.57780755468742
+E096	Peaks in short LOCKs	5' UTR	1.4183583653709
+E096	Peaks in short LOCKs	exon	5.57806729950236
+E096	Peaks in short LOCKs	Intergenic	41.9290223593835
+E096	Peaks in short LOCKs	intron	35.7376160260655
+E096	Peaks in short LOCKs	non-coding	1.23568381851421
+E096	Peaks in short LOCKs	promoter-TSS	10.1177715222042
+E096	Peaks in short LOCKs	TTS	2.40567305427197
+E096	Typical peaks	3' UTR	0.592333458423697
+E096	Typical peaks	5' UTR	0.388244205921942
+E096	Typical peaks	exon	1.94707475235589
+E096	Typical peaks	Intergenic	62.387141807541
+E096	Typical peaks	intron	30.8201350343091
+E096	Typical peaks	non-coding	0.632581757521717
+E096	Typical peaks	promoter-TSS	2.4821366531008
+E096	Typical peaks	TTS	0.750352330825831
+E113	Peaks in long LOCKs	3' UTR	1.6453318684094
+E113	Peaks in long LOCKs	5' UTR	1.15767165579572
+E113	Peaks in long LOCKs	exon	4.792955829686
+E113	Peaks in long LOCKs	Intergenic	40.9454151460169
+E113	Peaks in long LOCKs	intron	37.2253670874175
+E113	Peaks in long LOCKs	non-coding	1.35452849066595
+E113	Peaks in long LOCKs	promoter-TSS	10.5025759833279
+E113	Peaks in long LOCKs	TTS	2.37615393868058
+E113	Peaks in short LOCKs	3' UTR	1.20502040583225
+E113	Peaks in short LOCKs	5' UTR	3.05406557103382
+E113	Peaks in short LOCKs	exon	7.25966586273399
+E113	Peaks in short LOCKs	Intergenic	27.3616071624691
+E113	Peaks in short LOCKs	intron	37.3201585021372
+E113	Peaks in short LOCKs	non-coding	1.97512641072613
+E113	Peaks in short LOCKs	promoter-TSS	19.9771779766376
+E113	Peaks in short LOCKs	TTS	1.84717810842987
+E113	Typical peaks	3' UTR	0.532194388069346
+E113	Typical peaks	5' UTR	0.820969517058936
+E113	Typical peaks	exon	2.04670887226244
+E113	Typical peaks	Intergenic	51.8290370460122
+E113	Typical peaks	intron	38.0776865679177
+E113	Typical peaks	non-coding	0.833893718636093
+E113	Typical peaks	promoter-TSS	5.04225608093781
+E113	Typical peaks	TTS	0.817253809105504
+E116	Peaks in long LOCKs	3' UTR	1.46553656810775
+E116	Peaks in long LOCKs	5' UTR	0.887386006136144
+E116	Peaks in long LOCKs	exon	3.26487348509362
+E116	Peaks in long LOCKs	Intergenic	37.5365861784858
+E116	Peaks in long LOCKs	intron	41.3290121689456
+E116	Peaks in long LOCKs	non-coding	1.58615872090824
+E116	Peaks in long LOCKs	promoter-TSS	11.4724881537865
+E116	Peaks in long LOCKs	TTS	2.45795871853645
+E116	Peaks in short LOCKs	3' UTR	1.66039649997886
+E116	Peaks in short LOCKs	5' UTR	0.853024474785476
+E116	Peaks in short LOCKs	exon	4.13027856448408
+E116	Peaks in short LOCKs	Intergenic	26.4255822800862
+E116	Peaks in short LOCKs	intron	45.492243310648
+E116	Peaks in short LOCKs	non-coding	3.2780995054318
+E116	Peaks in short LOCKs	promoter-TSS	15.9804708965634
+E116	Peaks in short LOCKs	TTS	2.17990446802215
+E116	Typical peaks	3' UTR	0.859682959251888
+E116	Typical peaks	5' UTR	1.53817782251558
+E116	Typical peaks	exon	3.04454399459048
+E116	Typical peaks	Intergenic	33.9670050176347
+E116	Typical peaks	intron	41.4920739812972
+E116	Typical peaks	non-coding	1.71921223903305
+E116	Typical peaks	promoter-TSS	16.2717360401411
+E116	Typical peaks	TTS	1.107567945536
+E119	Peaks in long LOCKs	3' UTR	0.963571601861989
+E119	Peaks in long LOCKs	5' UTR	0.509882256306616
+E119	Peaks in long LOCKs	exon	2.61694783074598
+E119	Peaks in long LOCKs	Intergenic	49.3269726215923
+E119	Peaks in long LOCKs	intron	39.704987218556
+E119	Peaks in long LOCKs	non-coding	0.949130023798919
+E119	Peaks in long LOCKs	promoter-TSS	4.49918556926961
+E119	Peaks in long LOCKs	TTS	1.42932287786862
+E119	Peaks in short LOCKs	3' UTR	1.25907225804181
+E119	Peaks in short LOCKs	5' UTR	1.56853831496968
+E119	Peaks in short LOCKs	exon	4.98055851300323
+E119	Peaks in short LOCKs	Intergenic	41.3121256200139
+E119	Peaks in short LOCKs	intron	38.1863662798024
+E119	Peaks in short LOCKs	non-coding	1.20060751972085
+E119	Peaks in short LOCKs	promoter-TSS	9.88065965533622
+E119	Peaks in short LOCKs	TTS	1.61207183911189
+E119	Typical peaks	3' UTR	0.426299173950317
+E119	Typical peaks	5' UTR	0.329136535858487
+E119	Typical peaks	exon	2.28324596805463
+E119	Typical peaks	Intergenic	60.6886352557141
+E119	Typical peaks	intron	32.1185013172456
+E119	Typical peaks	non-coding	0.529391926104088
+E119	Typical peaks	promoter-TSS	2.92743882022966
+E119	Typical peaks	TTS	0.69735100284311
+E120	Peaks in long LOCKs	3' UTR	0.998778168304789
+E120	Peaks in long LOCKs	5' UTR	0.294869024379311
+E120	Peaks in long LOCKs	exon	1.98655853979501
+E120	Peaks in long LOCKs	Intergenic	52.1365120142154
+E120	Peaks in long LOCKs	intron	37.7224546465287
+E120	Peaks in long LOCKs	non-coding	0.985739742056725
+E120	Peaks in long LOCKs	promoter-TSS	4.13014139286036
+E120	Peaks in long LOCKs	TTS	1.74494647185972
+E120	Peaks in short LOCKs	3' UTR	1.04188041833064
+E120	Peaks in short LOCKs	5' UTR	1.18011380211668
+E120	Peaks in short LOCKs	exon	3.12400431917208
+E120	Peaks in short LOCKs	Intergenic	49.3461902949583
+E120	Peaks in short LOCKs	intron	34.099536221005
+E120	Peaks in short LOCKs	non-coding	1.4455897148984
+E120	Peaks in short LOCKs	promoter-TSS	8.28879990973468
+E120	Peaks in short LOCKs	TTS	1.47388531978418
+E120	Typical peaks	3' UTR	0.433868870338521
+E120	Typical peaks	5' UTR	0.255589580099836
+E120	Typical peaks	exon	1.40542808003691
+E120	Typical peaks	Intergenic	59.9765929778934
+E120	Typical peaks	intron	34.6351776500692
+E120	Typical peaks	non-coding	0.553504761105751
+E120	Typical peaks	promoter-TSS	2.00989974411678
+E120	Typical peaks	TTS	0.729938336339612
+E121	Peaks in long LOCKs	3' UTR	0.778870889545225
+E121	Peaks in long LOCKs	5' UTR	0.17558973733003
+E121	Peaks in long LOCKs	exon	1.48676171948316
+E121	Peaks in long LOCKs	Intergenic	55.7106796489607
+E121	Peaks in long LOCKs	intron	38.0160179940625
+E121	Peaks in long LOCKs	non-coding	0.70367562557786
+E121	Peaks in long LOCKs	promoter-TSS	1.98224857738526
+E121	Peaks in long LOCKs	TTS	1.14615580765528
+E121	Peaks in short LOCKs	3' UTR	0.8779740057702
+E121	Peaks in short LOCKs	5' UTR	0.389850895425897
+E121	Peaks in short LOCKs	exon	2.89142848312046
+E121	Peaks in short LOCKs	Intergenic	53.24558450222
+E121	Peaks in short LOCKs	intron	35.4170001217916
+E121	Peaks in short LOCKs	non-coding	0.923504198498983
+E121	Peaks in short LOCKs	promoter-TSS	4.54861858510529
+E121	Peaks in short LOCKs	TTS	1.70603920806754
+E121	Typical peaks	3' UTR	0.543622498126027
+E121	Typical peaks	5' UTR	0.227703990211584
+E121	Typical peaks	exon	1.74013756293223
+E121	Typical peaks	Intergenic	63.4626663203819
+E121	Typical peaks	intron	30.8137899366401
+E121	Typical peaks	non-coding	0.498527816343313
+E121	Typical peaks	promoter-TSS	1.92918287981969
+E121	Typical peaks	TTS	0.784368995545089
+E122	Peaks in long LOCKs	3' UTR	1.05137555081774
+E122	Peaks in long LOCKs	5' UTR	0.34854226719957
+E122	Peaks in long LOCKs	exon	1.63731602961913
+E122	Peaks in long LOCKs	Intergenic	55.9236910400387
+E122	Peaks in long LOCKs	intron	34.7355810178374
+E122	Peaks in long LOCKs	non-coding	0.939234102937449
+E122	Peaks in long LOCKs	promoter-TSS	3.68267859294431
+E122	Peaks in long LOCKs	TTS	1.68158139860566
+E122	Peaks in short LOCKs	3' UTR	1.69239917313695
+E122	Peaks in short LOCKs	5' UTR	0.609370638590474
+E122	Peaks in short LOCKs	exon	2.61502331592409
+E122	Peaks in short LOCKs	Intergenic	52.8360359923544
+E122	Peaks in short LOCKs	intron	33.0856391741399
+E122	Peaks in short LOCKs	non-coding	1.09339836297853
+E122	Peaks in short LOCKs	promoter-TSS	6.14735717159567
+E122	Peaks in short LOCKs	TTS	1.92077617128001
+E122	Typical peaks	3' UTR	0.830608307350421
+E122	Typical peaks	5' UTR	0.457126609909718
+E122	Typical peaks	exon	1.78921867772161
+E122	Typical peaks	Intergenic	58.2497825535337
+E122	Typical peaks	intron	31.8908902259708
+E122	Typical peaks	non-coding	0.620476638245947
+E122	Typical peaks	promoter-TSS	4.98345698692621
+E122	Typical peaks	TTS	1.17844000034163
+E124	Peaks in long LOCKs	3' UTR	1.34373150528709
+E124	Peaks in long LOCKs	5' UTR	0.621560070651446
+E124	Peaks in long LOCKs	exon	2.80619641843064
+E124	Peaks in long LOCKs	Intergenic	46.6846916169317
+E124	Peaks in long LOCKs	intron	39.1069405466036
+E124	Peaks in long LOCKs	non-coding	1.06036657942957
+E124	Peaks in long LOCKs	promoter-TSS	6.61451834420838
+E124	Peaks in long LOCKs	TTS	1.76199491845766
+E124	Peaks in short LOCKs	3' UTR	1.54385048943372
+E124	Peaks in short LOCKs	5' UTR	1.89727309350122
+E124	Peaks in short LOCKs	exon	3.379707802375
+E124	Peaks in short LOCKs	Intergenic	42.5947182304821
+E124	Peaks in short LOCKs	intron	37.0033175300548
+E124	Peaks in short LOCKs	non-coding	1.26023769282334
+E124	Peaks in short LOCKs	promoter-TSS	10.4043746570761
+E124	Peaks in short LOCKs	TTS	1.91652050425367
+E124	Typical peaks	3' UTR	0.931669657175076
+E124	Typical peaks	5' UTR	2.39111055949984
+E124	Typical peaks	exon	4.97742758748225
+E124	Typical peaks	Intergenic	37.2981695354152
+E124	Typical peaks	intron	36.4995701782258
+E124	Typical peaks	non-coding	1.18486633177589
+E124	Typical peaks	promoter-TSS	15.540815934274
+E124	Typical peaks	TTS	1.17637021615201
+E125	Peaks in long LOCKs	3' UTR	1.21180358272198
+E125	Peaks in long LOCKs	5' UTR	0.233638631748554
+E125	Peaks in long LOCKs	exon	1.53691701382706
+E125	Peaks in long LOCKs	Intergenic	51.7699353660223
+E125	Peaks in long LOCKs	intron	38.4080449982385
+E125	Peaks in long LOCKs	non-coding	1.060264516466
+E125	Peaks in long LOCKs	promoter-TSS	3.78179036090664
+E125	Peaks in long LOCKs	TTS	1.99760553006896
+E125	Peaks in short LOCKs	3' UTR	1.45642900839956
+E125	Peaks in short LOCKs	5' UTR	0.883112202683594
+E125	Peaks in short LOCKs	exon	2.75832683576761
+E125	Peaks in short LOCKs	Intergenic	47.0543177936429
+E125	Peaks in short LOCKs	intron	36.4953489863194
+E125	Peaks in short LOCKs	non-coding	1.29928117112626
+E125	Peaks in short LOCKs	promoter-TSS	7.55552066680567
+E125	Peaks in short LOCKs	TTS	2.497663335255
+E125	Typical peaks	3' UTR	0.585131852761831
+E125	Typical peaks	5' UTR	0.122695952319536
+E125	Typical peaks	exon	1.32149667881271
+E125	Typical peaks	Intergenic	60.2051148024119
+E125	Typical peaks	intron	34.4360335772376
+E125	Typical peaks	non-coding	0.627946839822779
+E125	Typical peaks	promoter-TSS	1.83960719140493
+E125	Typical peaks	TTS	0.861973105228799
+E126	Peaks in long LOCKs	3' UTR	1.44869635538717
+E126	Peaks in long LOCKs	5' UTR	0.33142076604158
+E126	Peaks in long LOCKs	exon	1.86440465468342
+E126	Peaks in long LOCKs	Intergenic	51.2749557532475
+E126	Peaks in long LOCKs	intron	35.6921702176718
+E126	Peaks in long LOCKs	non-coding	1.1278097799734
+E126	Peaks in long LOCKs	promoter-TSS	5.98919166826769
+E126	Peaks in long LOCKs	TTS	2.27135080472741
+E126	Peaks in short LOCKs	3' UTR	2.04941969035644
+E126	Peaks in short LOCKs	5' UTR	0.796047318777118
+E126	Peaks in short LOCKs	exon	2.70483757035148
+E126	Peaks in short LOCKs	Intergenic	44.5139814834965
+E126	Peaks in short LOCKs	intron	35.487612434442
+E126	Peaks in short LOCKs	non-coding	1.85012113188171
+E126	Peaks in short LOCKs	promoter-TSS	10.0899710800941
+E126	Peaks in short LOCKs	TTS	2.50800929060065
+E126	Typical peaks	3' UTR	0.520844087069898
+E126	Typical peaks	5' UTR	0.259466155840283
+E126	Typical peaks	exon	1.54723805809503
+E126	Typical peaks	Intergenic	59.4113261221166
+E126	Typical peaks	intron	31.8692192691665
+E126	Typical peaks	non-coding	0.680668509618142
+E126	Typical peaks	promoter-TSS	4.72713229868049
+E126	Typical peaks	TTS	0.984105499413085
+E127	Peaks in long LOCKs	3' UTR	1.20845498056891
+E127	Peaks in long LOCKs	5' UTR	0.338021274195866
+E127	Peaks in long LOCKs	exon	2.98140780307041
+E127	Peaks in long LOCKs	Intergenic	48.3933554666979
+E127	Peaks in long LOCKs	intron	40.2061466967496
+E127	Peaks in long LOCKs	non-coding	1.04916180428444
+E127	Peaks in long LOCKs	promoter-TSS	4.03090080225384
+E127	Peaks in long LOCKs	TTS	1.79255117217902
+E127	Peaks in short LOCKs	3' UTR	1.35058277119149
+E127	Peaks in short LOCKs	5' UTR	1.22661958872446
+E127	Peaks in short LOCKs	exon	4.77946676964187
+E127	Peaks in short LOCKs	Intergenic	41.8065443048702
+E127	Peaks in short LOCKs	intron	37.9851648035936
+E127	Peaks in short LOCKs	non-coding	1.31933469349791
+E127	Peaks in short LOCKs	promoter-TSS	9.664278855101
+E127	Peaks in short LOCKs	TTS	1.86800821337946
+E127	Typical peaks	3' UTR	0.59460418030677
+E127	Typical peaks	5' UTR	0.796001926616599
+E127	Typical peaks	exon	2.82397088558189
+E127	Typical peaks	Intergenic	57.6153428239791
+E127	Typical peaks	intron	32.6925402489386
+E127	Typical peaks	non-coding	0.901811754259805
+E127	Typical peaks	promoter-TSS	3.91369792209089
+E127	Typical peaks	TTS	0.662030258226332
+E128	Peaks in long LOCKs	3' UTR	1.30057178527266
+E128	Peaks in long LOCKs	5' UTR	0.36220349046582
+E128	Peaks in long LOCKs	exon	2.76846051743617
+E128	Peaks in long LOCKs	Intergenic	51.2344955356378
+E128	Peaks in long LOCKs	intron	36.5000399625725
+E128	Peaks in long LOCKs	non-coding	1.11321468744232
+E128	Peaks in long LOCKs	promoter-TSS	4.71777332470159
+E128	Peaks in long LOCKs	TTS	2.00324069647111
+E128	Peaks in short LOCKs	3' UTR	1.20240162326054
+E128	Peaks in short LOCKs	5' UTR	0.831077106098602
+E128	Peaks in short LOCKs	exon	3.7220105175998
+E128	Peaks in short LOCKs	Intergenic	45.4622483343464
+E128	Peaks in short LOCKs	intron	36.7347632126719
+E128	Peaks in short LOCKs	non-coding	1.4278272963202
+E128	Peaks in short LOCKs	promoter-TSS	8.45626221457757
+E128	Peaks in short LOCKs	TTS	2.16340969512496
+E128	Typical peaks	3' UTR	0.521948178738891
+E128	Typical peaks	5' UTR	0.541657308649558
+E128	Typical peaks	exon	2.33845388751129
+E128	Typical peaks	Intergenic	60.8097702282134
+E128	Typical peaks	intron	31.0636799695654
+E128	Typical peaks	non-coding	0.661201202715276
+E128	Typical peaks	promoter-TSS	3.17947225367025
+E128	Typical peaks	TTS	0.883816970935909
+E129	Peaks in long LOCKs	3' UTR	1.05957389260875
+E129	Peaks in long LOCKs	5' UTR	0.184997075753378
+E129	Peaks in long LOCKs	exon	1.54582009348506
+E129	Peaks in long LOCKs	Intergenic	53.6778746807676
+E129	Peaks in long LOCKs	intron	37.9638980434545
+E129	Peaks in long LOCKs	non-coding	0.870413739266198
+E129	Peaks in long LOCKs	promoter-TSS	2.97276918333538
+E129	Peaks in long LOCKs	TTS	1.72465329132914
+E129	Peaks in short LOCKs	3' UTR	1.32834420514384
+E129	Peaks in short LOCKs	5' UTR	0.587350680235138
+E129	Peaks in short LOCKs	exon	2.54259439371247
+E129	Peaks in short LOCKs	Intergenic	52.2353792852602
+E129	Peaks in short LOCKs	intron	33.8088309404057
+E129	Peaks in short LOCKs	non-coding	1.19856358468131
+E129	Peaks in short LOCKs	promoter-TSS	6.37865426701505
+E129	Peaks in short LOCKs	TTS	1.92028264354625
+E129	Typical peaks	3' UTR	0.583178461589066
+E129	Typical peaks	5' UTR	0.113135865006661
+E129	Typical peaks	exon	1.28113744387612
+E129	Typical peaks	Intergenic	63.2527177935299
+E129	Typical peaks	intron	31.1266220416756
+E129	Typical peaks	non-coding	0.583490946170419
+E129	Typical peaks	promoter-TSS	2.1430850451458
+E129	Typical peaks	TTS	0.916632403006431

@@ -1,0 +1,55 @@
+LOCK_group	PMD_length.SIL	signal	sample	TorN	cellName	TorN1	sample_TorN
+Tumor-loss LOCK	I	0.663044219034485	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-loss LOCK	L	0.687078323950721	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-loss LOCK	S	0.690983601300914	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Shared LOCK	I	0.67719963049304	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Shared LOCK	L	0.665440228024554	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Shared LOCK	S	0.622262956728322	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-gain LOCK	I	0.576992816834338	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-gain LOCK	L	0.600940439604798	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-gain LOCK	S	0.719658787520242	breastNormalVsLuminalA.N.HMEC.WGBS.rmCGI.bdg	N	HMEC	normal	HMEC
+(normal)
+Tumor-loss LOCK	I	0.522554621272002	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-loss LOCK	L	0.546864446053225	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-loss LOCK	S	0.565102384197953	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Shared LOCK	I	0.472749541588058	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Shared LOCK	L	0.50745784616344	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Shared LOCK	S	0.472225874875869	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-gain LOCK	I	0.387165466339769	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-gain LOCK	L	0.382127208662087	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-gain LOCK	S	0.61128207944165	breastNormalVsLuminalA.N.MCF10A_96850.WGBS.rmCGI.bdg	N	MCF10A_96850	normal	MCF10A_96850
+(normal)
+Tumor-loss LOCK	I	0.545333475461482	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Tumor-loss LOCK	L	0.443146991115451	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Tumor-loss LOCK	S	0.683583767542464	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Shared LOCK	I	0.363044670274069	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Shared LOCK	L	0.268371718282215	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Shared LOCK	S	0.354332852204788	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Tumor-gain LOCK	I	0.211710629706407	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Tumor-gain LOCK	L	0.166140042875903	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)
+Tumor-gain LOCK	S	0.137183540213077	breastNormalVsLuminalA.T.MCF7.WGBS.rmCGI.bdg	T	MCF7	tumor	MCF7
+(tumor)

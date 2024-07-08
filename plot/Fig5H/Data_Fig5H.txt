@@ -1,0 +1,25 @@
+group	Freq.CGI_promoter	Freq.poised_promoter	poised_ratio	tissue_type
+Hypermethylated	157	4	0.0254777070063694	NE2 vs KYSE450
+(ESCC)
+Upregulated	81	18	0.222222222222222	NE2 vs KYSE450
+(ESCC)
+Hypermethylated	293	22	0.0750853242320819	NE2 vs KYSE510
+(ESCC)
+Upregulated	77	15	0.194805194805195	NE2 vs KYSE510
+(ESCC)
+Hypermethylated	64	6	0.09375	MCF10A vs HCC1954
+(BRCA Her2+)
+Upregulated	78	14	0.179487179487179	MCF10A vs HCC1954
+(BRCA Her2+)
+Hypermethylated	29	2	0.0689655172413793	MCF10A vs MCF7
+(BRCA Luminal A)
+Upregulated	78	8	0.102564102564103	MCF10A vs MCF7
+(BRCA Luminal A)
+Hypermethylated	15	0	0	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Upregulated	64	8	0.125	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Hypermethylated	69	3	0.0434782608695652	MCF10A vs MB231
+(BRCA TN-CL)
+Upregulated	53	5	0.0943396226415094	MCF10A vs MB231
+(BRCA TN-CL)

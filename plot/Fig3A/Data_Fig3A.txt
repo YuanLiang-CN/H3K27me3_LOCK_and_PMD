@@ -1,0 +1,85 @@
+tissue_type	TorN	MD_anno	enrichmentScore	HisMark
+NE2 vs KYSE450 (ESCC)	Normal
+cell lines	common HMD	0.0199644108806788	H3K27me3
+NE2 vs KYSE450 (ESCC)	Normal
+cell lines	common PMD	0.0397263311829908	H3K27me3
+NE2 vs KYSE450 (ESCC)	Tumor
+cell lines	common HMD	0.00170475395198448	H3K27me3
+NE2 vs KYSE450 (ESCC)	Tumor
+cell lines	common PMD	0.0620574877905384	H3K27me3
+NE2 vs KYSE510 (ESCC)	Normal
+cell lines	common HMD	0.0199644108806788	H3K27me3
+NE2 vs KYSE510 (ESCC)	Normal
+cell lines	common PMD	0.0397263311829908	H3K27me3
+NE2 vs KYSE510 (ESCC)	Tumor
+cell lines	common HMD	0.00378054386736785	H3K27me3
+NE2 vs KYSE510 (ESCC)	Tumor
+cell lines	common PMD	0.059256526656767	H3K27me3
+Normal vs Her2+ (BRCA)	Normal
+cell lines	common HMD	0.0171576711372735	H3K27me3
+Normal vs Her2+ (BRCA)	Normal
+cell lines	common PMD	0.0388607350797187	H3K27me3
+Normal vs Her2+ (BRCA)	Normal
+cell lines	common HMD	0.0132602062881571	H3K27me3
+Normal vs Her2+ (BRCA)	Normal
+cell lines	common PMD	0.0458430201291695	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common HMD	0.00540234278467922	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common PMD	0.0562501053805098	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common HMD	0.0010441982440355	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common PMD	0.0681980968435785	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common HMD	0.00708115785865902	H3K27me3
+Normal vs Her2+ (BRCA)	Tumor
+cell lines	common PMD	0.0498009209346776	H3K27me3
+Normal vs Luminal A (BRCA)	Normal
+cell lines	common HMD	0.0171576711372735	H3K27me3
+Normal vs Luminal A (BRCA)	Normal
+cell lines	common PMD	0.0388607350797187	H3K27me3
+Normal vs Luminal A (BRCA)	Normal
+cell lines	common HMD	0.0132602062881571	H3K27me3
+Normal vs Luminal A (BRCA)	Normal
+cell lines	common PMD	0.0458430201291695	H3K27me3
+Normal vs Luminal A (BRCA)	Tumor
+cell lines	common HMD	0.000703890990004418	H3K27me3
+Normal vs Luminal A (BRCA)	Tumor
+cell lines	common PMD	0.0658333368173564	H3K27me3
+Normal vs Luminal A (BRCA)	Tumor
+cell lines	common HMD	0.00102510227995876	H3K27me3
+Normal vs Luminal A (BRCA)	Tumor
+cell lines	common PMD	0.0655951371541319	H3K27me3
+Normal vs TN-Basal (BRCA)	Normal
+cell lines	common HMD	0.0171576711372735	H3K27me3
+Normal vs TN-Basal (BRCA)	Normal
+cell lines	common PMD	0.0388607350797187	H3K27me3
+Normal vs TN-Basal (BRCA)	Normal
+cell lines	common HMD	0.0132602062881571	H3K27me3
+Normal vs TN-Basal (BRCA)	Normal
+cell lines	common PMD	0.0458430201291695	H3K27me3
+Normal vs TN-Basal (BRCA)	Tumor
+cell lines	common HMD	0.0073600741622635	H3K27me3
+Normal vs TN-Basal (BRCA)	Tumor
+cell lines	common PMD	0.0542449717367239	H3K27me3
+Normal vs TN-Basal (BRCA)	Tumor
+cell lines	common HMD	0.00112486769659505	H3K27me3
+Normal vs TN-Basal (BRCA)	Tumor
+cell lines	common PMD	0.0660231089358116	H3K27me3
+Normal vs TN-CL (BRCA)	Normal
+cell lines	common HMD	0.0171576711372735	H3K27me3
+Normal vs TN-CL (BRCA)	Normal
+cell lines	common PMD	0.0388607350797187	H3K27me3
+Normal vs TN-CL (BRCA)	Normal
+cell lines	common HMD	0.0132602062881571	H3K27me3
+Normal vs TN-CL (BRCA)	Normal
+cell lines	common PMD	0.0458430201291695	H3K27me3
+Normal vs TN-CL (BRCA)	Tumor
+cell lines	common HMD	0.00862810298608515	H3K27me3
+Normal vs TN-CL (BRCA)	Tumor
+cell lines	common PMD	0.0444763642340235	H3K27me3
+Normal vs TN-CL (BRCA)	Tumor
+cell lines	common HMD	0.00187959041895091	H3K27me3
+Normal vs TN-CL (BRCA)	Tumor
+cell lines	common PMD	0.0668377942825691	H3K27me3

@@ -1,0 +1,67 @@
+LOCK_length	OG_TSG_anno	sample	TorN	FPKM	PMD_length_anno
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.00823793398305283	Within S
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0.00475183157201012	Within S
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0.0112871579992631	Within S
+Within long LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0.130531583660869	Within S
+Within long LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0.00541434479275408	Within S
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0.00202861109222659	Within S
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0.00540196757309215	Within S
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0	Within S
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0	Within S
+Within long LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0.00835194124919598	Within S
+Within long LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0	Within S
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.0383672665149788	Within S
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0.0115236120532586	Within S
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0.0138058419160063	Within S
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0.0723193996709297	Within S
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0.0471162606508225	Within S
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0.114847916663574	Within S
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0.0505112554913524	Within S
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0.0925081304852013	Within S
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0.109024177442491	Within S
+Outside of long or short LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0.0386701737242157	Within S
+Outside of long or short LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0.056486409359663	Within S
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.00345838055206936	Within I
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0.0040585355562564	Within I
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0	Within I
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0	Within I
+Within long LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0	Within I
+Within long LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0	Within I
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.00909750200871574	Within I
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0	Within I
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0.00660346101108967	Within I
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0.00237051335357744	Within I
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0.00465471080785921	Within I
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0	Within I
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0.00962349866347097	Within I
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0.00534039604354949	Within I
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0.0313840278574272	Within I
+Outside of long or short LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0.00574467957552739	Within I
+Outside of long or short LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0.00360908058802755	Within I
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.0138193214708934	Within L
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0	Within L
+Within long LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0.00790269960930243	Within L
+Within long LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0.00251887626929363	Within L
+Within long LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0	Within L
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0	Within L
+Within long LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0	Within L
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0.00258617428872635	Within L
+Within long LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0	Within L
+Within long LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0.00159876372547812	Within L
+Within long LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0.00186439027579864	Within L
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.AU565.RNASeq	T	0.00693460038598032	Within L
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.HCC1954.RNASeq	T	0.00105506734360061	Within L
+Outside of long or short LOCKs	OG	breastNormalVsHer2Pos.T.SKBR3.RNASeq	T	0.00318750678934235	Within L
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.MCF_7.RNASeq	T	0.00294006334738576	Within L
+Outside of long or short LOCKs	OG	breastNormalVsLuminalA.T.ZR751.RNASeq	T	0.0149577810427282	Within L
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.HCC1937.RNASeq	T	0	Within L
+Outside of long or short LOCKs	OG	breastNormalVsTN_Basal.T.MB468.RNASeq	T	0.00632408542342815	Within L
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_231.RNASeq	T	0.00491136707244301	Within L
+Outside of long or short LOCKs	OG	breastNormalVsTN_CL.T.MDA_MB_436.RNASeq	T	0.0763850913519011	Within L
+Outside of long or short LOCKs	OG	NE2_KYSE450.T.KYSE450.RNASeq	T	0.0206449163286303	Within L
+Outside of long or short LOCKs	OG	NE2_KYSE510.T.KYSE510.RNASeq	T	0.0044460373618115	Within L

@@ -1,0 +1,61 @@
+EID	Peak_group	DNA_methylation
+E006	Peaks in long LOCKs	0.8
+E006	Peaks in short LOCKs	0.775
+E006	Typical peaks	0.843333333333333
+E050	Peaks in long LOCKs	0.9
+E050	Peaks in short LOCKs	0.906111111111111
+E050	Typical peaks	0.924
+E058	Peaks in long LOCKs	0.755
+E058	Peaks in short LOCKs	0.76
+E058	Typical peaks	0.79
+E065	Peaks in long LOCKs	0.83
+E065	Peaks in short LOCKs	0.855
+E065	Typical peaks	0.9
+E066	Peaks in long LOCKs	0.6825
+E066	Peaks in short LOCKs	0.698
+E066	Typical peaks	0.7475
+E079	Peaks in long LOCKs	0.77
+E079	Peaks in short LOCKs	0.752916666666667
+E079	Typical peaks	0.85
+E084	Peaks in long LOCKs	0.83
+E084	Peaks in short LOCKs	0.82
+E084	Typical peaks	0.86
+E085	Peaks in long LOCKs	0.833333333333333
+E085	Peaks in short LOCKs	0.818333285714286
+E085	Typical peaks	0.88
+E094	Peaks in long LOCKs	0.84
+E094	Peaks in short LOCKs	0.85
+E094	Typical peaks	0.88
+E095	Peaks in long LOCKs	0.77
+E095	Peaks in short LOCKs	0.77
+E095	Typical peaks	0.836666666666667
+E096	Peaks in long LOCKs	0.796666666666667
+E096	Peaks in short LOCKs	0.795
+E096	Typical peaks	0.87
+E097	Peaks in long LOCKs	0.758685133333333
+E097	Peaks in short LOCKs	0.78
+E097	Typical peaks	0.846666666666667
+E098	Peaks in long LOCKs	0.69
+E098	Peaks in short LOCKs	0.74225
+E098	Typical peaks	0.78
+E100	Peaks in long LOCKs	0.748
+E100	Peaks in short LOCKs	0.73
+E100	Typical peaks	0.84
+E104	Peaks in long LOCKs	0.78
+E104	Peaks in short LOCKs	0.78
+E104	Typical peaks	0.83
+E105	Peaks in long LOCKs	0.788333333333333
+E105	Peaks in short LOCKs	0.795
+E105	Typical peaks	0.85
+E106	Peaks in long LOCKs	0.82
+E106	Peaks in short LOCKs	0.801666708333333
+E106	Typical peaks	0.88
+E109	Peaks in long LOCKs	0.7925
+E109	Peaks in short LOCKs	0.77375
+E109	Typical peaks	0.85
+E112	Peaks in long LOCKs	0.835
+E112	Peaks in short LOCKs	0.773541666666667
+E112	Typical peaks	0.836666666666667
+E113	Peaks in long LOCKs	0.765277833333333
+E113	Peaks in short LOCKs	0.69
+E113	Typical peaks	0.84

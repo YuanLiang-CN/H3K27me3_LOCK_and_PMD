@@ -1,0 +1,25 @@
+group	prom_number	tissue_type
+Hypermethylated	157	NE2 vs KYSE450
+(ESCC)
+Upregulated	81	NE2 vs KYSE450
+(ESCC)
+Hypermethylated	293	NE2 vs KYSE510
+(ESCC)
+Upregulated	77	NE2 vs KYSE510
+(ESCC)
+Hypermethylated	64	MCF10A vs HCC1954
+(BRCA Her2+)
+Upregulated	78	MCF10A vs HCC1954
+(BRCA Her2+)
+Hypermethylated	29	MCF10A vs MCF7
+(BRCA Luminal A)
+Upregulated	78	MCF10A vs MCF7
+(BRCA Luminal A)
+Hypermethylated	15	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Upregulated	64	MCF10A vs HCC1937
+(BRCA TN-Basal)
+Hypermethylated	69	MCF10A vs MB231
+(BRCA TN-CL)
+Upregulated	53	MCF10A vs MB231
+(BRCA TN-CL)

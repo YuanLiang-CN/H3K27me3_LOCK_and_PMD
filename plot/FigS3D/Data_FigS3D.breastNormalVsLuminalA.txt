@@ -1,0 +1,55 @@
+MD_anno	group	sample_TorN	metSignal
+common HMD	Tumor-loss LOCK	HMEC
+(normal)	75.48370990776
+common PMD	Tumor-loss LOCK	HMEC
+(normal)	68.3747195915807
+common PMD	Shared LOCK	HMEC
+(normal)	65.30989815429
+common HMD	Tumor-gain LOCK	HMEC
+(normal)	72.6762296
+common PMD	Tumor-gain LOCK	HMEC
+(normal)	59.9168857211026
+Genome	Tumor-loss LOCK	HMEC
+(normal)	70.6409760703838
+Genome	Shared LOCK	HMEC
+(normal)	65.3321933080548
+Genome	Tumor-gain LOCK	HMEC
+(normal)	59.911558313864
+common HMD	Tumor-loss LOCK	MCF10A
+(normal)	69.1497599317409
+common PMD	Tumor-loss LOCK	MCF10A
+(normal)	55.4369421100108
+common PMD	Shared LOCK	MCF10A
+(normal)	48.6931315566991
+common HMD	Tumor-gain LOCK	MCF10A
+(normal)	65.3469866666667
+common PMD	Tumor-gain LOCK	MCF10A
+(normal)	38.5449958337203
+Genome	Tumor-loss LOCK	MCF10A
+(normal)	60.2325994407907
+Genome	Shared LOCK	MCF10A
+(normal)	48.8022924464162
+Genome	Tumor-gain LOCK	MCF10A
+(normal)	38.6135486436143
+common HMD	Tumor-loss LOCK	MCF7
+(tumor)	77.9691419065598
+common PMD	Tumor-loss LOCK	MCF7
+(tumor)	61.0135164632714
+common PMD	Shared LOCK	MCF7
+(tumor)	33.1898437173075
+common HMD	Tumor-gain LOCK	MCF7
+(tumor)	53.9052485915493
+common PMD	Tumor-gain LOCK	MCF7
+(tumor)	17.0146746843773
+Genome	Tumor-loss LOCK	MCF7
+(tumor)	67.7629325308853
+Genome	Shared LOCK	MCF7
+(tumor)	32.800551333043
+Genome	Tumor-gain LOCK	MCF7
+(tumor)	17.2196414958088
+common HMD	Shared LOCK	HMEC
+(normal)	NA
+common HMD	Shared LOCK	MCF10A
+(normal)	NA
+common HMD	Shared LOCK	MCF7
+(tumor)	NA

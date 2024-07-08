@@ -1,0 +1,10 @@
+group	MD_anno	d
+Shared LOCKs	common HMDs	211136
+Shared LOCKs	common PMDs	25988552
+Shared LOCKs	Others	2736151
+Tumor-gain LOCKs	common HMDs	127262
+Tumor-gain LOCKs	common PMDs	47681266
+Tumor-gain LOCKs	Others	2724116
+Tumor-loss LOCKs	common HMDs	9505912
+Tumor-loss LOCKs	common PMDs	46297893
+Tumor-loss LOCKs	Others	56275397

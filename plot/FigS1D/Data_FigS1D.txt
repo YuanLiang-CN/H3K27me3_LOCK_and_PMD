@@ -1,0 +1,328 @@
+Peak_group	Number_of_peaks	EID
+Peaks in long LOCKs	217227	E017
+Peaks in short LOCKs	39313	E017
+Typical peaks	25484	E017
+Peaks in long LOCKs	44607	E007
+Peaks in short LOCKs	1205	E007
+Typical peaks	7191	E007
+Peaks in long LOCKs	153591	E009
+Peaks in short LOCKs	27067	E009
+Typical peaks	19602	E009
+Peaks in long LOCKs	174429	E010
+Peaks in short LOCKs	32330	E010
+Typical peaks	25529	E010
+Peaks in long LOCKs	137240	E013
+Peaks in short LOCKs	19961	E013
+Typical peaks	42583	E013
+Peaks in long LOCKs	50903	E012
+Peaks in short LOCKs	5371	E012
+Typical peaks	17843	E012
+Peaks in long LOCKs	78139	E011
+Peaks in short LOCKs	16434	E011
+Typical peaks	10145	E011
+Peaks in long LOCKs	58434	E004
+Peaks in short LOCKs	3269	E004
+Typical peaks	13770	E004
+Peaks in long LOCKs	51487	E005
+Peaks in short LOCKs	3992	E005
+Typical peaks	18046	E005
+Peaks in long LOCKs	80322	E006
+Peaks in short LOCKs	20157	E006
+Typical peaks	15596	E006
+Peaks in long LOCKs	91680	E062
+Peaks in short LOCKs	10328	E062
+Typical peaks	12450	E062
+Peaks in long LOCKs	281116	E034
+Peaks in short LOCKs	47314	E034
+Typical peaks	53315	E034
+Peaks in long LOCKs	90982	E045
+Peaks in short LOCKs	6688	E045
+Typical peaks	11971	E045
+Peaks in long LOCKs	26657	E033
+Peaks in short LOCKs	8233	E033
+Typical peaks	3564	E033
+Peaks in long LOCKs	159373	E044
+Peaks in short LOCKs	15399	E044
+Typical peaks	9338	E044
+Peaks in long LOCKs	131966	E043
+Peaks in short LOCKs	18708	E043
+Typical peaks	12008	E043
+Peaks in long LOCKs	90843	E039
+Peaks in short LOCKs	10729	E039
+Typical peaks	9714	E039
+Peaks in long LOCKs	149340	E041
+Peaks in short LOCKs	15965	E041
+Typical peaks	12088	E041
+Peaks in long LOCKs	107011	E042
+Peaks in short LOCKs	12084	E042
+Typical peaks	9881	E042
+Peaks in long LOCKs	62130	E040
+Peaks in short LOCKs	4996	E040
+Typical peaks	7866	E040
+Peaks in long LOCKs	30013	E037
+Peaks in short LOCKs	1429	E037
+Typical peaks	4325	E037
+Peaks in long LOCKs	27785	E048
+Peaks in short LOCKs	1653	E048
+Typical peaks	4897	E048
+Peaks in long LOCKs	52872	E038
+Peaks in short LOCKs	1834	E038
+Typical peaks	7399	E038
+Peaks in long LOCKs	144138	E047
+Peaks in short LOCKs	15384	E047
+Typical peaks	13202	E047
+Peaks in long LOCKs	75012	E029
+Peaks in short LOCKs	11938	E029
+Typical peaks	13765	E029
+Peaks in long LOCKs	6710	E031
+Peaks in short LOCKs	1696	E031
+Typical peaks	1658	E031
+Peaks in long LOCKs	31899	E035
+Peaks in short LOCKs	16227	E035
+Typical peaks	6175	E035
+Peaks in long LOCKs	157742	E051
+Peaks in short LOCKs	51085	E051
+Typical peaks	21878	E051
+Peaks in long LOCKs	114672	E050
+Peaks in short LOCKs	33254	E050
+Typical peaks	18916	E050
+Peaks in long LOCKs	213454	E036
+Peaks in short LOCKs	38495	E036
+Typical peaks	36591	E036
+Peaks in long LOCKs	150408	E032
+Peaks in short LOCKs	14524	E032
+Typical peaks	11676	E032
+Peaks in long LOCKs	92737	E046
+Peaks in short LOCKs	13220	E046
+Typical peaks	8848	E046
+Peaks in long LOCKs	194493	E030
+Peaks in short LOCKs	30483	E030
+Typical peaks	24197	E030
+Peaks in long LOCKs	215745	E026
+Peaks in short LOCKs	29654	E026
+Typical peaks	18245	E026
+Peaks in long LOCKs	244270	E049
+Peaks in short LOCKs	33898	E049
+Typical peaks	20141	E049
+Peaks in long LOCKs	189754	E025
+Peaks in short LOCKs	46866	E025
+Typical peaks	30599	E025
+Peaks in long LOCKs	201509	E023
+Peaks in short LOCKs	39389	E023
+Typical peaks	31151	E023
+Peaks in long LOCKs	216024	E052
+Peaks in short LOCKs	35675	E052
+Typical peaks	24659	E052
+Peaks in long LOCKs	231706	E055
+Peaks in short LOCKs	34759	E055
+Typical peaks	31123	E055
+Peaks in long LOCKs	207357	E056
+Peaks in short LOCKs	40058	E056
+Typical peaks	39733	E056
+Peaks in long LOCKs	64518	E059
+Peaks in short LOCKs	16460	E059
+Typical peaks	18417	E059
+Peaks in long LOCKs	239131	E061
+Peaks in short LOCKs	27505	E061
+Typical peaks	31819	E061
+Peaks in long LOCKs	67742	E057
+Peaks in short LOCKs	10046	E057
+Typical peaks	18958	E057
+Peaks in long LOCKs	144051	E058
+Peaks in short LOCKs	23419	E058
+Typical peaks	28848	E058
+Peaks in long LOCKs	79754	E028
+Peaks in short LOCKs	13101	E028
+Typical peaks	24411	E028
+Peaks in long LOCKs	137741	E027
+Peaks in short LOCKs	40337	E027
+Typical peaks	45690	E027
+Peaks in long LOCKs	59359	E054
+Peaks in short LOCKs	14520	E054
+Typical peaks	12088	E054
+Peaks in long LOCKs	77498	E053
+Peaks in short LOCKs	20355	E053
+Typical peaks	12709	E053
+Peaks in long LOCKs	30130	E112
+Peaks in short LOCKs	4173	E112
+Typical peaks	9448	E112
+Peaks in long LOCKs	65509	E093
+Peaks in short LOCKs	8407	E093
+Typical peaks	13736	E093
+Peaks in long LOCKs	88771	E071
+Peaks in short LOCKs	16573	E071
+Typical peaks	21977	E071
+Peaks in long LOCKs	90617	E074
+Peaks in short LOCKs	14214	E074
+Typical peaks	22635	E074
+Peaks in long LOCKs	32038	E068
+Peaks in short LOCKs	5907	E068
+Typical peaks	9918	E068
+Peaks in long LOCKs	53637	E069
+Peaks in short LOCKs	10892	E069
+Typical peaks	12231	E069
+Peaks in long LOCKs	70701	E072
+Peaks in short LOCKs	14002	E072
+Typical peaks	18903	E072
+Peaks in long LOCKs	70535	E067
+Peaks in short LOCKs	11289	E067
+Typical peaks	17954	E067
+Peaks in long LOCKs	77969	E073
+Peaks in short LOCKs	17239	E073
+Typical peaks	25819	E073
+Peaks in long LOCKs	84535	E070
+Peaks in short LOCKs	18906	E070
+Typical peaks	27033	E070
+Peaks in long LOCKs	62654	E082
+Peaks in short LOCKs	20830	E082
+Typical peaks	11821	E082
+Peaks in long LOCKs	51777	E081
+Peaks in short LOCKs	17808	E081
+Typical peaks	8952	E081
+Peaks in long LOCKs	109747	E063
+Peaks in short LOCKs	33467	E063
+Typical peaks	31122	E063
+Peaks in long LOCKs	80926	E100
+Peaks in short LOCKs	12628	E100
+Typical peaks	23092	E100
+Peaks in long LOCKs	106281	E108
+Peaks in short LOCKs	34717	E108
+Typical peaks	25997	E108
+Peaks in long LOCKs	119509	E107
+Peaks in short LOCKs	41367	E107
+Typical peaks	28384	E107
+Peaks in long LOCKs	125295	E089
+Peaks in short LOCKs	32548	E089
+Typical peaks	38444	E089
+Peaks in long LOCKs	157841	E090
+Peaks in short LOCKs	40088	E090
+Typical peaks	36084	E090
+Peaks in long LOCKs	56607	E083
+Peaks in short LOCKs	21456	E083
+Typical peaks	14647	E083
+Peaks in long LOCKs	13509	E104
+Peaks in short LOCKs	1265	E104
+Typical peaks	3280	E104
+Peaks in long LOCKs	103669	E095
+Peaks in short LOCKs	16876	E095
+Typical peaks	28200	E095
+Peaks in long LOCKs	85967	E105
+Peaks in short LOCKs	19706	E105
+Typical peaks	32230	E105
+Peaks in long LOCKs	106300	E065
+Peaks in short LOCKs	10067	E065
+Typical peaks	15405	E065
+Peaks in long LOCKs	70341	E078
+Peaks in short LOCKs	19286	E078
+Typical peaks	16342	E078
+Peaks in long LOCKs	35350	E076
+Peaks in short LOCKs	6178	E076
+Typical peaks	10769	E076
+Peaks in long LOCKs	97471	E103
+Peaks in short LOCKs	16578	E103
+Typical peaks	32930	E103
+Peaks in long LOCKs	84446	E111
+Peaks in short LOCKs	25137	E111
+Typical peaks	21147	E111
+Peaks in long LOCKs	168302	E092
+Peaks in short LOCKs	37139	E092
+Typical peaks	43260	E092
+Peaks in long LOCKs	158735	E085
+Peaks in short LOCKs	28435	E085
+Typical peaks	27800	E085
+Peaks in long LOCKs	140977	E084
+Peaks in short LOCKs	28102	E084
+Typical peaks	21210	E084
+Peaks in long LOCKs	146181	E109
+Peaks in short LOCKs	20907	E109
+Typical peaks	30956	E109
+Peaks in long LOCKs	127205	E106
+Peaks in short LOCKs	14621	E106
+Typical peaks	26876	E106
+Peaks in long LOCKs	107243	E075
+Peaks in short LOCKs	23263	E075
+Typical peaks	35363	E075
+Peaks in long LOCKs	111164	E101
+Peaks in short LOCKs	20763	E101
+Typical peaks	21911	E101
+Peaks in long LOCKs	79761	E102
+Peaks in short LOCKs	15817	E102
+Typical peaks	15293	E102
+Peaks in long LOCKs	82624	E110
+Peaks in short LOCKs	18833	E110
+Typical peaks	16133	E110
+Peaks in long LOCKs	109256	E077
+Peaks in short LOCKs	20009	E077
+Typical peaks	20910	E077
+Peaks in long LOCKs	61970	E079
+Peaks in short LOCKs	6823	E079
+Typical peaks	15877	E079
+Peaks in long LOCKs	35814	E094
+Peaks in short LOCKs	1201	E094
+Typical peaks	3681	E094
+Peaks in long LOCKs	26749	E099
+Peaks in short LOCKs	8422	E099
+Typical peaks	4837	E099
+Peaks in long LOCKs	23793	E086
+Peaks in short LOCKs	12788	E086
+Typical peaks	5460	E086
+Peaks in long LOCKs	99461	E088
+Peaks in short LOCKs	29427	E088
+Typical peaks	15586	E088
+Peaks in long LOCKs	70956	E097
+Peaks in short LOCKs	8500	E097
+Typical peaks	13877	E097
+Peaks in long LOCKs	45757	E087
+Peaks in short LOCKs	6537	E087
+Typical peaks	12671	E087
+Peaks in long LOCKs	202408	E080
+Peaks in short LOCKs	35133	E080
+Typical peaks	47118	E080
+Peaks in long LOCKs	70350	E091
+Peaks in short LOCKs	16592	E091
+Typical peaks	19151	E091
+Peaks in long LOCKs	81706	E066
+Peaks in short LOCKs	9416	E066
+Typical peaks	13040	E066
+Peaks in long LOCKs	29581	E098
+Peaks in short LOCKs	814	E098
+Typical peaks	3030	E098
+Peaks in long LOCKs	47479	E096
+Peaks in short LOCKs	7167	E096
+Typical peaks	13470	E096
+Peaks in long LOCKs	39145	E113
+Peaks in short LOCKs	3822	E113
+Typical peaks	13689	E113
+Peaks in long LOCKs	13567	E116
+Peaks in short LOCKs	840	E116
+Typical peaks	2663	E116
+Peaks in long LOCKs	140107	E119
+Peaks in short LOCKs	12757	E119
+Typical peaks	14827	E119
+Peaks in long LOCKs	100514	E120
+Peaks in short LOCKs	12916	E120
+Typical peaks	11841	E120
+Peaks in long LOCKs	289763	E121
+Peaks in short LOCKs	32332	E121
+Typical peaks	23349	E121
+Peaks in long LOCKs	138943	E122
+Peaks in short LOCKs	23472	E122
+Typical peaks	11374	E122
+Peaks in long LOCKs	105216	E124
+Peaks in short LOCKs	18299	E124
+Typical peaks	16465	E124
+Peaks in long LOCKs	141627	E125
+Peaks in short LOCKs	29495	E125
+Typical peaks	25100	E125
+Peaks in long LOCKs	51083	E126
+Peaks in short LOCKs	10856	E126
+Typical peaks	6506	E126
+Peaks in long LOCKs	163516	E127
+Peaks in short LOCKs	28227	E127
+Typical peaks	26646	E127
+Peaks in long LOCKs	97977	E128
+Peaks in short LOCKs	17288	E128
+Typical peaks	12883	E128
+Peaks in long LOCKs	213726	E129
+Peaks in short LOCKs	43379	E129
+Typical peaks	26049	E129
